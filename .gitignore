@@ -1,0 +1,8 @@
+# Mac 系統檔
+.DS_Store
+
+# 編輯器設定
+.vscode/
+
+# 暫存檔
+*.tmp

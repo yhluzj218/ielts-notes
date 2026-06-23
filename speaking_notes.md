@@ -60,3 +60,31 @@
 - 自錄 Part 2，強迫講滿 2 分鐘，講不滿就重來
 - 詞彙「邊講邊學」：卡住的詞才學，一次 5 個
 - 自問自答（例如描述 art）→ 這個方法老師認可，繼續做
+
+## ❌ 不要做（Matt 明確強調，2026-06-01 起）
+- 不要跟讀/仿效母語者（複製母語者說法反而干擾你的自然溝通）
+- 不要看社群媒體/YouTube 的 IELTS 備考內容（那些「技巧」是考官不想看到的）
+- 不要背稿/背答案（考官故意問意外問題，要看你如何應對）
+
+## 連讀 / 自然語調（Pronunciation 核心）
+- 「You're pronouncing words too individually / too correctly.」（Matt，試聽課）
+- 例：`I would like to go` → `I'd like to go`（母語者不把每個字都發清楚）
+- 這比個別單字發音更影響分數，也影響聽力理解
+- **Shadowing**：有幫助，但要先上完老師的「句子語調課（intonation lesson）」後再做；學會方法再練才有效
+
+## 備考策略（Matt 建議）
+- 現在：重點改文法 + 發音（流暢度暫時下降是正常的，不要擔心）
+- 考前：文法/發音穩定後，只需思考題目和想法
+- 常見主題了解「有什麼可說」即可，不背固定答案：環境、科技、AI、教育
+
+## 詞彙補充（老師課堂帶的）
+
+### 描述地方（技能 1 — Part 2）
+- **pristine**：完全未被人類改變（沒有建築、沒有污染、沒有垃圾）
+  ❌ "The beach was pristine, they just built a new hotel there." → 有建築就不是 pristine
+- **artificial**：人工製造，跟自然環境不協調、很突出（stands out）
+- **well-preserved**：照顧得很好，能看到原本的樣貌/質感/結構
+
+### 描述人物（技能 2 — Part 2）
+- 負面：arrogant（自大）、selfish（自私）、bully（霸凌者）、stingy（小氣）、manipulative（操控性強）
+- 正面：easygoing（隨和）、generous（慷慨）、creative（有創意）、talented（有天賦）、moral（有道德感）、active（積極）、extrovert（外向）、diligent（勤奮）

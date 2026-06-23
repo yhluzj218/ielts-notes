@@ -28,3 +28,36 @@
 - 高頻錯：時態、不可數名詞加 s、單複數（詳見 error_log.md）
 
 ## Task 2 標準結構（公式）
+- Intro（改寫題目 + 表態）→ Body 1（理由一）→ Body 2（理由二）→ Conclusion（總結）
+- 一般用兩個 body paragraph，各對應一個理由。
+- 說了幾個 reasons，就寫幾段；說 "two main reasons" 就只能有兩個 body paragraph。
+
+## Task 1 信件格式（2026-06-19）
+- 每個 bullet point 各開一段。
+- 正式結尾：
+  - Dear Sir/Madam → Yours faithfully + 全名
+  - Dear + 名字 → Yours sincerely
+  - Regards 適合 email，正式信件不夠正式
+- 字數不要剛好停在 150 字，要多寫一點。
+- 投訴信語氣可以稍強硬，不需要太客氣。
+
+## 段落展開原則（2026-06-19 第二堂）
+
+### Body Paragraph 四步結構
+1. **點出觀點**（1 sentence）
+2. **解釋為什麼**（不要跳過這步，直接給例子就是展開不足）
+3. **給例子**（具體）
+4. **說明例子跟題目的關係**（不能用 example 結束段落）
+
+### "because + 前提" 型題目讀題策略
+- 題目嵌入 because 子句時，論點要直接回應那個前提。
+- 例："should pay all fees because a degree benefits them more than society"
+  → 要反駁「學位對個人好處大於社會」這個前提，不只是說「全付學費的後果不好」。
+
+### due to vs because
+- `due to` 後接名詞片語，不接子句。
+- 要接子句 → 用 `because` 或 `due to the fact that`。
+
+### 考場策略
+- 5 分鐘想題：選簡單、能解釋清楚的想法。
+- 簡單想法說清楚 > 複雜想法說不清楚。

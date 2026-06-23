@@ -13,23 +13,46 @@
 ### 2. 不可數名詞加 s
 - information 永遠不加 s（我多次犯）
 - staff 是不可數；要數人時用 staff member
-- 檢查：information / staff / advice / equipment 等不可數名詞，別加 s
+- feedback 不可數：`a short feedback` → `some feedback` 或 `a piece of feedback`
+- 檢查：information / staff / feedback / advice / equipment 等不可數名詞，別加 s
 
 ### 3. 介系詞搭配
 - listening that story → listening TO a story
 - contribution at the industry → contribution TO the industry
 - in another hand → on the other hand
 - in social medium → on social media
+- `requesting for a refund` → `requesting a refund`（request 不帶 for）
+- `in a result of` → `as a result` 或 `as a result of`
+- `we got a similar age` → `we are at a similar age`（be at a similar age，口說 2026-06-22）
 
 ### 4. 詞性混用（adj / noun / adv 選錯）
 - bullish vs bully（我想講 bully）
 - amused → amusing / funny
 - cost effectively → cost effective
 - deliberate（我誤用來表達 discuss）
+- `loyalty customer` → `loyal customer`（loyalty 是名詞，要用形容詞 loyal）
+- `made it easily` → `made it easy`（easy 是形容詞補語，不是副詞）
+- `a colony of Dutch and Japan` → `a Dutch and Japanese colony`（Japan 是名詞，要用形容詞 Japanese；Dutch 已是形容詞，口說 2026-06-01/08）
 
-### 5. 單複數
+### 5. 單複數 / 主謂一致
 - a refunds / app refunds → our refund
 - 主格：my sister and me are → my sister and I were
+- `There is several` → `There are several`（複數主語用 are）
+- `as a citizens` → `as citizens`（a + 複數矛盾）
+- `families tends to` → `families tend to`（複數主語動詞不加 s）
+- `she have never` → `she has never`（第三人稱單數 she → has，口說 2026-06-22）
+
+### 6. 連接詞錯用（2026-06-19）
+- `Although..., however` → 雙重連接詞，只能留一個：
+  - `Although it was useful, it may not be ideal for managers.`
+  - `It was useful. However, it may not be ideal for managers.`
+- `due to` ≠ `because`；要接子句用 `because` 或 `due to the fact that`
+
+### 7. 動詞形式錯誤（2026-06-19）
+- `might ended up` → `might end up`（情態動詞後接原形）
+- `end up go for work` → `end up working`（end up + V-ing）
+- `we been separated` → `we were separated`（過去被動：was/were + pp）
+- `I have participated` + last weekend → `I participated`（明確過去時間 → 過去式）
 
 ## ✍️ 寫作 Task 1（信件）專屬檢查
 - [ ] 每個 bullet point 各開一段了嗎？

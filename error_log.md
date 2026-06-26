@@ -24,6 +24,9 @@
 - `requesting for a refund` → `requesting a refund`（request 不帶 for）
 - `in a result of` → `as a result` 或 `as a result of`
 - `we got a similar age` → `we are at a similar age`（be at a similar age，口說 2026-06-22）
+- `study my IELTS exam` → `study for my IELTS exam`（study for something）
+- `thinking to try` → `thinking of trying`（think of + V-ing，不接 to）
+- `How have you been up to?` → 兩個說法混在一起，選一個：`How have you been?` 或 `What have you been up to?`（2026-06-26）
 
 ### 4. 詞性混用（adj / noun / adv 選錯）
 - bullish vs bully（我想講 bully）
@@ -33,6 +36,7 @@
 - `loyalty customer` → `loyal customer`（loyalty 是名詞，要用形容詞 loyal）
 - `made it easily` → `made it easy`（easy 是形容詞補語，不是副詞）
 - `a colony of Dutch and Japan` → `a Dutch and Japanese colony`（Japan 是名詞，要用形容詞 Japanese；Dutch 已是形容詞，口說 2026-06-01/08）
+- `the plan will be success` → `the plan will succeed`（success 是名詞，動詞用 succeed）
 
 ### 5. 單複數 / 主謂一致
 - a refunds / app refunds → our refund

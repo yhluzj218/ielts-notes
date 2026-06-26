@@ -41,6 +41,12 @@
 - 字數不要剛好停在 150 字，要多寫一點。
 - 投訴信語氣可以稍強硬，不需要太客氣。
 
+### Task 1 非正式信件結尾補充（2026-06-26）
+- 給朋友的信，"Yours sincerely" 正確但太正式，更自然的選項：
+  `Love` / `Take care` / `All the best` / `Hope to catch up soon` + 名字
+- 想像真實的朋友，加個人細節，讓信有溫度。
+- 不答題的背景資訊 = 浪費字數 + 增加出錯機會，直接扣 Task Achievement，不是中性的。
+
 ## 段落展開原則（2026-06-19 第二堂）
 
 ### Body Paragraph 四步結構
@@ -57,6 +63,17 @@
 ### due to vs because
 - `due to` 後接名詞片語，不接子句。
 - 要接子句 → 用 `because` 或 `due to the fact that`。
+
+### 討論文（Discussion Essay）結構（2026-06-26）
+- 題型："discuss both views and give your own opinion"
+- 選比較同意的立場
+- Body 1 = 對立方（弱的那邊）：公平呈現為什麼有人這樣想 + 例子
+- Body 2 = 自己的立場（強的那邊）：為什麼你這邊更有說服力
+- Conclusion = 總結 + 重申立場
+
+### Task 2 "to what extent" 補充（2026-06-26）
+- 題目有 "because + 前提" → 承認前提的部分合理性，再說你的理由更重要（讓步 + 反駁）
+- 只說自己的理由、完全不回應對方前提 → Task Achievement 拿不到高分
 
 ### 考場策略
 - 5 分鐘想題：選簡單、能解釋清楚的想法。

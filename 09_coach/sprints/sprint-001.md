@@ -1,561 +1,490 @@
 # Sprint-001
 
-> Duration: 2026-06-29 (Mon) — 2026-07-12 (Sat)
-> Assessment point: Matt's writing lesson 2026-07-15
-> Daily time: 45–60 min
-> Last updated: 2026-06-28
+> Duration: 2026-06-29 (Mon) — 2026-07-12 (Sun)
+> Assessment point: Matt writing lesson ~2026-07-15
+> Last updated: 2026-06-29
+> Template version: v2.0
 
 ---
 
-## Sprint Goal
+## 1. Sprint Goal
 
-Fix the Writing method before Matt's lesson on July 15.
+Fix the Writing method before Matt's lesson on ~July 15.
 
-This sprint targets **method**, not language. Three specific changes:
+Three specific targets:
 1. Identify the question type correctly before planning every essay
-2. Build complete body paragraphs — every sentence has a job, the development chain reaches at least result/consequence level
-3. Establish skeleton-first as a non-negotiable habit before any writing starts
+2. Build complete body paragraphs — the chain must reach result/consequence level
+3. Establish skeleton-first as a non-negotiable habit
 
-Listening is secondary — apply Simon's verification method to S4 and reduce the distractor/qualifier trap rate.
+Secondary: Apply S4 verification method and reduce distractor/qualifier trap rate.
+
+This sprint targets **method**, not language. Do not change the method because it feels difficult — score fluctuation is normal while a new method is being internalised (Simon).
 
 ---
 
-## Evidence Summary
+## 2. Weekly Main Objective
 
-| Weakness | Confidence | Evidence | Sprint Decision |
+| Week | Dates | Objective | Difficulty |
 |---|---|---|---|
-| Writing — Task Response (question type misidentification) | Very High | `writing_db.md` TR avg 5.1 · `connie_profile.md` §5.2.1 · Matt feedback all sessions | Primary |
-| Writing — Idea Development (chain incomplete) | Very High | `writing_db.md` recurring weakness · `connie_profile.md` §5.2.2 · Matt: "underdeveloped body paragraphs" | Primary (sub-skill) |
-| Listening — S4 Note Completion | High | `listening_db.md` S4 avg 5.1/10 — lowest across C16/C17/C20 | Secondary |
-| Grammar — tense + uncountable nouns | High | `errors/grammar_db.md` G001, G003 (active, high confidence) | Log only — no workbook |
-| Reading | Low priority | `reading_db.md` C20 T1 Band 8.0 — at/above target | Maintenance only |
-| Speaking | Low priority | `speaking_db.md` — Joe's lessons provide external accountability | Maintenance only |
-| Vocabulary | Not a weakness | Matt + Joe both confirmed strength — `connie_profile.md` §4.1 | Do not target |
+| Week 1 | Mon 6/29 — Sun 7/5 | Method acquisition — learn the tools without time pressure | D1 |
+| Week 2 | Mon 7/6 — Sun 7/12 | Method under pressure — apply the tools in timed conditions | D2 → D3 |
 
-**Rule:** High-confidence weaknesses receive sprint time. Low-confidence or already-strong areas are maintenance only.
+**Difficulty levels:**
+- D1: Untimed, low pressure — drills and skeleton writing
+- D2: Partial timing — timed body paragraphs, section-only listening
+- D3: Full exam-like — timed essay (60 min), full Cambridge test
 
 ---
 
-## Difficulty Progression
+## 3. Fixed Weekly Rhythm
 
-| Level | Description | Conditions |
+This rhythm repeats every week. Commute slots and evening slots are separate.
+
+| Day | Commute (1.5h) | Evening (~90 min) |
 |---|---|---|
-| D1 | Method-only · untimed · low pressure | Drills, skeleton writing, body paragraph drafts without timer |
-| D2 | Partial execution · mild pressure | Partial timed sections, timed body paragraphs, section-only listening |
-| D3 | Full execution · exam-like | Full timed essay (60 min), full Cambridge 4-section test |
+| **Mon** | Podcast (45 min) + Speaking Part 2 out loud (45 min) | Writing: question type + skeleton |
+| **Tue** | Podcast (45 min) + Speaking Part 3 out loud (45 min) | Listening: Cambridge S4 + transcript analysis |
+| **Wed** | Podcast (45 min) + Shadowing (45 min) | Writing: body paragraph or full essay |
+| **Thu** | Podcast (45 min) + Joe lesson warm-up Part 2 (45 min) | **Joe Speaking Lesson** + correction notes |
+| **Fri** | Podcast (45 min) + light review (45 min) | Matt Writing Lesson OR essay prep/rewrite |
+| **Sat** | Optional podcast | Buffer / catch-up / sprint review (see § 9) |
+| **Sun** | — | **Full Mock** + error analysis (see § 7) |
 
-Week 1 = D1 → D2 (method first, then mild pressure)
-Week 2 = D2 → D3 (consolidate method under increasing pressure)
-
----
-
-## Sprint Rules
-
-- Never change the method because it feels difficult — score fluctuation = method inconsistency, not method failure (Simon)
-- Skeleton before every essay, no exceptions
-- Finished practice > perfect practice
-- After every listening session: transcript analysis, not just answer checking
-- After every writing session: error scan → update error DB if applicable
-- No vocabulary drills · No grammar workbooks · No IELTS social media
+**Commute constraints:**
+- No writing. No question sheets. No transcript analysis.
+- Podcast = active listening: follow the argument, catch the main point, notice unfamiliar chunks
+- Part 2 speaking = out loud at full speed, timed for 2 minutes
+- Part 3 speaking = give a societal-level answer, not just personal experience
 
 ---
 
-## AI Coach Loop
+## 4. Daily Commute Podcast Plan
 
-Every session follows this sequence:
+### Podcast Template File
 
-```
-Evidence (Connie Profile + DB)
-    ↓
-Coach Knowledge (Simon + Matt/Joe distilled)
-    ↓
-Why This Task
-    ↓
-Exercise (D1 / D2 / D3)
-    ↓
-Review Checklist
-    ↓
-Database Update (Error DB + Performance DB)
-    ↓
-Feeds into next session / next sprint
-```
+Each night (5–10 min), fill in `08_ai/podcast/daily_template.md` and save as `08_ai/podcast/YYYY-MM-DD.md`.
+Use the completed file as your morning drive script (read aloud or convert to audio).
+
+### Weekly Podcast Focus
+
+| Day | Podcast Focus | Commute Speaking |
+|---|---|---|
+| Mon | Part 2 storytelling + Sunday mock review | Part 2: personal topics (hobby / place / event) |
+| Tue | Part 3 opinion language + Listening skill tip | Part 3: society-level opinions |
+| Wed | Shadowing + Writing sentence chunks | Shadowing: repeat-after-audio |
+| Thu | Joe lesson warm-up | Part 2: complete one topic with full 2-min run |
+| Fri | Light review + Matt writing prep | Speak freely — no pressure |
+| Sat | Optional weekly review | Optional Part 2 for enjoyment |
+| Sun | Optional: mock mindset prompts | — |
+
+### Night-Before Prep Steps
+
+1. Open `08_ai/podcast/daily_template.md`
+2. Fill in: one correction from today, 3–5 word/chunk items, one speaking prompt, 5–8 shadowing sentences
+3. Save as `08_ai/podcast/YYYY-MM-DD.md`
+4. Total time: 5–10 min
 
 ---
 
-## Week 1 — Method Acquisition (2026-06-29 — 2026-07-05)
+## 5. Evening Study Plan
+
+### Week 1 — Method Acquisition (Mon 6/29 — Sun 7/5)
 
 ---
 
-### Mon 6/29 — D1: Question Type Identification + Skeleton
+#### Mon 6/29 — Writing D1: Question Type + Skeleton (90 min)
 
-**Why**
+**Why:** `writing_db.md` TR avg 5.1. Matt has corrected question type misidentification in every session. A wrong question type is an automatic band cap.
 
-`connie_profile.md` §5.2.1: Connie repeatedly answers Agree/Disagree prompts as if they were Positive/Negative or Discuss Both Views. Matt has corrected this in every writing session.
+**Part A — Question Type Drill (25 min)**
 
-Simon (`distilled.md`): "Task Response is the first priority. The question type must be identified correctly before planning. A wrong question type is an automatic band cap."
-
-Simon: Before writing, generate 2–3 possible structures and choose the one that directly answers the question focus — not the one that feels most familiar.
-
-This session trains question type identification and structure selection before any writing starts. No body paragraphs today.
-
-**Exercise — Part A: Question Type Drill (20 min) · D1**
-
-Find 5 Task 2 prompts (Cambridge books or past papers).
-
-For each prompt:
+Find 5 Task 2 prompts from Cambridge past papers. For each:
 1. Read once
 2. Write: what type is this?
-   - `Agree/Disagree` — you must state a clear position (agree or disagree)
+   - `Agree/Disagree` — state a clear position
    - `Discuss Both Views + Opinion` — present both sides, then give your view
-   - `Problem/Cause + Solution` — identify cause or problem, then propose solution
-   - `Two-part Question` — must answer both parts; treat each part as a body paragraph
+   - `Problem/Cause + Solution` — identify the problem, then propose a solution
+   - `Two-part Question` — must answer both parts
 3. Write your position in one sentence
 
-Do not plan or write the essay. Identification and position only.
+Do not plan or write the essay. Classification and position only.
 
-**Exercise — Part B: Skeleton Practice (40 min) · D1**
+**Part B — Skeleton Practice (45 min)**
 
 Pick 1 prompt from Part A.
-
-1. Write 2 possible structures (e.g. "Structure A: Society vs Individual · Structure B: Short-term vs Long-term")
+1. Write 2 possible structures (e.g. "Structure A: Individual vs Society · Structure B: Short-term vs Long-term")
 2. Choose the one that directly answers the question's focus
 3. Write the 4-part skeleton:
-   - Introduction: paraphrase the prompt + state position
+   - Introduction: paraphrase prompt + state position clearly
    - Body 1 topic sentence
    - Body 2 topic sentence
-   - Conclusion: restate position (one sentence)
+   - Conclusion: restate position (one sentence only)
 
 No body paragraph content yet.
 
-**Review**
+**Review (20 min)**
 - [ ] Did I correctly identify all 5 question types?
-- [ ] Did I choose the skeleton structure based on the question focus (not habit)?
-- [ ] Is my position stated clearly in the introduction line?
+- [ ] Is my position clear in the intro line?
+- [ ] Did I choose structure based on the question — not habit?
 
-**Database Update**
-
-Writing: no full paragraph today — no error scan needed.
-
-Note any question types you were uncertain about. If you mis-identified any, tell me which prompt and what you wrote — I'll check whether the pattern exists in `writing_db.md`.
+Ask me to review the skeleton before moving on. I will note any question type you were uncertain about.
 
 ---
 
-### Tue 7/1 — D1: Listening S4 + Transcript Analysis
+#### Tue 6/30 — Listening D1: Cambridge S4 + Transcript Analysis (90 min)
 
-**Why**
+**Why:** S4 average 5.1/10 — weakest section across all Cambridge tests. The cross-skill "Premature Conclusion Before Verification" pattern (`connie_profile.md` §4.0) causes locking in before the full condition is stated.
 
-`listening_db.md`: S4 average is 5.1/10 across C16/C17/C20 — the lowest section by a significant margin.
-
-Simon (`distilled.md` — Listening): "Do not lock in after the first keyword. The correct answer often comes after a qualifier, self-correction, or condition. Verify all conditions before selecting."
-
-Simon: "After every session, read and analyse the transcript. Classify the cause of each mistake. Checking the answer without diagnosing WHY it was wrong produces no improvement."
-
-Connie's cross-skill pattern (`connie_profile.md` §4.0): Premature Conclusion Before Verification. S4 errors are caused by the same pattern — locking in before hearing the full condition.
-
-**Exercise (45 min) · D1**
-
-Step 1 — Before audio (5 min):
+**Step 1 — Before audio (10 min)**
 - Read all S4 questions
-- Underline only the **differentiating keywords** — words that make options differ from each other, not shared words
-- For MCQ: note what type of paraphrase to expect (synonym / conceptual / example / inference)
+- Underline differentiating keywords — words that make the options different from each other, not words all options share
+- For Note Completion: predict word type before the audio starts (noun? number? adjective?)
 
-Step 2 — Listen:
+**Step 2 — Listen and answer (35 min)**
 - Do not write after the first keyword
-- Watch for: qualifier traps · self-corrections ("oh no, sorry...") · conditional branches
+- Watch for: qualifier traps · self-corrections ("oh sorry, I meant...") · conditional branches
 
-Step 3 — Transcript analysis (20 min):
+**Step 3 — Transcript analysis (45 min)**
+
 For every wrong answer:
-- Find the correct answer keywords in the transcript
-- Find the words that eliminate each wrong option
-- Classify the error type:
-  - `word/phrase` — paraphrase not recognised
-  - `misunderstood` — heard it, processed it wrong
-  - `stuck on previous` — missed it while still on the last question
-  - `qualifier trap` — chose first number/word before the condition was heard
-  - `self-correction missed` — missed the "oh no, sorry" correction
+1. Find the correct answer in the transcript
+2. Find the words that eliminate each wrong option
+3. Classify the error type:
+   - `word/phrase` — paraphrase not recognised
+   - `misunderstood` — heard it, processed it wrong
+   - `stuck on previous` — missed it while still writing the last answer
+   - `qualifier trap` — chose the first word before the full condition
+   - `self-correction missed` — missed the "oh sorry" correction
+   - `concentration drop` — lost the thread in a long monologue
 
 **Review**
-- [ ] Did I underline differentiating keywords (not all keywords)?
-- [ ] Did I avoid locking in before the full condition was stated?
-- [ ] Did I classify every wrong answer with a specific error type?
+- [ ] Used differentiating keywords (not all keywords)?
+- [ ] Avoided locking in before the full condition was heard?
+- [ ] Classified every wrong answer with a specific error type?
 
-**Database Update**
-
-Add one row to `09_coach/performance/listening_db.md` Session Log:
-```
-| YYYY-MM-DD | Cambridge book | S4 | score/10 | error categories | path/to/notes |
-```
+Report to me: S4 score + error categories. I will update `listening_db.md`.
 
 ---
 
-### Wed 7/2 — D1: Body Paragraph Development
+#### Wed 7/1 — Writing D1: Body Paragraph Development (90 min)
 
-**Why**
+**Why:** `writing_db.md` recurring weakness: paragraphs stop at Point. Matt's required chain: Point → Explain → Example → Result. Simon: every sentence must have a distinct job.
 
-`writing_db.md` recurring weakness: "Underdeveloped body paragraphs — point stated, then stopped."
+**Use the skeleton from Monday.**
 
-Matt (all writing sessions): Point → Explain → Example → Result. Never stop at the topic sentence.
-
-Simon (`distilled.md` — Writing): "Every sentence must have a distinct job. No two sentences should do the same job. The paragraph must reach at least the result/consequence level."
-
-Simon: "One idea fully developed scores higher than several ideas superficially stated."
-
-Connie's pattern (`connie_profile.md` §5.2.2): paragraphs stop after Point, sometimes after Explanation. The chain is never completed.
-
-**Exercise (60 min) · D1**
-
-Use the skeleton from Monday.
-
-Write both body paragraphs. Required chain for each:
-1. `[topic]` — state the idea
+Write both body paragraphs. Required job for each sentence:
+1. `[point]` — state the idea
 2. `[explain]` — why / how
 3. `[support]` — reason / example / specific detail
-4. `[result]` — consequence / development
-5. `[complete]` — final sentence that closes or extends the argument
+4. `[result]` — consequence / what follows from the point
+5. `[complete]` — optional final sentence that closes or extends the argument
 
 After writing each paragraph, label every sentence with its job in brackets.
 
-Check:
+**Self-check:**
 - [ ] Does every sentence add something new?
-- [ ] Are any two sentences doing the same job? → Remove the weaker one
 - [ ] Does the chain reach `[result]` level or beyond?
+- [ ] Are any two sentences doing the same job? → Remove the weaker one
 - [ ] Could I add one more sentence after the last one? (If yes, add it)
 
-**Review**
-- [ ] Paragraph 1: chain reached result/consequence level?
-- [ ] Paragraph 2: chain reached result/consequence level?
-- [ ] Any sentence that could be removed without losing meaning? (If yes, it's doing a duplicate job)
-
-**Database Update — Error Scan**
-
-After writing, scan both paragraphs for:
-
-| Error type | Examples | DB to update |
-|---|---|---|
-| Tense | past time marker + present perfect; wrong time reference | `errors/grammar_db.md` G001 / G002 |
-| Countable / uncountable | information / advices / evidences | `errors/grammar_db.md` G003 |
-| Singular/plural | singular subject + plural verb | `errors/grammar_db.md` G006 |
-| Conjunctions | although + however in same sentence | `errors/grammar_db.md` G010 |
-| Prepositions | on the other hand vs in another hand | `errors/preposition_db.md` |
-| Word form | -ed vs -ing · noun/adjective | `errors/word_form_db.md` |
-| Spelling | any spelling error | note separately |
-
-For each error found:
-- **Already in DB** → Count +1, update Last Seen
-- **New error, first occurrence** → Note it; do not add to DB yet
-- **New error, appears again later this sprint** → Tell me; I will add as Low confidence entry
+**Error scan (15 min):** G001 (past tense), G003 (information), G010 (although + however), G011 (due to + clause)
 
 ---
 
-### Thu 7/3 — D1: Listening S4 #2 + Error Pattern Comparison
+#### Thu 7/2 — Joe Speaking Lesson
 
-**Why**
+No other practice today. Save energy for the lesson.
 
-Two S4 sessions in Week 1 gives a pattern baseline. One session generates data; two sessions reveal whether errors are random or systematic.
-
-Simon: "Methods are only measurable when the same approach is used consistently. Fluctuation = inconsistency. Stability = method working."
-
-**Exercise (45 min) · D1**
-
-Same method as Tuesday.
-
-After transcript analysis, compare with Tuesday:
-- Same error type appearing again? → That is the priority pattern for Week 2
-- Different errors? → Note which question range (31–34 / 35–37 / 38–40) was harder
-- Was there a self-correction you missed again? → That is the primary trick to practise
-
-**Review**
-- [ ] Same error types as Tuesday? (yes / different / mixed)
-- [ ] Which question range caused the most errors?
-- [ ] Can you now identify the most likely error type for your S4 performance?
-
-**Database Update**
-
-Add one row to `09_coach/performance/listening_db.md`.
-
-If the same error type appeared in both Tue and Thu sessions → note this as a confirmed pattern. It will inform Sprint-002 secondary target or Week 2 adjustment.
+**After lesson:** write 1–2 corrections Joe gave. Log in `01_lessons/speaking/speaking-lesson_2026-07-02.md`.
 
 ---
 
-### Fri 7/4 — D2: Partial Timed Essay (Body Paragraphs Only)
+#### Fri 7/3 — Writing Review + Rest (60 min)
 
-**Why**
+Review Mon and Wed writing:
+1. Did the body paragraphs reach `[result]` level?
+2. Were any two sentences doing the same job?
+3. Did the skeleton match what I actually wrote?
 
-D1 sessions trained the method without pressure. D2 introduces mild time pressure to test whether the habit transfers to a different context.
-
-Simon: "Automatic performance is the goal — the skill must work under timed exam conditions."
-
-Matt: "Finished > Perfect. Write continuously. Fix only at the end."
-
-Body paragraphs only today — not introduction or conclusion. The focus is the development chain under time pressure.
-
-**Exercise (60 min) · D2**
-
-1. New Task 2 prompt (do not reuse Monday's)
-2. Identify question type + position (3 min)
-3. Compare 2 structures, choose best (2 min)
-4. Write skeleton (5 min)
-5. Write Body Paragraph 1 — full chain — no stopping to edit (20 min)
-6. Write Body Paragraph 2 — full chain (20 min)
-7. Label sentence jobs + check chain completeness (10 min)
-
-No introduction. No conclusion. Focus is body development only.
-
-**Review**
-- [ ] Question type identified before planning?
-- [ ] Skeleton written before body paragraphs?
-- [ ] Both paragraphs reached result/consequence level?
-- [ ] Did I stop to edit during drafting? (If yes: note it — this is a habit to break)
-
-**Database Update — Error Scan**
-
-Same error scan as Wednesday. Compare:
-- Did the same errors from Wednesday appear again?
-- If yes: first confirmed recurrence → tell me; I'll add to DB as Low confidence
+No new writing today. Rest and consolidate.
 
 ---
 
-### Sat 7/5 — Week 1 Review (30 min)
+#### Sat 7/4 — Buffer
 
-**Writing review:**
-- Compare all body paragraphs written this week
-- Weakest paragraph: which job in the chain was missing?
-- Strongest paragraph: what made it work?
-- Question types: did you identify all 5 prompts correctly on Monday?
-
-**Listening review:**
-- What error type appeared most often across both S4 sessions?
-- Is there a question number range that was consistently harder?
-- Did you use the transcript analysis method (or just check answers)?
-
-**Sprint Loop Check:**
-- Has any grammar error appeared more than once this week? → Tell me; I'll check the DB
-- Did you use the skeleton every time before writing? → Note if you skipped it
-
-**Sun 7/6 — Rest**
+See § 9.
 
 ---
 
-## Week 2 — Method Under Pressure (2026-07-06 — 2026-07-12)
+#### Sun 7/5 — Full Mock #1
+
+See § 7.
 
 ---
 
-### Mon 7/7 — D2: Discussion Essay — Argue the Weaker Side
+### Week 2 — Method Under Pressure (Mon 7/6 — Sun 7/12)
 
-**Why**
+---
 
-`writing_db.md` recurring weakness: "Body 1 (weaker side) is too superficial — opposing view not argued properly."
+#### Mon 7/6 — Writing D2: Discussion Essay — Argue the Weaker Side (90 min)
 
-Matt: In a Discuss Both Views essay, the weaker side must be argued as if you believe it. A dismissive paragraph signals to the examiner that the student cannot engage with opposing ideas.
+**Why:** `writing_db.md` recurring weakness: "Body 1 (weaker side) too superficial." Matt: argue the opposing view as if you believe it — a dismissive paragraph signals inability to engage with opposing ideas.
 
-Simon: "Structure selection: the best structure directly answers the question. For Discuss Both Views, Body 1 = opposing view (properly argued) + Body 2 = your view."
-
-**Exercise (60 min) · D2**
-
+**Exercise:**
 1. Find a Discuss Both Views prompt
 2. Identify the view you personally disagree with
 3. Write ONLY the body paragraph for that view
-4. Argue it as if you believe it — with full chain: reason + example + consequence
+4. Argue it fully: reason + example + consequence
+5. Read it aloud: does it sound like you believe it, or like you are dismissing it?
 
-Self-test: Read the paragraph aloud. Does it sound like you believe it, or does it sound like you're dismissing it?
+**Check:**
+- [ ] Reason, example, and consequence all present?
+- [ ] Does it avoid "some people think X, however this is wrong"?
+- [ ] Does it feel as developed as your own-view paragraph would be?
 
-Check:
-- [ ] Did you provide a reason, example, and consequence for the opposing view?
-- [ ] Does this paragraph feel as developed as your own view paragraph would be?
-- [ ] Does it avoid language like "some people think... however this is wrong"?
-
-**Database Update — Error Scan** (same protocol as Week 1)
-
----
-
-### Tue 7/8 — D2: Listening S3 + S4
-
-**Why**
-
-S3 average is 6.9/10 across tests — the second weakest section. Week 2 expands the listening target to confirm whether the verification method transfers across sections.
-
-Simon: "Train by component — but once a component is stable, expand to adjacent components."
-
-**Exercise (60 min) · D2**
-
-Do S3 first, then S4. Use the same method for both.
-
-After both sections: transcript analysis for S4 (priority). Transcript analysis for S3 if time allows.
-
-Compare:
-- Is the error type in S3 similar to S4, or different?
-- Which section had more qualifier traps? Which had more paraphrase-type errors?
-
-**Review**
-- [ ] Used differentiating keyword method for both sections?
-- [ ] Transcript analysis completed for S4?
-- [ ] Error pattern: similar to Week 1 or new pattern?
-
-**Database Update**
-
-Add rows for both S3 and S4 to `listening_db.md`.
+**Error scan (15 min)**
 
 ---
 
-### Wed 7/9 — D3: First Full Timed Essay
+#### Tue 7/7 — Listening D2: Cambridge S4 #2 + Pattern Comparison (90 min)
 
-**Why**
+Same method as Tue 6/30.
 
-This is the first full D3 task of the sprint. All Week 1 skills are now tested together under exam conditions.
+**After transcript analysis, compare with last Tuesday:**
+- Same error type appearing again? → That is the confirmed priority pattern
+- Different error types? → Note which question range (31–34 / 35–37 / 38–40) was harder
+- Was there a self-correction you missed again? → That is the primary trap to practise
 
-Simon: "Automatic performance is the goal. The method must work under timed pressure, not just in drills."
+Report to me: score + error categories. I will update `listening_db.md` and flag any confirmed pattern for Sprint-002.
 
-Matt: "5-minute planning → write without editing → revise only at the end. Finished > Perfect."
+---
 
-**Exercise (70 min) · D3**
+#### Wed 7/8 — Writing D3: First Full Timed Essay (90 min)
 
-Timer structure:
+**Why:** All Week 1 skills tested together under exam conditions. Matt lesson is ~7/15 — this essay is what you bring.
+
+**Timer structure:**
 - 5 min: question type + position + structure selection
 - 5 min: skeleton (4-part)
-- 50 min: full essay — introduction + 2 body paragraphs + conclusion — write continuously, no editing
-- 10 min: self-review only
+- 50 min: full essay — write continuously, no stopping to edit
+- 10 min: self-review only (mark questions for Matt, do not rewrite)
 
-Self-review checklist (do not rewrite — only mark what to ask Matt):
+Save draft: `02_writing/task2/drafts/[topic]_2026-07-08.md`
+
+**Self-review checklist (mark, do not fix):**
 - [ ] Question type correctly identified?
-- [ ] Position stated in introduction?
-- [ ] Body 1 chain complete (reached result/consequence)?
-- [ ] Body 2 chain complete?
+- [ ] Position stated in intro?
+- [ ] Body 1 chain reached result/consequence level?
+- [ ] Body 2 chain reached result/consequence level?
 - [ ] Conclusion restates position?
-- [ ] Any grammar errors noticed?
 
-Save as draft: `02_writing/task2/drafts/[topic]_2026-07-09.md`
-
-**Database Update — Error Scan**
-
-Perform full error scan on the completed essay.
-
-Any error appearing for the second time across the sprint → tell me for DB entry.
-
-Also log in `writing_db.md` Session Log (approximate band only — Matt will confirm on 7/15):
-```
-| 2026-07-09 | T2 | topic | estimated band | TR | CC | LR | GRA | self | path/to/draft |
-```
+**Error scan (15 min):** Full error scan. Any error appearing for the second time this sprint → tell me for DB entry.
 
 ---
 
-### Thu 7/10 — D3: Full Cambridge Listening Test (S1–S4)
+#### Thu 7/9 — Joe Speaking Lesson
 
-**Why**
+No other practice today.
 
-`listening_db.md`: All previous data is from individual sections. A full test measures whether the method holds across all 4 sections with real transition pressure.
-
-Simon: "During breaks between sections, read ahead — do not check previous answers. Time spent confirming what you already wrote is wasted."
-
-**Exercise (90 min) · D3**
-
-Do a complete Cambridge test (use a book not yet fully practised).
-
-During transitions: read ahead, underline differentiating keywords for the next section. Do not look back.
-
-After: transcript analysis for S4 only (time priority). Note S3 errors for reference.
-
-**Review**
-- [ ] Used break time to read ahead (not check answers)?
-- [ ] S4 score compared to Week 1 sessions?
-- [ ] Any new error type that didn't appear in Week 1?
-
-**Database Update**
-
-Add full test row to `listening_db.md`. Recalculate S4 average across sprint.
+**After lesson:** note 1–2 corrections. Log in `01_lessons/speaking/speaking-lesson_2026-07-09.md`.
 
 ---
 
-### Fri 7/11 — D2: Essay Review + Matt Lesson Preparation
+#### Fri 7/10 — Matt Lesson Prep (90 min)
 
-**Why**
+Matt lesson is ~7/15 (not this Friday). Use this session to prepare.
 
-Matt's lesson is 7/15. The lesson is more useful when Connie brings specific questions, not just a draft.
-
-Simon: "Diagnose before teaching. Identify the real bottleneck."
-
-**Exercise (60 min) · D2**
-
-Part A — Review Wednesday's essay (30 min):
-
-Answer these questions in writing (not just in your head):
-1. What question type was this, and am I certain I identified it correctly?
+Review Wed 7/8 essay:
+1. What question type was this, and are you certain you identified it correctly?
 2. Which body paragraph had a more complete chain? Why?
 3. Which sentences were doing the same job (duplication)?
-4. Did I write the skeleton before starting? Did I follow it?
+4. Did you write the skeleton before starting? Did you follow it?
 
-Part B — Prepare 2–3 specific questions for Matt (30 min):
-
-Examples:
-- "Is my question type identification correct for these two prompts?" (bring 2 prompts you were uncertain about)
-- "My weakest paragraph this sprint was [X]. What's missing?"
-- "I'm still not sure when to use Discuss Both Views vs Agree/Disagree — can we look at these?"
-
-Bring: the essay from Wednesday + the weakest body paragraph from the sprint.
-
-**Database Update**
-
-No new practice — no error scan.
+Prepare 2–3 specific questions for Matt. Examples:
+- "Is my question type identification correct for this prompt?"
+- "My weakest paragraph was [X]. What is missing from the chain?"
+- "I am still unsure when to use Discuss Both Views vs Agree/Disagree — can we review these two prompts?"
 
 ---
 
-### Sat 7/12 — Sprint Retrospective (30 min)
+#### Sat 7/11 — Sprint Retrospective
 
-**Method Check**
+See § 10.
 
-Answer honestly — these feed into Sprint-002 design:
+---
+
+#### Sun 7/12 — Full Mock #2
+
+See § 7.
+
+---
+
+## 6. Lesson Preparation Plan
+
+### Before Every Joe Lesson (Thursday)
+
+| When | What |
+|---|---|
+| Wednesday commute | Speaking Part 2 × 3 topics out loud (45 min) |
+| Thursday commute | Full run-through of one Part 2 topic before lesson |
+| Thursday evening | Focus entirely on the lesson — no other practice |
+
+### Before Every Matt Lesson (Friday, sometimes Tuesday)
+
+| What to bring | Why |
+|---|---|
+| Latest timed essay (from Wednesday evening) | Real first attempt — do not rewrite before showing |
+| 2–3 specific questions written in advance | Matt can address the exact bottleneck |
+| No vocabulary lists or extra notes | Matt's focus: task response and development, not vocab |
+
+Tell Matt at the start: "I practised [X] this week. I was uncertain about [Y]. Can we look at [Z]?"
+
+**This sprint: bring `02_writing/task2/drafts/[topic]_2026-07-08.md` to the ~7/15 lesson.**
+
+### If Matt Lesson Moves to Tuesday
+
+Sunday mock → writing essay becomes the lesson material.
+Review it Monday evening → bring to Tuesday Matt lesson.
+
+---
+
+## 7. Sunday Full Mock Protocol
+
+Total time: approximately 3–3.5 hours.
+
+### Exam Sections (in order)
+
+**1. Listening** (50 min including transfer)
+- Use a Cambridge test not yet fully practised
+- Apply differentiating keyword method throughout
+- Use break time between sections to read ahead — do not check previous answers
+
+**2. Reading** (60 min)
+- Maintain pace — do not over-verify unless time remains
+- Aim to finish all questions in time
+
+**3. Writing** (60 min)
+- Task 1: 20 min (letter)
+- Task 2: 40 min (essay — skeleton first, then write continuously)
+
+**4. Speaking — self-record** (15 min)
+- Part 1: ~4 min (3–4 questions)
+- Part 2: 1 min prep + 2 min talk
+- Part 3: ~4 min (2–3 questions)
+- Save: `03_speaking/self-practice/mock_YYYY-MM-DD.m4a`
+
+### Error Analysis (30–45 min)
+
+**Listening:**
+- Transcript analysis for S4 (priority)
+- Classify every S4 error using categories from `connie_profile.md` §7.5
+
+**Writing:**
+- Error scan: G001, G003, G010, G011 + note any new errors
+- Note any error appearing for the second time this sprint
+
+**Speaking (optional):**
+- Listen back, note any hesitations or grammar errors
+
+### What to Report to Me After
+
+Tell me the following, and I will update all databases:
+
+```
+Listening: S1=X S2=X S3=X S4=X
+S4 error categories: [list]
+Writing Task 1: band estimate
+Writing Task 2: band estimate, TR/CC/LR/GRA rough estimates
+Writing errors found: [list]
+Any error appearing 2nd time this sprint: [list]
+Speaking notes (optional): [anything you noticed]
+```
+
+I will update: `listening_db.md` · `writing_db.md` · `connie_profile.md` Evidence Log · `dashboard.md`
+
+---
+
+## 8. Database Update Rules
+
+| Trigger | Action | Who |
+|---|---|---|
+| Evening writing session done | Report errors found → I update DB | You report → I update |
+| Evening listening session done | Report score + error categories → I update | You report → I update |
+| Sunday mock done | Report all scores + error scan → I update all DBs | You report → I update |
+| Joe lesson done | Write lesson notes → I extract patterns | You write → I extract |
+| Matt lesson done | Write lesson notes → I extract patterns | You write → I extract |
+| Grammar error appears 2nd time | Tell me → I add to `errors/grammar_db.md` as Low | You flag → I add |
+| Same error 3rd+ time | I upgrade to Medium/High confidence | Automatic |
+
+**Policy:**
+- First occurrence of new error: note it, do not add to DB
+- Second occurrence: tell me; I add as Low confidence
+- Third+ occurrence: upgraded to Medium or High confidence
+
+---
+
+## 9. Saturday Buffer Rules
+
+**If all week's tasks are complete:**
+- Sprint retrospective questions only (30 min)
+- No new content
+
+**If tasks were missed, recover in this priority order:**
+1. Wednesday writing (feeds directly into Matt lesson)
+2. Tuesday listening (S4 data needed for pattern detection)
+3. Monday writing (foundation for Wed)
+
+Recover one missed session only. If more than one was missed, choose the highest priority and note the rest in the retrospective. Do not try to catch up everything on Saturday.
+
+---
+
+## 10. Sprint Retrospective Questions
+
+Fill in on Sat 7/11 (or the first evening after the sprint ends).
+
+### Method Check
 
 | Question | Answer |
 |---|---|
 | Can I identify question type correctly before planning? | always / mostly / sometimes / no |
 | Do I write the skeleton before every essay? | always / mostly / sometimes / forgot |
 | Do my body paragraphs reach result/consequence level? | always / mostly / sometimes / no |
-| Did I use transcript analysis after every listening session? | always / mostly / skipped once |
+| Did I use transcript analysis after every S4 session? | both / once / skipped both |
 | Did I avoid editing during drafting? | always / mostly / still editing |
+| Did the weekly rhythm feel sustainable? | yes / mostly yes / too heavy / too light |
 
-**Progress Check**
+### Progress Check
 
 | Measurable | Before Sprint | After Sprint |
 |---|---|---|
-| S4 average | 5.1/10 | (fill in) |
-| Most common listening error type | — | (fill in) |
-| Body paragraph chain completion rate | Low | (fill in) |
+| S4 score (most recent) | 5.1/10 avg | (fill in after Mock #2) |
+| Most common S4 error type | unknown | (fill in after Tue sessions) |
+| Body paragraph chain completion | Low | always / mostly / sometimes |
+| Full timed essay completed | 0 | 1 (Wed 7/8) |
 
-**Next Sprint Inputs**
+### Next Sprint Inputs
 
-Based on this sprint, what should Sprint-002 prioritise?
+Check each that applies:
 
-Options (choose based on retrospective):
-- Writing speed (can now do method, but too slow → add more D3 full essays)
-- Writing Task 1 letter register (if Matt raises it on 7/15)
-- Listening S3 (if S3 errors are now visible as a pattern)
-- Grammar accuracy (if same errors appeared 3+ times this sprint)
-- Speaking Part 2 stamina (if Joe's lessons flag it)
+- [ ] Writing still too slow → more D3 full essays in Sprint-002
+- [ ] Matt flagged Task 1 register → add Task 1 letters to Sprint-002
+- [ ] Same S4 error type appeared twice → keep S4 as secondary target in Sprint-002
+- [ ] Grammar error appeared 3+ times → add targeted drill to Sprint-002
+- [ ] Joe flagged Part 2 stamina → add to Sprint-002 speaking target
 
 ---
 
-## Sprint Measurables Summary
+## Sprint Measurables
 
-| Item | Target | Check |
+| Item | Target | When |
 |---|---|---|
-| Task 2 prompts — question type identified | 10+ | ✓/✗ Mon W1 |
-| Essay skeletons written | 4+ | count |
-| Body paragraphs with labeled sentence jobs | 6+ | count |
-| Full timed essays (D3) | 1 | Wed W2 |
-| S4 sections completed | 3 standalone + 1 full test | count |
-| Transcript analyses completed | 4 | count |
-| S4 score trend | 5.1 → 6.0+ | listening_db.md |
-| Error DB updates | as needed | grammar/prep/word_form db |
-
----
-
-## Matt Lesson Brief (for 2026-07-15)
-
-Tell Matt at the start of the lesson:
-- "I spent two weeks on question type identification and body paragraph development."
-- Bring: Wednesday's full essay + the weakest body paragraph from the sprint
-- Ask: the 2–3 questions prepared on Friday
-
-Expected Matt feedback areas: question type accuracy · paragraph chain quality · any recurring grammar errors from the essays
+| Task 2 question types classified | 6+ prompts | Mon W1, Mon W2 |
+| Skeletons written | 3+ | Mon W1, Wed W1 implied, Wed W2 |
+| Body paragraphs with labeled sentence jobs | 4+ | Wed W1, Mon W2 |
+| Full timed essays (D3) | 1 | Wed W2 (7/8) |
+| Cambridge S4 sections (standalone) | 2 | Tue W1, Tue W2 |
+| Transcript analyses completed | 2+ | Tue W1, Tue W2 |
+| Full mocks completed | 2 | Sun W1 (7/5), Sun W2 (7/12) |
 
 ---
 
@@ -563,10 +492,10 @@ Expected Matt feedback areas: question type accuracy · paragraph chain quality 
 
 | Avoid | Reason |
 |---|---|
-| Vocabulary drills | Matt + Joe: confirmed strength — `connie_profile.md` §4.1 |
-| Grammar workbooks | Log errors from own writing only (Simon + Matt) |
-| Full mock tests for Reading | Already at/above target — `reading_db.md` |
-| IELTS social media tips | Joe + Matt: explicitly warned against |
-| Changing this method if it feels difficult | Score fluctuation ≠ method failure (Simon `distilled.md`) |
+| Vocabulary drills | Matt + Joe: confirmed strength — not the bottleneck |
+| Grammar workbooks | Log errors from own writing only |
+| Extra Reading practice | Already at/above Band 7 target |
+| IELTS social media content | Joe + Matt: explicitly warned against |
+| Changing the method because it feels hard | Fluctuation ≠ failure — method needs 2 weeks to settle |
 | Editing during drafting | Kills writing speed; review stage only |
-| Adding Speaking to sprint targets | Joe's lessons provide accountability; no additional target needed |
+| Skipping the skeleton | Non-negotiable, even under time pressure |

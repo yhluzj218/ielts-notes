@@ -170,6 +170,100 @@ Replace: 標示哪些部分可替換
 - 哪些更新了 Error Database
 - 哪些值得做成 Anki（不要自動建立，讓我決定）
 
+## 幫我準備明天的 Podcast 行為
+
+當我說「幫我準備明天的 Podcast」時，執行以下流程，產生一個可直接丟進 NotebookLM 生成雙人對話 Podcast 的 md 檔。
+
+### Step 1 — 讀取當前最弱點
+
+1. 讀 `09_coach/dashboard.md` → 找 Active Weaknesses 和 Top Recurring Errors
+2. 讀 `09_coach/errors/grammar_db.md` → 挑 Confidence High + Status Active + Count 最高的那一條
+3. 讀 `09_coach/errors/preposition_db.md` 和 `word_form_db.md` → 補充參考
+
+### Step 2 — 選 3 張知識小卡（從 02_knowledge_base/）
+
+| 類型 | 來源 | 選法 |
+|---|---|---|
+| Grammar | `grammar/` 或 `prepositions/` 或 `word_form/` | 對應 Step 1 選出的最高頻錯誤 |
+| Expression | `expressions/` 或 `collocations/` | 輪流：E001 → E002 → E003 → E004 → C001 → 回到 E001 |
+| Listening | `listening/` | 輪流：L001 → L002 → L003 → L004 → L005 → 回到 L001 |
+
+Speaking 主題依星期：
+- 週一 / 週四：Part 2（個人話題：地方 / 人物 / 事件）
+- 週二 / 週三 / 週五：Part 3（社會話題）
+
+### Step 3 — 組成 NotebookLM-ready 檔案
+
+存到 `07_podcast/episodes/YYYY-MM-DD.md`（明天的日期），格式如下：
+
+```
+# IELTS Podcast — [明天日期] [星期]
+# 焦點：[Grammar card ID] · [Expression card ID] · [Listening card ID]
+# 預估時長：34 min
+
+---
+
+## 使用說明
+
+1. 複製本檔全文 → NotebookLM 新 notebook → 貼入 source
+2. 進 Studio > Podcast → 把下方「Podcast 生成指示」貼入 prompt 欄位
+3. 按生成（約 5–10 分鐘）
+
+---
+
+## Podcast 生成指示（貼入 NotebookLM）
+
+請根據以下 IELTS 學習材料，製作一段大約 34 分鐘的雙人對話 Podcast。
+
+角色設定：
+- Rachel（IELTS 教練）：負責解說、提問、舉例、引導練習
+- Connie（IELTS 考生）：程度約 Band 6–7，正在備考 General Training，有具體的錯誤模式
+
+對話結構（請按順序進行）：
+1. [2 min] 開場：Rachel 預告今天三個重點，說明為何重要
+2. [5 min] 文法焦點：解說 Grammar card 的規則，給錯誤例子，讓 Connie 嘗試改正
+3. [5 min] 表達式練習：帶 Connie 在句子裡用 Expression card 的片語，要求 Connie 造句
+4. [10 min] Speaking 練習：Rachel 出今日主題，Connie 作答，Rachel 點評並示範一段好的回答
+5. [7 min] 聽力技巧：解說 Listening card，用模擬的 Cambridge 風格例子說明陷阱
+6. [5 min] Shadowing：Rachel 唸句子，Connie 重複，Rachel 糾正語調節奏
+
+語氣：輕鬆自然，像真實一對一家教課，可以有笑聲和真實反應。
+語言：解說和點評用繁體中文，英文練習和例子保留英文，shadowing 句子只用英文。
+
+---
+
+## 今日知識小卡
+
+[貼入 Step 2 選出的 3 張 card 的全部 markdown 內容]
+
+---
+
+## Speaking 練習主題
+
+**類型：** [Part 2 或 Part 3]
+**題目：** [一道具體題目]
+**回答要點：**
+- [要點 1]
+- [要點 2]
+- [要點 3]
+**Sample Answer：**
+[自然的示範回答，Part 2 約 200 字，Part 3 約 4–5 句]
+
+---
+
+## Shadowing 句子
+
+[8 句短句，每句 8–12 字，來自今天主題或 Cambridge 風格英文]
+```
+
+### Step 4 — 回報
+
+存檔後告訴我：
+- 存到哪個路徑
+- 挑了哪 3 張 card（每張一句理由）
+- Speaking 主題是什麼
+- 一句話提醒怎麼用這個檔案
+
 ## 語氣
 - 先給結論再給原因，不要繞。
 - 直接、精準，可挑戰我的盲點，不過度鼓勵。

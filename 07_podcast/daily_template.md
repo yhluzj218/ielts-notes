@@ -1,160 +1,102 @@
-# Daily Podcast Template
+# IELTS Podcast Template — NotebookLM Edition
 
-> Use this template every night to prepare tomorrow's commute audio.
-> Fill in all placeholders, save as `07_podcast/episodes/YYYY-MM-DD.md`, then convert to audio or read aloud while driving.
-> Total prep time: 5–10 min. Total audio length: ~28 min.
-
----
-
-## How to Fill In (Night Before)
-
-1. **[CORRECTION]** — Pick one item from `06_error_database/error_log.md` or today's error scan. Something you got wrong recently.
-2. **[CHUNKS]** — 3–5 words or phrases from today's writing/reading/listening. Natural, usable. English explanation only.
-3. **[LISTENING SKILL]** — Pick one from the rotation list below. Copy the explanation directly.
-4. **[SPEAKING PROMPT]** — One Part 2 or Part 3 question. Check the weekly focus for which type.
-5. **[SAMPLE ANSWER]** — Write a natural 2-min sample answer for Part 2, or 4–5 sentence opinion for Part 3. Not scripted — just natural.
-6. **[SHADOWING LINES]** — 5–8 short English sentences. From today's reading, podcast transcript, or any natural source.
-7. **[CLOSING QUESTION]** — One thing to think about before the next study session.
+> 這個 template 由 Claude 自動填入，不需要手動填寫。
+> 說「幫我準備明天的 Podcast」→ Claude 自動選卡 + 生成 → 存為 `07_podcast/episodes/YYYY-MM-DD.md`
 
 ---
 
-## Weekly Podcast Focus
+## 使用流程
 
-| Day | Section 3 Focus | Section 4 Prompt Type |
-|---|---|---|
-| Mon | Part 2 storytelling | Part 2: personal topic (hobby / place / event) |
-| Tue | Listening skill tip + Part 3 language | Part 3: society-level opinion |
-| Wed | Shadowing + writing sentence chunk | Shadowing only (no speaking prompt needed) |
-| Thu | Joe lesson warm-up | Part 2: full run-through of one topic |
-| Fri | Light review | Speak freely — no structure required |
-
----
-
-## Listening Skill Rotation
-
-Cycle through these. Each takes about 5 minutes to explain with examples.
-
-1. **Distractors** — The first keyword you hear is often the wrong answer. Wait for the full condition before choosing.
-2. **Paraphrase recognition** — The recording uses different words from the question. Example: "fast movement" in question → "rapid motion" in audio.
-3. **Reversal signals** — "but / however / actually / not anymore / used to / originally / instead" — these flip the answer.
-4. **Prediction before audio** — Before listening, predict: what type of word will fill this gap? (noun, number, adjective?)
-5. **Singular vs plural** — Exam often tests whether you notice one vs many. "opportunity" ≠ "opportunities."
-6. **Self-correction trap** — Speaker says the wrong thing, then corrects: "it costs $50... oh sorry, $15." Always take the corrected version.
-7. **Note Completion pacing** — If you miss one answer, leave a dash and move on. Do not lose two answers chasing one.
-8. **Similar sounds** — play/plate · public/publication · capital/capitalism · practice/practise. Hear the full word before writing.
+1. Claude 生成明天的 Podcast 檔案
+2. 打開 `07_podcast/episodes/YYYY-MM-DD.md`
+3. 複製全文 → 貼入 NotebookLM 新 notebook 的 **source**
+4. 進 Studio > Podcast → 把「Podcast 生成指示」區塊貼入 **prompt** 欄位
+5. 按生成（約 5–10 分鐘）→ 下載雙人對話音檔
+6. 音檔存到手機 → 明天開車聽
 
 ---
 
-## Template
+## Episode 格式（Claude 生成時使用）
 
-```
-# Podcast — [WEEKDAY] [DATE]
-# Focus: [Mon/Tue/Wed/Thu/Fri focus from weekly map above]
-# Total length: ~28 min
-
----
-
-## Section 1 — Opening Review (2 min)
-
-Yesterday's correction:
-
-Error: [paste the wrong version]
-Correct: [paste the right version]
-Rule: [one sentence explaining why]
-
-Repeat after me: [paste the correct sentence 2–3 times with slight variation]
+```markdown
+# IELTS Podcast — [DATE] [WEEKDAY]
+# 焦點：[Grammar ID] · [Expression ID] · [Listening ID]
+# 預估時長：34 min
 
 ---
 
-## Section 2 — Vocabulary / Chunk Input (5 min)
+## 使用說明
 
-Today's chunks: [pick 3–5 from today's study or reading]
-
-1. [word or phrase]
-   — Meaning: [English explanation, no Chinese]
-   — Example: [natural example sentence]
-
-2. [word or phrase]
-   — Meaning: [English explanation]
-   — Example: [natural example sentence]
-
-3. [word or phrase]
-   — Meaning: [English explanation]
-   — Example: [natural example sentence]
-
-[Add 4th and 5th if needed]
+1. 複製本檔全文 → NotebookLM 新 notebook → 貼入 source
+2. 進 Studio > Podcast → 把下方「Podcast 生成指示」貼入 prompt 欄位
+3. 按生成（約 5–10 分鐘）
 
 ---
 
-## Section 3 — Listening Focus (5 min)
+## Podcast 生成指示（貼入 NotebookLM）
 
-Today's skill: [pick one from the rotation list above]
+請根據以下 IELTS 學習材料，製作一段大約 34 分鐘的雙人對話 Podcast。
 
-[Copy the explanation and add 1–2 examples from your own Cambridge practice if you have them.
-If not, use the standard explanation from the template.]
+角色設定：
+- Rachel（IELTS 教練）：負責解說、提問、舉例、引導練習
+- Connie（IELTS 考生）：程度約 Band 6–7，正在備考 General Training，有具體的錯誤模式
 
-Example from your own practice:
-[Optional: paste one example from recent Cambridge transcript if you have it]
+對話結構（請按順序進行）：
+1. [2 min] 開場：Rachel 預告今天三個重點，說明為何重要
+2. [5 min] 文法焦點：解說 Grammar card 的規則，給錯誤例子，讓 Connie 嘗試改正
+3. [5 min] 表達式練習：帶 Connie 在句子裡用 Expression card 的片語，要求 Connie 造句
+4. [10 min] Speaking 練習：Rachel 出今日主題，Connie 作答，Rachel 點評並示範一段好的回答
+5. [7 min] 聽力技巧：解說 Listening card，用模擬的 Cambridge 風格例子說明陷阱
+6. [5 min] Shadowing：Rachel 唸句子，Connie 重複，Rachel 糾正語調節奏
 
----
-
-## Section 4 — Speaking Drill (10 min)
-
-[PART 2 OR PART 3 — check weekly focus]
-
-Prompt:
-[paste the question here]
-
---- THINKING TIME: 60 seconds. Pause here and think before continuing. ---
-
-Now speak your answer. Aim for 2 minutes for Part 2, or 4–5 sentences for Part 3.
-
-[SILENCE — leave 2 min gap here when recording audio]
-
-Sample answer:
-[Write a natural, conversational sample answer. For Part 2: ~200 words covering the main points.
-For Part 3: 4–5 sentences with a clear opinion + reason + example or societal extension.]
+語氣：輕鬆自然，像真實一對一家教課，可以有笑聲和真實反應。
+語言：解說和點評用繁體中文，英文練習和例子保留英文，shadowing 句子只用英文。
 
 ---
 
-## Section 5 — Shadowing (5 min)
+## 今日知識小卡
 
-Repeat each sentence immediately after hearing it. Focus on rhythm and connected speech — not individual words.
-
-1. [short sentence — 8–12 words]
-2. [short sentence]
-3. [short sentence]
-4. [short sentence]
-5. [short sentence]
-6. [short sentence — optional]
-7. [short sentence — optional]
-8. [short sentence — optional]
-
-[When recording audio: say each sentence once, then leave 5 seconds for repetition, then continue.]
+[由 Claude 貼入 3 張 card 全文]
 
 ---
 
-## Section 6 — Closing Task (1 min)
+## Speaking 練習主題
 
-Before your next study session, think about:
-
-[One simple question related to today's topic or upcoming lesson.
-Examples:
-- "What is one thing I want to ask Matt about my body paragraphs?"
-- "What question type was that last Task 2 prompt I wrote?"
-- "What was the error type I got wrong most in S4 last Tuesday?"]
+**類型：** [Part 2 或 Part 3]
+**題目：** [一道具體題目]
+**回答要點：**
+- [要點 1]
+- [要點 2]
+- [要點 3]
+**Sample Answer：**
+[示範回答]
 
 ---
 
-End of today's podcast.
+## Shadowing 句子
+
+[8 句，每句 8–12 字]
 ```
 
 ---
 
-## Saved Podcast Archive
+## 選卡邏輯（Claude 執行，供參考）
 
-Files saved in this folder follow the format: `YYYY-MM-DD.md`
-
-| Date | Focus | Speaking Prompt |
+| 類型 | 來源 | 選法 |
 |---|---|---|
-| (add rows as you create them) | | |
+| Grammar | `02_knowledge_base/grammar/` 或 `prepositions/` 或 `word_form/` | 對應當前最高頻 Active error |
+| Expression | `02_knowledge_base/expressions/` 或 `collocations/` | 輪流 E001 → E002 → E003 → E004 → C001 |
+| Listening | `02_knowledge_base/listening/` | 輪流 L001 → L002 → L003 → L004 → L005 |
+
+Speaking 主題依星期：
+- 週一 / 週四 → Part 2（地方 / 人物 / 事件）
+- 週二 / 週三 / 週五 → Part 3（社會觀點）
+
+---
+
+## Episode Archive
+
+| Date | Grammar | Expression | Listening | Speaking |
+|---|---|---|---|---|
+| 2026-06-30 | G010 double conjunction | E004 Part 3 openers | L003 reversal signals | Part 3: individuals vs govt |
+| 2026-07-01 | G001 past time markers | E001 concession | L003 reversal signals | Part 3: public transport |

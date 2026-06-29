@@ -155,6 +155,25 @@ Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)
 
 ---
 
+## Writing Patterns Database
+
+Reusable essay structures, templates, and frameworks. Read before every writing session.
+
+[`02_writing/knowledge/writing_patterns.md`](../02_writing/knowledge/writing_patterns.md) — last updated 2026-06-29
+
+| Section | Contents |
+|---|---|
+| § 1 Fixed writing process | Question → Type → Structure → Skeleton → Essay |
+| § 2 Skeleton principle | What skeleton is / isn't; 4-part format; self-check |
+| § 3 Question type identification | Keywords → type decision table; common traps |
+| § 4 Essay structures | Agree/Disagree · Discuss Both · Problem+Solution · Two-part |
+| § 5 Introduction templates | By question type; what NOT to write |
+| § 6 Body paragraph chain | Point → Explain → Support → Result → Complete |
+| § 7 Conclusion templates | Restate rule; G010 trap |
+| § 8 Argument frameworks | Individual/Society · Short/Long-term · Economic/Environmental |
+
+---
+
 ## Coach Knowledge Summary
 
 ### Simon — Sprint Design Rules
@@ -217,7 +236,7 @@ Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)
 | Sunday mock 後 | 貼上成績和錯誤分類 | 更新 `listening_db.md`、`writing_db.md`、`connie_profile.md`、`dashboard.md` |
 | 有草稿要批改 | `批改` + 草稿路徑 | 評分 + 存 feedback + 更新 DB |
 | 上完課 | `更新筆記` + 逐字稿 | 拆解到各筆記 + 更新 DB |
-| 需要隔天 Podcast | `幫我準備明天的 Podcast` + 今天錯誤 | 填入模板 `08_ai/podcast/YYYY-MM-DD.md` |
+| 需要隔天 Podcast | `幫我準備明天的 Podcast` + 今天錯誤 | 填入模板 `07_podcast/episodes/YYYY-MM-DD.md` |
 
 **你不需要打開 sprint 文件。`start today` 會自動找到今天的任務。**
 

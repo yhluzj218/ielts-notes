@@ -137,9 +137,10 @@
 - **Skills:** writing
 - **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 3+
+- **Count:** 4+
+- **Last Seen:** 2026-06-29
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md` · `01_lessons/writing/writing-lesson_2026-06-19.md`
+- **Evidence:** `06_error_database/error_log.md` · `01_lessons/writing/writing-lesson_2026-06-19.md` · skeleton practice 2026-06-29
 
 ### G011 — `due to` followed by a clause
 - **Pattern:** `due to` takes a noun phrase, not a clause; use `because` or `due to the fact that` for clauses

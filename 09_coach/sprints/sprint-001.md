@@ -62,7 +62,7 @@ This rhythm repeats every week. Commute slots and evening slots are separate.
 
 ### Podcast Template File
 
-Each night (5–10 min), fill in `08_ai/podcast/daily_template.md` and save as `08_ai/podcast/YYYY-MM-DD.md`.
+Each night (5–10 min), fill in `07_podcast/daily_template.md` and save as `07_podcast/episodes/YYYY-MM-DD.md`.
 Use the completed file as your morning drive script (read aloud or convert to audio).
 
 ### Weekly Podcast Focus
@@ -79,9 +79,9 @@ Use the completed file as your morning drive script (read aloud or convert to au
 
 ### Night-Before Prep Steps
 
-1. Open `08_ai/podcast/daily_template.md`
+1. Open `07_podcast/daily_template.md`
 2. Fill in: one correction from today, 3–5 word/chunk items, one speaking prompt, 5–8 shadowing sentences
-3. Save as `08_ai/podcast/YYYY-MM-DD.md`
+3. Save as `07_podcast/episodes/YYYY-MM-DD.md`
 4. Total time: 5–10 min
 
 ---

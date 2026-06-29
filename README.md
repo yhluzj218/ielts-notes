@@ -21,7 +21,7 @@
 對我說：**「幫我準備明天的 Podcast」**
 
 我會：
-- 填入明天的 Podcast 腳本（`08_ai/podcast/YYYY-MM-DD.md`）
+- 填入明天的 Podcast 腳本（`07_podcast/episodes/YYYY-MM-DD.md`）
 - 建立明天的 Daily Sheet（`09_coach/daily/YYYY-MM-DD.md`）
 
 你只需要：
@@ -107,8 +107,8 @@ Speaking 自己觀察：[可選]
 | 今天該做什麼 | `09_coach/daily/YYYY-MM-DD.md` |
 | 目前 Sprint | `09_coach/sprints/sprint-001.md` |
 | 整體狀態一覽 | `09_coach/dashboard.md` |
-| 每日 Podcast 腳本 | `08_ai/podcast/YYYY-MM-DD.md` |
-| Podcast 模板 | `08_ai/podcast/daily_template.md` |
+| 每日 Podcast 腳本 | `07_podcast/episodes/YYYY-MM-DD.md` |
+| Podcast 模板 | `07_podcast/daily_template.md` |
 | Writing 草稿 | `02_writing/task1/drafts/` · `02_writing/task2/drafts/` |
 | Writing 批改回饋 | `02_writing/task1/feedback/` · `02_writing/task2/feedback/` |
 | 文法錯誤 DB | `09_coach/errors/grammar_db.md` |
@@ -147,11 +147,13 @@ Speaking 自己觀察：[可選]
 
 ```
 ielts-notes/
-├── 01_lessons/                 # 課堂筆記
+├── 01_lessons/                 # 課堂筆記（原始證據）
 │   ├── speaking/               # Joe 的口說課
 │   ├── writing/                # Matt 的寫作課
 │   └── teacher.md              # 兩位老師的核心原則
-├── 02_writing/                 # 寫作練習
+├── 02_writing/                 # 寫作練習與知識
+│   ├── knowledge/              # 可重複使用的寫作知識
+│   │   └── writing_patterns.md # 題型 / Skeleton / 段落架構 / 模板
 │   ├── task1/ (drafts / feedback / models)
 │   └── task2/ (drafts / feedback / models)
 ├── 03_speaking/                # 口說練習記錄
@@ -159,14 +161,15 @@ ielts-notes/
 ├── 04_listening/               # 聽力練習記錄
 ├── 05_reading/                 # 閱讀練習記錄
 ├── 06_error_database/          # 原始錯誤清單（人類可讀）
+├── 07_podcast/                 # 開車通勤學習
+│   ├── daily_template.md       # 每日腳本模板
+│   └── episodes/               # 每日腳本
+│       └── YYYY-MM-DD.md
 ├── 08_ai/                      # AI 設定層
 │   ├── prompts/                # Coach prompt
-│   ├── podcast/                # 每日 Podcast 腳本
-│   │   ├── daily_template.md   # 填充模板
-│   │   └── YYYY-MM-DD.md       # 每日腳本
 │   ├── anki/                   # Anki 卡片
 │   └── teachers/               # Matt / Joe persona
-├── 09_coach/                   # AI Coach 核心系統
+├── 09_coach/                   # AI Coach 決策層（機器讀取）
 │   ├── dashboard.md            # 整體狀態（每次工作先讀這個）
 │   ├── connie_profile.md       # 學習者完整背景
 │   ├── daily/                  # 每日任務清單
@@ -176,15 +179,11 @@ ielts-notes/
 │   │   ├── sprint-001.md
 │   │   └── TEMPLATE.md
 │   ├── performance/            # 成績資料庫
-│   │   ├── listening_db.md
-│   │   ├── reading_db.md
-│   │   ├── writing_db.md
-│   │   └── speaking_db.md
+│   │   ├── listening_db.md · reading_db.md
+│   │   ├── writing_db.md · speaking_db.md
 │   └── errors/                 # 錯誤資料庫
-│       ├── grammar_db.md
-│       ├── preposition_db.md
-│       └── word_form_db.md
-└── knowledge/                  # 教練知識庫
+│       ├── grammar_db.md · preposition_db.md · word_form_db.md
+└── knowledge/                  # 教練策略知識庫
     ├── coaches/ (simon / matt / joe)
     └── consensus/ (writing / speaking)
 ```

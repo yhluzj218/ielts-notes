@@ -1,7 +1,7 @@
 # Daily Podcast Template
 
 > Use this template every night to prepare tomorrow's commute audio.
-> Fill in all placeholders, save as `08_ai/podcast/YYYY-MM-DD.md`, then convert to audio or read aloud while driving.
+> Fill in all placeholders, save as `07_podcast/episodes/YYYY-MM-DD.md`, then convert to audio or read aloud while driving.
 > Total prep time: 5–10 min. Total audio length: ~28 min.
 
 ---

@@ -102,6 +102,74 @@
    讓我確認。
 4. 我確認沒問題後，才提醒我可以 git add/commit/push 存檔。
 
+## 萃取知識行為
+當我貼上老師逐字稿、寫作批改、Simon 文章或任何 IELTS 教學內容，並說「萃取知識」時，執行以下流程：
+
+### Step 1 — 識別可重複使用的知識
+判斷標準：「半年後看到，仍然可以直接拿來寫另一篇作文或回答另一題 IELTS。」
+不能重複使用的 → 不存。
+
+### Step 2 — 分類
+將內容歸類成下列五種，每一種都有固定存放位置：
+
+| 類型 | 說明 | 存放位置 |
+|---|---|---|
+| **Writing Patterns** | Essay Structure, Skeleton, Planning, Introduction/Conclusion/Paragraph Pattern | `02_writing/knowledge/` 對應檔案 |
+| **Reusable Expressions** | 自然、可重複使用的英文表達；不收一次性內容 | `02_writing/knowledge/expressions.md` |
+| **Sentence Patterns** | 可替換內容的句型骨架（不是背整句） | `02_writing/knowledge/sentence_patterns.md` |
+| **Teacher Principles** | 老師的原則（不含示範內容） | `01_lessons/teacher.md` |
+| **Error Patterns** | Connie 的錯誤，依 confidence policy 更新 DB | `09_coach/errors/grammar_db.md` 等 |
+
+`02_writing/knowledge/` 的檔案結構：
+```
+essay_patterns.md      ← Essay Structure, 題型結構
+question_types.md      ← 題型辨識規則
+planning.md            ← Planning workflow, Skeleton principle
+paragraph_patterns.md  ← Body paragraph chain
+introductions.md       ← Introduction templates by type
+conclusions.md         ← Conclusion templates and rules
+expressions.md         ← Reusable Expressions
+sentence_patterns.md   ← Sentence Patterns
+```
+
+**Reusable Expressions 格式：**
+```markdown
+## [Expression]
+English: [表達]
+Usage: 什麼情境使用
+Function: Opening Position / Giving Example / Conceding / Conclusion / 其他
+Example: 原文例句
+Notes: 容易犯錯或老師提醒
+```
+
+**Sentence Patterns 格式：**
+```markdown
+## [Pattern]
+Template: This essay will explain [X] and suggest [Y].
+Position: Introduction / Body / Conclusion
+Function: 說明功能
+Replace: 標示哪些部分可替換
+```
+
+### Step 3 — 去除重複
+新增前先搜尋現有 `02_writing/knowledge/` 內容。
+- 已有相同知識 → 不新增
+- 已有但可補充 → 延伸現有條目
+- 全新知識 → 新增
+
+### Step 4 — Error Pattern 處理
+- 已在 DB → Count +1，Last Seen 更新
+- 新錯誤第一次 → 只加 Evidence，不建 entry
+- 新錯誤第二次 → 建 Low confidence entry
+
+### Step 5 — 回報
+完成後告訴我：
+- 新增了哪些 Knowledge（哪個分類、哪個檔案）
+- 更新了哪些 Knowledge
+- 哪些內容沒有保存（原因）
+- 哪些更新了 Error Database
+- 哪些值得做成 Anki（不要自動建立，讓我決定）
+
 ## 語氣
 - 先給結論再給原因，不要繞。
 - 直接、精準，可挑戰我的盲點，不過度鼓勵。

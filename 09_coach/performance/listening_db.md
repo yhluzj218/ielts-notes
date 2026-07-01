@@ -57,6 +57,21 @@ Claude should use this database to:
 
 ---
 
+## Sprint S4 Standalone Drill Log
+
+*Separate from full Cambridge test records. Pattern tracking within sprints.*
+
+| Date | Source | S4 Score | Error Types |
+|---|---|---|---|
+| 2026-06-30 | Sprint-001 Tue D1 (food trends lecture) | 4/10 | word/phrase ×4 · qualifier trap ×1 · concentration drop ×1 |
+
+**2026-06-30 detail:**
+- Q31 singular/plural · Q32 misheard (virgin → vegan) · Q33 concentration drop · Q34 singular/plural · Q36 word count exceeded (wrote "coffee-chain") · Q39 qualifier trap (locked on "financially" before "price soared")
+- Confirmed: singular/plural weakness active in Note Completion
+- Confirmed: Premature Conclusion Before Verification active in S4 (Q39 → links to `connie_profile.md` §4.0)
+
+---
+
 ## Section Profiles
 
 ### Section 1 (Average: 6.5 / 10)

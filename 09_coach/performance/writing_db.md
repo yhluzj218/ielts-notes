@@ -41,6 +41,7 @@ Band scale: 1–9. Use 0 if not assessed.
 | 2026-06-19 | T2 | University tuition fees | 5.5 | 5 | 5.5 | 7 | 5.5 | Matt | `02_writing/task2/feedback/university-tuition-fees_2026-06-19.md` |
 | 2026-06-26 | T1 | New Year letter | 5.5 | 5.5 | 6 | 7 | 5.5 | Matt | `02_writing/task1/feedback/new-year-letter_2026-06-26.md` |
 | 2026-06-26 | T2 | Language loss | 5.5 | 5 | 5.5 | 7 | 5.5 | Matt | `02_writing/task2/feedback/language-loss_2026-06-26.md` |
+| 2026-06-29 | T2 | Clothes overconsumption (skeleton only) | 7 | — | — | — | — | self | `09_coach/daily/2026-06-29.md` |
 
 *Note: Band estimates above are approximations based on teacher feedback patterns. Update with confirmed scores when available.*
 

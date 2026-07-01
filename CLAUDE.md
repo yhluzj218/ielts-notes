@@ -64,8 +64,17 @@
    `- [主題](相對路徑) — 題型 — 一句話說明這篇的亮點`
 4. 存檔前先檢查同題是否已有範本；若有，提醒我：
    「已有 X 篇，建議比較後只留最好的一兩版」
-5. 完成後條列「新增了什麼、存到哪」給我確認。
-6. ⚠️ 不自動產生 Anki 卡片。等我自己看完範本、挑好想記的表達，再在對話中貼給你。
+5. 更新 02_writing/knowledge/sentence_patterns.md：
+   把這篇「連接詞/句型片語」區塊的內容，按 skeleton 位置分類追加（去重後加入）。
+6. 更新對應的 skeleton 檔（02_writing/knowledge/skeleton_*.md）：
+   判斷這篇用的是哪個 variation → 補上真實例子連結。
+   若是現有 variation 沒有的新結構 → 新增一個 variation。
+7. 自動更新詞彙 Anki 檔（08_ai/anki/writing/vocabulary-by-category_2026-07-01.md）：
+   從範文中抽取 Band 6.5+ 且適合 IELTS 寫作的單字，追加到對應分類下。
+   每個單字格式：Front（英文情境描述 + What word does this describe?）/ Back（單字 + 發音 IPA + 音節標示 + 詞性 + 相關詞形 + 例句 + 使用說明 + 常見搭配）。
+   分類依據（10 類）：Place & Architecture · Society & Community · Education & Skills · Technology & Media · Economy & Work · Language & Culture · Change & Progress · Personal Development · Argument & Academic · Environment & Sustainability。
+   去重規則：先搜尋 Anki 檔現有單字，已有的不重複加入。
+8. 完成後條列「新增了什麼、存到哪」給我確認。
 
 ⚠️ 重要：「值得學的表達」必須符合筆記原則——我不缺詞彙，
 不要鼓勵堆砌高級字，只標「自然、能實際用出來」的。

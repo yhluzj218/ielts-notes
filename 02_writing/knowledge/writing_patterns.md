@@ -60,9 +60,11 @@ Conclusion: restate position (one sentence)
 **Self-check before moving to essay:**
 
 - [ ] Does the introduction signal what the essay will cover?
+  - Problem+Solution: does it name BOTH the reasons AND the solutions? (not just "I will show...")
 - [ ] Does Body 1 have only one main idea?
 - [ ] Does Body 2 have a different main idea from Body 1?
 - [ ] Does the conclusion restate — not add new points?
+  - Comparing short-term vs long-term in conclusion is valid and shows mature thinking.
 
 ---
 
@@ -84,6 +86,9 @@ Always read the final instruction sentence first — not the topic content.
 ---
 
 ## 4. Essay Structures by Question Type
+
+> 詳細 Skeleton 模板與真實例子 → [`skeletons.md`](skeletons.md)
+> 下方是快速結構摘要；寫文章前建議直接看 skeletons.md。
 
 ### 4.1 Agree / Disagree (Opinion Essay)
 
@@ -151,6 +156,8 @@ Conclusion: restate overall point
 ---
 
 ## 5. Introduction Templates
+
+> 完整句型庫（依 Skeleton 位置分類）→ [`sentence_patterns.md`](sentence_patterns.md)
 
 ### Opinion Essay
 

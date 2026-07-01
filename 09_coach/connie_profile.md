@@ -516,6 +516,8 @@ Connie does not benefit from:
 |---|---|---|---|---|---|
 | 2026-06-28 | All | Full profile rewrite based on self-assessment and teacher feedback | Initial schema | — | — |
 | 2026-06-28 | Reading | C20 T1: 34/40 = Band 8.0; S3 main weakness | Premature Conclusion Before Verification identified as cross-skill pattern | Add to §4.0 | `09_coach/performance/reading_db.md` |
+| 2026-06-29 | Writing | Skeleton-only practice: Problem+Solution (clothes). Band 7 estimate. Intro missing both-question coverage. | Intro for P+S must signal reasons AND solutions. Thinking shift: "designing" not "writing" first observed. | — | `09_coach/daily/2026-06-29.md` |
+| 2026-06-30 | Listening | Sprint-001 Tue D1: S4 standalone drill (food trends lecture). Score 4/10. | Qualifier trap confirmed (Q39) — Premature Conclusion Before Verification active in Listening. Singular/plural active in Note Completion (Q31, Q34). | Monitor same error types in Tue 7/7 session. | `09_coach/performance/listening_db.md` |
 
 ---
 

@@ -4,6 +4,7 @@
 
 - [Print vs Digital News](task2/models/print-vs-digital_model_2026-06-19.md) — 明確反對「實體報紙/書將消失」；示範開頭表態、讓步句、具體例子
 - [Language Loss](task2/models/language-loss_model_2026-06-26.md) — Agree/disagree — 示範回應 "because + 前提"、愛斯基摩人例子、結論讓步句
+- [Skills vs Facts](task2/models/skills-vs-facts_model_2026-07-01.md) — Agree/disagree (completely agree) — 示範雙 body 不同角度切入、Body 內子主題轉換（With regard to）、結論對比句
 
 ## Task 1
 

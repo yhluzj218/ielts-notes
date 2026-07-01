@@ -184,6 +184,10 @@ Reusable essay structures, templates, and frameworks. Read before every writing 
 - Every sentence in a body paragraph must have a distinct job
 - After every listening session: transcript analysis — classify error type, not just check answers
 - Diagnose before teaching — identify real bottleneck first
+- Essay structure: Introduction = 2 sentences · Body = 5 sentences each · Conclusion = 1 sentence
+- The 75% = Ideas: Task Response (good ideas) + CC (clear presentation) + LR (right words) — not grammar
+- Speaking Part 2: use extreme/named/personal examples to avoid vague answers and fill 2 minutes
+- Think in paragraphs for Speaking: state idea → explain in detail → pause → next point
 
 ### Matt — Writing
 

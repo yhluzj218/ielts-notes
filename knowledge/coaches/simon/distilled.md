@@ -1,8 +1,8 @@
 # Simon — Distilled Knowledge
 
 > Extracted from original articles. Do not modify originals.
-> Sources: `originals/teaching-philosophy_2026-06-28.md` · `originals/writing-task2-paragraph-building_2026-06-28.md` · `originals/3-keys-preparation_2026-06-28.md` · `originals/importance-of-methods_2026-06-28.md` · `originals/listening-keywords_2026-06-28.md` · `originals/listening-transcripts_2026-06-28.md` · `originals/listening-tricks_2026-06-28.md` · `originals/listening-mcq-method_2026-06-28.md` · `originals/listening-work-on-mistakes_2026-06-28.md` · `originals/grammar-learning-from-mistakes_2026-06-28.md` · `originals/grammar-notice-mistakes_2026-06-28.md`
-> Last updated: 2026-06-28
+> Sources: `originals/teaching-philosophy_2026-06-28.md` · `originals/writing-task2-paragraph-building_2026-06-28.md` · `originals/01_3-keys-preparation_2026-06-28.md` · `originals/02_importance-of-methods_2026-06-28.md` · `originals/03_master-method-first_2026-06-30.md` · `originals/04_method-vs-english_2026-06-30.md` · `originals/05_daily-progress_2026-06-30.md` · `originals/06_tangible-progress_2026-06-30.md` · `originals/07_experts-planning_2026-06-30.md` · `originals/08_importance-of-paraphrasing_2026-06-30.md` · `originals/09_five-big-mistakes_2026-06-30.md` · `originals/10_from-65-to-7_2026-06-30.md` · `originals/11_try-to-be-interesting_2026-06-30.md` · `originals/12_work-on-weaknesses_2026-06-30.md` · `originals/13_no-grammar-book_2026-06-30.md` · `originals/14_knowledge-vs-skill_2026-06-30.md` · `originals/15_study-vs-immersion_2026-06-30.md` · `originals/16_changing-approach_2026-06-30.md` · `originals/17_think-in-paragraphs_2026-06-30.md` · `originals/18_noticing-skill_2026-06-30.md` · `originals/19_having-right-aims_2026-06-30.md` · `originals/20_the-other-75-percent_2026-06-30.md` · `originals/listening-keywords_2026-06-28.md` · `originals/listening-transcripts_2026-06-28.md` · `originals/listening-tricks_2026-06-28.md` · `originals/listening-mcq-method_2026-06-28.md` · `originals/listening-work-on-mistakes_2026-06-28.md` · `originals/grammar-learning-from-mistakes_2026-06-28.md` · `originals/grammar-notice-mistakes_2026-06-28.md`
+> Last updated: 2026-06-30
 
 ---
 
@@ -80,6 +80,8 @@ Most IELTS failures are method failures, not English failures. Fix the approach 
 | Adding many undeveloped ideas | Breadth without depth scores low |
 | Choosing structure from keywords only | Must compare 2–3 options before committing |
 | Full essay before testing skeleton | Time wasted if structure is flawed |
+| Reverting to old habits when writing | Long introductions, unbalanced paragraphs, conclusions with new information — method is not yet automatic |
+| Learning "impressive" linking phrases | Wrong aim — does not improve score; focus on ideas and natural expression instead |
 
 ---
 
@@ -127,15 +129,31 @@ Do: explain the same idea in more depth · add specificity · support with reaso
 
 ---
 
+### Collocation Awareness (Lexical Resource)
+
+The Band descriptor "awareness of style and collocation" means knowing which synonyms work in a given context — not just knowing synonyms exist.
+
+**Key principle:** Not all synonyms of a word are interchangeable. The correct synonym depends on what it collocates with naturally.
+
+Example: "The lesson was interesting."
+- ✅ fascinating / engaging / absorbing / thought-provoking — all collocate with "lesson"
+- ❌ attractive / entrancing / appealing — do not collocate naturally with "lesson"
+
+**"The lesson was attractive" = wrong**, even though "attractive" is a listed synonym of "interesting."
+
+**What this means for Connie:** When writing or paraphrasing, checking a dictionary for synonyms is not enough. Ask: does this word collocate naturally with the noun/verb next to it? A native speaker would not say it if it doesn't — and an examiner will notice.
+
+---
+
 ### Essay Skeleton
 
 Build the skeleton before writing the full essay.
 
 **Four components only:**
-1. Introduction (position + paraphrase of question)
+1. Introduction — **2 sentences** (paraphrase of question + state position)
 2. Topic sentence — Body Paragraph 1
 3. Topic sentence — Body Paragraph 2
-4. Conclusion (restate position)
+4. Conclusion — **1 sentence** (restate position only — no new information)
 
 **Why it matters:** Tests whether the structure actually answers the question before writing time is spent. Prevents off-topic body paragraphs.
 
@@ -156,6 +174,27 @@ Do not default to a fixed template. Choose the structure that best answers the e
 
 ---
 
+### Practical Formatting (Task 2)
+
+- **Word count check**: ~10 words per line → write 25+ lines to exceed 250 words
+- **Paragraph separation**: leave a full blank line between paragraphs — score drops immediately if paragraphs are not clearly separated
+
+---
+
+### The 75% = Ideas
+
+Grammar = 25% of score. The other 75% (Task Response + Coherence & Cohesion + Lexical Resource) can be summed up as **ideas**.
+
+| Criterion | What it really tests |
+|---|---|
+| Task Response | Having good ideas that answer the question |
+| Coherence & Cohesion | Presenting ideas clearly and logically |
+| Lexical Resource | Expressing ideas with the right words |
+
+**Implication:** Improve the quality of your ideas first. Grammar matters, but it is not the primary Band lever.
+
+---
+
 ## Speaking — Specific Methods
 
 ### Part 1
@@ -165,6 +204,36 @@ Answer the question directly, then give one reason. One sentence is enough.
 > Do not over-explain. Do not add extra details. Short, direct, complete.
 
 Alignment: ✅ Consistent with Joe's instruction ("short, natural answers in Part 1").
+
+---
+
+### Part 2 — Content Generation
+
+The most common failure: vague, general answers that don't go anywhere.
+
+**Techniques to generate interesting content:**
+1. Choose an extreme or unexpected example (not the obvious answer — a helicopter, not a car)
+2. Use **named examples** — specific names, not generic categories (e.g. "tigers and rhinos", not "animals")
+3. Use personal examples / anecdotes
+4. Describe in specific detail
+
+**Goal:** say something that isn't general, vague, or bland. An interesting answer forces you to use your imagination and naturally fills time.
+
+> ⚠️ Note: "Being interesting" is not a band descriptor criterion — it's a technique. The underlying benefit is that specific, detailed answers are easier to extend to 2 minutes.
+
+**Alignment:** Directly addresses Connie's Part 2 stamina weakness (must fill 2 min consistently — `connie_profile.md` §8.2).
+
+---
+
+### Cross-Skill: Think in Paragraphs
+
+Paragraph structure applies to both Writing and Speaking.
+
+**In Speaking:** start an idea → explain it in detail → short natural pause before the next point. This pause = the equivalent of starting a new paragraph.
+
+**Underlying principle:** Clear, coherent thinking is the source of clear, coherent speaking and writing. If you think in paragraphs, your output will be structured without effort.
+
+**Alignment:** Supports Joe's Part 3 principle ("extend to society-level scope") — using one idea, fully explained, is better than several ideas stated and abandoned.
 
 ---
 
@@ -340,6 +409,31 @@ If scores go up and down between attempts:
 **Fix:** Do not change the method. Identify which step of the method was missed or changed.
 
 **Rule:** Progress is only measurable when the same method is used every time. Fluctuation without method change = evidence of English ceiling. Fluctuation with method change = method inconsistency.
+
+---
+
+## Diagnostic Framework — Stuck at Band 6.5
+
+**Band 6.5 = already Band 7 in 50% of the criteria.** The method is working.
+
+Example: TR 7 + CC 7 + LR 6 + GRA 6 = 6.5 average. The student is not failing — they need to improve just ONE weak criterion to shift the average to 7.
+
+**Steps:**
+1. Identify which criterion is dragging down the average
+2. Improve only that one area
+3. Do NOT change the method — it is already producing Band 7 in some criteria
+
+**Common mistake:** Students stuck at 6.5 think they need a new technique or book. They don't. They need a small, targeted improvement in the right place.
+
+---
+
+## Diagnostic Framework — Time Pressure as Weakness Detector
+
+**Technique:** Occasionally do tasks faster than the allowed time (e.g. Task 2 in 30 min, Reading in 50 min) to expose weak points.
+
+**Purpose:** Some weaknesses only appear under pressure. Going faster surfaces them.
+
+**Important:** This is a diagnostic tool only — use occasionally. Most practice should be slow and careful. Do not use this as a regular training mode.
 
 ---
 

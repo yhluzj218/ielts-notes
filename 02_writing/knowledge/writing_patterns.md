@@ -166,6 +166,15 @@ Conclusion: restate overall point
 Example:
 > "While some argue that family businesses offer unique advantages, this essay will argue that the drawbacks tend to outweigh the benefits for most families."
 
+**⚠️ What NOT to write (Joe, writing lesson, 2026-07-02):** Do not open with a pure paraphrase of the question as your entire first sentence — this is a common technique taught in China but caps your score around Band 7 even done perfectly, because it shows minimal written communication ability (too simplistic — anyone can do it, even someone who doesn't really speak English).
+
+**Alternative opening — "then vs now" narrative contrast (Joe, 2026-07-02):** Instead of paraphrasing, contrast historical/past practice with the present.
+
+Example (from class):
+> "A hundred years ago, if you wanted to buy something, you would need to go to a local shop, and if you wanted to buy something in particular you might need to drive to many shops. Nowadays, the way we purchase things has changed dramatically and we can buy whatever we want, just by clicking a button on a smart phone."
+
+Then state position with the same functional connector: `This essay argues that these changes have been transformative because [reason 1] and [reason 2].`
+
 ---
 
 ### Problem + Solution
@@ -230,6 +239,33 @@ Use these when building Body paragraph ideas. Do not force one if it does not fi
 | Economic vs Environmental | Cost / profit vs ecological impact |
 | Government vs Individual | Who should act? Policy vs personal responsibility |
 | Developed vs Developing countries | Global inequality angle |
+
+---
+
+## 9. Common Task 2 Topics (Joe, video course, 2026-07-02)
+
+⚠️ This is background **topic awareness for Task Response** (so you're never blank when a topic comes up) — **not a vocabulary list.** Joe: ~95% of Task 2 questions fall into these 16 topic areas. You don't need detailed/expert knowledge of any of them — just enough general awareness to have an opinion, because the exam only asks for your general opinion, not specialist detail.
+
+| # | Topic | What it usually covers |
+|---|---|---|
+| 1 | Education | Schools, studying abroad |
+| 2 | Environment | Climate change, pollution, recycling, eco-friendly |
+| 3 | Technology | Future tech, AI |
+| 4 | Health | How to be healthy |
+| 5 | Crime | Effectiveness of prison as punishment |
+| 6 | Globalization | Cultural impact, economic effects |
+| 7 | Employment | Job satisfaction, unemployment, work culture |
+| 8 | Society | Younger vs older people, men vs women debates |
+| 9 | Economy | Economic development, richer vs poorer countries |
+| 10 | Politics / Government | — |
+| 11 | Travelling | Very common |
+| 12 | Arts and Culture | Very common |
+| 13 | Family / Relationships | Changing family structures, fewer marriages |
+| 14 | Media | Books, websites, internet, TV, TV series |
+| 15 | Science | Scientific research — less common, more complex for candidates |
+| 16 | Sports and Leisure | Different sports, importance of sport |
+
+Source: `knowledge/coaches/joe/originals/writing-common-topics_2026-07-02.md`. Single-source (Joe only, one occurrence) — not yet cross-confirmed by Matt.
 
 ---
 

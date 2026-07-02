@@ -3,7 +3,7 @@
 > This file logs areas where coaches disagree.
 > Per ADR-007: Do NOT resolve conflicts silently. List both positions. Ask Connie to decide.
 > See `DECISIONS.md` for ADR-007.
-> Last updated: 2026-06-28
+> Last updated: 2026-07-02
 
 ---
 
@@ -18,6 +18,20 @@ Each conflict entry:
 
 ## Active Conflicts
 
+### Conflict: "Template" writing — is the project's Introduction/Conclusion Template the banned kind?
+
+| Field | Value |
+|---|---|
+| Joe (writing course) | Any memorised, fill-in-the-gap template caps the essay at Band 2 — examiners recognise repeated templates and see grammar break down between memorised chunk and own content. |
+| Project (`02_writing/knowledge/writing_patterns.md` §5, §7) | Uses fixed sentence frames explicitly named "Introduction Templates" / "Conclusion Templates", e.g. `[Paraphrase of topic]. [This essay will argue that + your position + one-line reason.]` — position/content is meant to be filled fresh each time; only the connector phrase is fixed. |
+| Confidence | Medium-High — see new evidence below, which points toward "not a real conflict" |
+| Discovered | 2026-07-02, `knowledge/coaches/joe/originals/writing-mistake-02-using-a-template_2026-07-02.md` |
+| New evidence (2026-07-02, live group writing lesson, clean high-confidence transcript) | Joe personally dictated this exact intro sentence in class: `"This essay argues that these changes have been transformative because consumers can buy things from other countries and sell things online."` — structurally identical to the project's own Introduction Template pattern. Joe teaching this himself right after warning against templates strongly suggests his warning targets fully-memorised generic social-media templates, not connector-only skeleton frames. Source: `01_lessons/writing/writing-lesson_2026-07-02.md`. |
+| Decision needed | Confirm: is this now resolved (project's templates ≠ the banned kind), or do you still want to ask Matt / adjust naming to be safe? |
+| Resolution | Pending your confirmation — recommend closing as "not a conflict" given the lesson evidence |
+
+---
+
 ### Conflict: Vocabulary as a priority
 
 | Field | Value |
@@ -29,6 +43,7 @@ Each conflict entry:
 | Discovered | 2026-06-28, `knowledge/coaches/simon/originals/3-keys-preparation_2026-06-28.md` |
 | Decision needed | Simon's advice is for general IELTS students. Matt and Joe have directly assessed Connie and agreed she is an exception. **Default rule: apply Matt + Joe's Connie-specific assessment. Do not recommend vocabulary work unless Connie explicitly requests it.** |
 | Resolution | ✅ Resolved by personal teacher assessment — Matt + Joe override Simon for this learner |
+| 2026-07-02 update | Joe's own video course now includes a generic "vocabulary can improve your score" section (`knowledge/coaches/joe/originals/writing-vocabulary-intro_2026-07-02.md`). Same resolution applies: this is generic course content for all students, not a new Connie-specific assessment from Joe — it does not reopen this conflict. |
 
 ---
 

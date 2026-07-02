@@ -13,8 +13,9 @@
 | `Discuss both views` · `Some think A... others think B` | Discuss Both Views + Opinion | [skeleton_discuss_both.md](skeleton_discuss_both.md) |
 | `What are the reasons?` + `What solutions?` | Problem + Solution | [skeleton_problem_solution.md](skeleton_problem_solution.md) |
 | 兩個問號，各自不同焦點 | Two-part Question | [skeleton_two_part.md](skeleton_two_part.md) |
+| `Discuss the advantages and disadvantages` · `Do the advantages outweigh the disadvantages?` | Advantages & Disadvantages + Opinion | [skeleton_advantages_disadvantages.md](skeleton_advantages_disadvantages.md) |
 
-**常見陷阱：** 題目有兩個對立面 ≠ 一定是 Discuss Both Views。看指令，不是看內容。
+**常見陷阱：** 題目有兩個對立面 ≠ 一定是 Discuss Both Views。看指令，不是看內容。「優缺點」(advantages/disadvantages) 是同一現象的正負影響，不是兩派立場對立——跟 Discuss Both Views 不同題型。
 
 ---
 
@@ -44,3 +45,11 @@ Body 2 = 你同意的觀點 + 你的立場
 
 Body 1 = 完整回答 Q1
 Body 2 = 完整回答 Q2（深度相等）
+
+### Advantages & Disadvantages — 標準結構
+
+Body 1 = Advantages（優點，完整發展）
+Body 2 = Disadvantages（缺點，完整發展）
+Conclusion = 權衡，給出「利大於弊」或「弊大於利」
+
+真實範本：International Tourism（弊大於利；⚠️ 用了進階省略/壓縮技巧，見 `skeleton_advantages_disadvantages.md` 內的說明，現階段不模仿）

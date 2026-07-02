@@ -1,8 +1,8 @@
 # Writing Consensus
 
 > Cross-coach agreement on Writing principles.
-> Coaches included: Simon · Matt
-> Last updated: 2026-06-28
+> Coaches included: Simon · Matt · Joe (writing, added 2026-07-02)
+> Last updated: 2026-07-02
 > Status: Confirmed consensus — safe for Sprint Planner to use without qualification
 
 ---
@@ -22,9 +22,10 @@
 | Field | Value |
 |---|---|
 | Principle | Identify the correct question type and respond to it fully before worrying about grammar or vocabulary |
-| Agreement | ✅ Simon + Matt |
+| Agreement | ✅ Simon + Matt + Joe |
 | Simon | Method-first philosophy; wrong question type = automatic band cap |
 | Matt | "切題" is always the first correction — confirmed across all 6 writing sessions |
+| Joe | 2026-07-02 (writing lesson): reframed Connie's own "write down my ideas" answer as "clearly communicate your opinion and the reasons for your opinion" — same TR-first frame |
 | Sprint implication | **Task Response must always be Sprint Priority #1 for Writing** |
 
 ---
@@ -46,9 +47,10 @@
 | Field | Value |
 |---|---|
 | Principle | Never stop at a topic sentence; develop each point with explanation, example, and consequence |
-| Agreement | ✅ Matt (explicit) + Simon (explicit — Five-Sentence Paragraph Method) |
+| Agreement | ✅ Matt (explicit) + Simon (explicit — Five-Sentence Paragraph Method) + Joe |
 | Matt | Explicit framework taught 2026-06-19; repeated in feedback across sessions |
 | Simon | Five-sentence paragraph method; sentence jobs rule; no-repetition rule — `knowledge/coaches/simon.md` |
+| Joe | 2026-07-02 (writing lesson): taught identical skeleton (Intro → Body 1 = Reason 1 + Main Idea/Explain/Example → Body 2 = Reason 2, same structure → Conclusion); explicitly said low scores come from "reasons not explained" and mixing ideas in one paragraph |
 | Sprint implication | Body paragraph development is Priority #2 for Writing; verify chain in every draft |
 
 ---
@@ -108,9 +110,9 @@
 | Principle | Do not allocate sprint time to vocabulary acquisition for Writing |
 | Agreement | ✅ Simon + Matt + Joe |
 | Matt | Explicit: "instinctively, not a vocabulary problem"; LR consistently Band 7 |
-| Joe | Confirmed: vocabulary is a strength |
+| Joe | Confirmed: vocabulary is a strength (speaking assessment, 6/01). **Writing-specific mechanism added 2026-07-02**: forcing higher-register words produces wrong collocation/register/sense and actively lowers score — see `knowledge/coaches/joe/distilled.md` § Writing — Mistake #1 |
 | Simon | Anti-pattern: advanced vocab before method |
-| Sprint implication | **Never suggest vocabulary work as a writing improvement strategy** |
+| Sprint implication | **Never suggest vocabulary work as a writing improvement strategy.** When reviewing drafts, flag any word choice that looks reached-for rather than natural — this is now a concrete editing check, not just a general rule. |
 
 ---
 

@@ -52,6 +52,16 @@ This essay will examine both perspectives before presenting my own view.
 
 ❌ 不能寫：`I will show some reasons and solutions in the following paragraph.`（太模糊）
 
+### Advantages & Disadvantages 專用
+
+```
+[Background trend, one sentence — no explicit "this essay will discuss..." signpost needed].
+```
+> In the last few decades there has been a significant increase in the number of opportunities for international travel, with more transport routes and cheaper fares.
+> 來源：[International Tourism](../task2/models/international-tourism_model_2026-07-02.md)
+
+⚠️ 這種省略表態句的開頭是進階寫法（用 Body 主旨句表態，不在 intro 先講）。**你現在的 sprint 還在練 explicit 表態句，先不要模仿這個省略法。**
+
 ---
 
 ## Body — 段落開頭 [point]
@@ -78,6 +88,21 @@ Another important issue with [the proposed idea] is that [new point].
 With regard to [subtopic], a modern approach to [X] would put more emphasis on [Y].
 ```
 > 來源：Skills vs Facts — 用來在 Body 2 內從 practical skills 轉到 social skills
+
+### 優缺點段的轉折句
+
+```
+There are undoubtedly benefits flowing from this growth in [X].
+There are, however, drawbacks associated with [X].
+```
+> 來源：International Tourism — Body 1（優點）和 Body 2（缺點）各自的主旨句，一句完成表態 + 轉折
+
+### 一段內塞多個理由（進階，暫不模仿）
+
+```
+Firstly, [reason 1]. [support]. Secondly, [reason 2]. Related to this is the fact that [reason 3]. Finally, [reason 4].
+```
+> 來源：International Tourism — Body 2 用這個 signposting 鏈把 4 個獨立理由放進同一段。⚠️ 跟你現在練的「一段一個想法」規則相反，是更熟練後才用的壓縮技巧，先不要模仿。
 
 ### 定義 / 擴大概念
 
@@ -176,6 +201,14 @@ While it is true that [opposing point], this [convenience / benefit] is far outw
 ```
 > While it is true that sharing a common language would ease certain practical interactions, this convenience is far outweighed by what would be permanently lost.
 > 來源：Language Loss
+
+### 優缺點權衡型結論
+
+```
+In my view, despite [advantages], these do not compensate for [damage/cost].
+```
+> In my view, despite the advantages of travel to both tourists and host countries, these do not compensate for the damage inflicted on the environment, social structures and individuals by mass tourism.
+> 來源：International Tourism — 適合「Advantages & Disadvantages」題型，不是單純 agree/disagree 的表態句
 
 ### 行動句（可選）
 

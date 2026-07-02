@@ -119,13 +119,14 @@
 不能重複使用的 → 不存。
 
 ### Step 2 — 分類
-將內容歸類成下列五種，每一種都有固定存放位置：
+將內容歸類成下列六種，每一種都有固定存放位置：
 
 | 類型 | 說明 | 存放位置 |
 |---|---|---|
 | **Writing Patterns** | Essay Structure, Skeleton, Planning, Introduction/Conclusion/Paragraph Pattern | `02_writing/knowledge/` 對應檔案 |
 | **Reusable Expressions** | 自然、可重複使用的英文表達；不收一次性內容 | `02_writing/knowledge/expressions.md` |
 | **Sentence Patterns** | 可替換內容的句型骨架（不是背整句） | `02_writing/knowledge/sentence_patterns.md` |
+| **Reusable Ideas** | 可跨題目重複使用的論點/論證內容（不是語言，是「想法」本身）| `02_writing/knowledge/ideas.md` |
 | **Teacher Principles** | 老師的原則（不含示範內容） | `01_lessons/teacher.md` |
 | **Error Patterns** | Connie 的錯誤，依 confidence policy 更新 DB | `09_coach/errors/grammar_db.md` 等 |
 
@@ -139,6 +140,7 @@ introductions.md       ← Introduction templates by type
 conclusions.md         ← Conclusion templates and rules
 expressions.md         ← Reusable Expressions
 sentence_patterns.md   ← Sentence Patterns
+ideas.md               ← Reusable Ideas（跨題目論點庫）
 ```
 
 **Reusable Expressions 格式：**
@@ -159,6 +161,17 @@ Position: Introduction / Body / Conclusion
 Function: 說明功能
 Replace: 標示哪些部分可替換
 ```
+
+**Reusable Ideas 格式：**
+```markdown
+## [Idea 標題]
+Description: 這個論點在說什麼（一兩句話）
+Why Reusable: 為什麼能跨題目使用
+Possible Topics: 可以用在哪些主題（列 3–5 個）
+Development: 這個想法如果要展開成一段，Point → Explain → Example → Result 大概怎麼走（簡述即可，不用寫完整段落）
+Source: 出處（老師/文章/範文，附日期）
+```
+判斷標準跟 Step 1 相同：這個「想法」本身要能套進至少 3 個不同主題的作文，不是只適用於單一題目的內容（例如具體數據、某篇範文的專屬例子，不算 Reusable Idea）。
 
 ### Step 3 — 去除重複
 新增前先搜尋現有 `02_writing/knowledge/` 內容。

@@ -205,6 +205,16 @@ Reusable essay structures, templates, and frameworks. Read before every writing 
 - No memorisation, no frameworks — natural communication only
 - Part 3: extend to society-level scope, not just personal experience
 
+### Joe — Writing (new: public video course + 1:1 lessons, both added 2026-07-02)
+
+- Same "communication first" philosophy as his speaking coaching — exam only tests whether a reader can understand you, not how complex the writing is
+- Don't force higher-register vocabulary — produces wrong collocation/register/meaning and lowers score (confirms 核心規則 #4). **Refined by 1:1 lesson**: a natural, correctly-used advanced word that comes to mind is fine — the anti-pattern is *forcing* unfamiliar memorised words, not using real vocabulary
+- Don't use memorised fill-in-the-gap templates — examiners cap template writing at Band 2
+- Don't open with a pure paraphrase of the question — caps score ~Band 7; use a "then vs now" narrative contrast instead (added to `writing_patterns.md` §5)
+- Firstly/secondly/thirdly overuse ≠ coherence — real connection comes from explaining/exampling each reason, one idea per paragraph
+- ⚠️ Template conflict — now leaning resolved: Joe personally taught an intro sentence nearly identical to this project's own template in his 1:1 lesson, suggesting his Band-2 warning targets generic social-media templates, not this project's connector-only skeleton. See `knowledge/conflicts.md` — still needs your final confirmation to close
+- 16-topic video anti-pattern series in progress — 2 of 16 detailed so far, tracked in `knowledge/coaches/joe/distilled.md`
+
 ---
 
 ## What NOT to Practice

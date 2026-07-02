@@ -1,6 +1,6 @@
 # IELTS Writing Vocabulary — Anki Cards by Category
 # Date: 2026-07-01
-# Source: model essays (Skills vs Facts · Language Loss · Print vs Digital) + place adjectives
+# Source: model essays (Skills vs Facts · Language Loss · Print vs Digital · International Tourism [2026-07-02]) + place adjectives
 
 ---
 
@@ -165,6 +165,45 @@ Note:
 Almost always appears in the phrase "interpersonal skills." Useful in education and work-related essays.
 Common collocations:
 interpersonal skills · interpersonal relationships · interpersonal communication · interpersonal conflict
+
+---
+
+**Front:**
+An activity, place, or experience used to belong almost exclusively to one specific group (often a wealthy or privileged one), before becoming available to more people.
+What phrase describes "used to belong exclusively to [group]"?
+
+**Back:**
+**The preserve of [a group]**
+Pronunciation: /ðə prɪˈzɜːrv əv/
+Form: noun phrase
+Related forms:
+preserve = noun (exclusive domain) — different from the verb "to preserve" (protect/keep)
+Example:
+International travel used to be the preserve of the wealthy classes, but budget airlines have made it accessible to almost everyone.
+Note:
+Natural way to set up a "then vs now" contrast — something exclusive in the past becoming widely accessible now. From International Tourism model essay (2026-07-02).
+Common collocations:
+the preserve of the wealthy · the preserve of the elite · once the preserve of [group]
+
+---
+
+**Front:**
+The ability of people or things to move or travel — including how easily people can relocate, travel abroad, or change social/economic position.
+What noun describes this?
+
+**Back:**
+**Mobility**
+Pronunciation: /moʊˈbɪlɪti/ · moh-BIL-i-tee
+Form: noun (uncountable)
+Related forms:
+mobile = adjective
+No common verb form — use "move" or "travel."
+Example:
+This level of mobility has brought both cultural benefits and environmental costs.
+Note:
+Useful in essays on travel, globalisation, and social class ("social mobility"). From International Tourism model essay (2026-07-02).
+Common collocations:
+international mobility · social mobility · this level of mobility · increased mobility
 
 ---
 
@@ -371,6 +410,45 @@ Note:
 In IELTS essays, often appears with "negotiation" and "teamwork" as examples of social or workplace skills.
 Common collocations:
 delegation of tasks · effective delegation · delegation of authority · team delegation
+
+---
+
+**Front:**
+A job, income, or way of life is uncertain and insecure — it could disappear or fail at any time, often because it depends on seasonal or unstable conditions.
+What adjective describes this?
+
+**Back:**
+**Precarious**
+Pronunciation: /prɪˈkeəriəs/ · pri-KAIR-ee-us
+Form: adjective
+Related forms:
+precariously = adverb
+precariousness = noun
+Example:
+Although the hospitality industry brings employment, it tends to be precarious because much of the work is seasonal.
+Note:
+Precise, natural word for describing unstable jobs or income — stronger and more specific than "unstable." From International Tourism model essay (2026-07-02).
+Common collocations:
+precarious employment · a precarious existence · a precarious position · precarious income
+
+---
+
+**Front:**
+A large company that operates and owns businesses in more than one country.
+What phrase describes this kind of company?
+
+**Back:**
+**Multinational corporation(s)**
+Pronunciation: /ˌmʌltiˈnæʃənəl kɔːrpəˈreɪʃən/
+Form: noun phrase
+Related forms:
+multinational = adjective (can also stand alone: "a multinational")
+Example:
+Profits from tourism are often taken out of the local economy by multinational corporations.
+Note:
+Common in essays about globalisation, tourism, and economic inequality — pairs naturally with "profits taken out of" or "local economy." From International Tourism model essay (2026-07-02).
+Common collocations:
+multinational corporations · large multinational companies · profits taken out by multinational corporations
 
 ---
 
@@ -683,3 +761,23 @@ Note:
 【筆記外補充】Not from model essays — included because it is high-frequency in IELTS environment essays. More specific than "use up" or "reduce."
 Common collocations:
 deplete natural resources · ozone depletion · rapidly depleted · deplete energy reserves · resource depletion
+
+---
+
+**Front:**
+Serious harm or suffering is caused to something or someone — often used to describe the negative consequences of an action on the environment, society, or people.
+What phrase describes "damage caused to [X]"?
+
+**Back:**
+**Damage inflicted on [X]**
+Pronunciation: /ˈdæmɪdʒ ɪnˈflɪktɪd ɒn/
+Form: verb phrase (inflict = verb)
+Related forms:
+inflict = verb (to cause something unpleasant to be experienced)
+infliction = noun (rare)
+Example:
+The damage inflicted on the environment by mass tourism cannot be justified by its economic benefits.
+Note:
+Stronger and more formal than "damage caused to" — useful in conclusion sentences that weigh costs against benefits. From International Tourism model essay (2026-07-02).
+Common collocations:
+damage inflicted on the environment · inflict harm on · inflict damage · inflict suffering

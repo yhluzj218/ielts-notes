@@ -73,6 +73,12 @@
 
 ---
 
+## Related Ideas
+
+[選填：若本集 Speaking 主題在 `knowledge/ideas/<theme>/` 已有對應 idea note，列出連結；只放連結，不複製 idea 內容]
+
+---
+
 ## Shadowing 句子
 
 [8 句，每句 8–12 字]

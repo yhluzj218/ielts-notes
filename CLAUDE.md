@@ -20,6 +20,7 @@
    - 標題、日期（今天）、類型（Task 1 或 Task 2）
    - ## 題目（填入從圖讀出的題目原文）
    - ## 我的草稿（填入我寫的文章）
+   - ## Related Ideas（選填：若這題的論點在 `knowledge/ideas/<theme>/` 已有對應 idea note，用連結列出；只放連結，不複製 idea 內容進來；沒有對應的就留白，不用勉強湊）
 3. 檔名格式：主題關鍵字(英文,2-3字,連字號)_YYYY-MM-DD.md，自動依題目內容命名，不用我想。
 4. 建好後告訴我存到哪個檔名。
 
@@ -126,7 +127,7 @@
 | **Writing Patterns** | Essay Structure, Skeleton, Planning, Introduction/Conclusion/Paragraph Pattern | `02_writing/knowledge/` 對應檔案 |
 | **Reusable Expressions** | 自然、可重複使用的英文表達；不收一次性內容 | `02_writing/knowledge/expressions.md` |
 | **Sentence Patterns** | 可替換內容的句型骨架（不是背整句） | `02_writing/knowledge/sentence_patterns.md` |
-| **Reusable Ideas** | 可跨題目重複使用的論點/論證內容（不是語言，是「想法」本身）| `02_writing/knowledge/ideas.md` |
+| **Reusable Ideas** | 可跨題目重複使用的論點/論證內容（不是語言，是「想法」本身）| `knowledge/ideas/<theme>/`（Single Source of Truth，見 `knowledge/ARCHITECTURE.md`） |
 | **Teacher Principles** | 老師的原則（不含示範內容） | `01_lessons/teacher.md` |
 | **Error Patterns** | Connie 的錯誤，依 confidence policy 更新 DB | `09_coach/errors/grammar_db.md` 等 |
 
@@ -140,8 +141,10 @@ introductions.md       ← Introduction templates by type
 conclusions.md         ← Conclusion templates and rules
 expressions.md         ← Reusable Expressions
 sentence_patterns.md   ← Sentence Patterns
-ideas.md               ← Reusable Ideas（跨題目論點庫）
 ```
+
+Reusable Ideas 不存在 `02_writing/knowledge/` 底下 — 一律存到 `knowledge/ideas/<theme>/`，
+每個 idea 一個檔案（atomic note）。Writing / Speaking / Podcast / Sprint 只能引用連結，不可複製內容。
 
 **Reusable Expressions 格式：**
 ```markdown
@@ -163,20 +166,16 @@ Replace: 標示哪些部分可替換
 ```
 
 **Reusable Ideas 格式：**
-```markdown
-## [Idea 標題]
-Description: 這個論點在說什麼（一兩句話）
-Why Reusable: 為什麼能跨題目使用
-Possible Topics: 可以用在哪些主題（列 3–5 個）
-Development: 這個想法如果要展開成一段，Point → Explain → Example → Result 大概怎麼走（簡述即可，不用寫完整段落）
-Source: 出處（老師/文章/範文，附日期）
-```
+一個 idea 一個檔案，存到 `knowledge/ideas/<theme>/<claim-style-filename>.md`，格式見
+`knowledge/ideas/TEMPLATE.md`（不在此重複定義，避免兩份格式互相漂移）。
 判斷標準跟 Step 1 相同：這個「想法」本身要能套進至少 3 個不同主題的作文，不是只適用於單一題目的內容（例如具體數據、某篇範文的專屬例子，不算 Reusable Idea）。
 
 ### Step 3 — 去除重複
-新增前先搜尋現有 `02_writing/knowledge/` 內容。
+新增前先搜尋現有內容：
+- Writing Patterns / Expressions / Sentence Patterns → 搜尋 `02_writing/knowledge/`
+- Reusable Ideas → 搜尋 `knowledge/ideas/<theme>/`（依主題找對應資料夾，看是否已有相同 Core Idea）
 - 已有相同知識 → 不新增
-- 已有但可補充 → 延伸現有條目
+- 已有但可補充 → 延伸現有條目（Reusable Ideas 延伸該 idea note 的 Related Notes，不要建立重複檔案）
 - 全新知識 → 新增
 
 ### Step 4 — Error Pattern 處理
@@ -273,6 +272,12 @@ Speaking 主題依星期：
 
 ---
 
+## Related Ideas
+
+[選填：若本集 Speaking 主題在 `knowledge/ideas/<theme>/` 已有對應 idea note，列出連結；只放連結，不複製 idea 內容]
+
+---
+
 ## Shadowing 句子
 
 [8 句短句，每句 8–12 字，來自今天主題或 Cambridge 風格英文]
@@ -298,18 +303,26 @@ Speaking 主題依星期：
 
 ### 「start today」指令
 
+**Skill Sprint 為主，Theme Sprint 為輔**：Skill Sprint 決定今天做什麼練習（任務本身），Theme Sprint 只決定「如果這個練習需要一個主題/題目，用哪個主題」。Theme Sprint 不能新增、取代、或改變 Skill Sprint 排定的任務。
+
 當我說「start today」時，執行：
 
-1. 讀 `09_coach/dashboard.md` 確認當前 sprint 和日期
-2. 讀當前 sprint 檔，找到今天日期對應的 session
-3. 如果今天不是 sprint 排程的練習日（例如週日），告訴我：「今天是休息日，下一個 session 是 [日期/星期]：[任務名稱]」
-4. 用以下格式輸出，只顯示今天的內容：
+1. 讀 `09_coach/dashboard.md` 確認當前 Skill Sprint 和日期
+2. 讀當前 Skill Sprint 檔（`sprints/sprint-XXX.md`），找到今天日期對應的 session — 這是今天任務的唯一依據
+3. 檢查 `09_coach/sprints/` 底下是否有 Status: Active 且日期涵蓋今天的 Theme Sprint 檔（`theme-*.md`）：
+   - 有，且今天的任務需要一個主題/題目（例如寫作草稿、口說練習、Podcast Speaking 段落）→ 從該 Theme Sprint 的 Source Ideas（`knowledge/ideas/<theme>/`）挑一個尚未用過的 idea note 作為今天的題材
+   - 沒有 Active Theme Sprint，或今天的任務不需要主題（例如純文法 drill、聽力 S4 練習）→ 完全比照原本方式，不受影響
+4. 如果今天不是 sprint 排程的練習日（例如週日），告訴我：「今天是休息日，下一個 session 是 [日期/星期]：[任務名稱]」
+5. 用以下格式輸出，只顯示今天的內容：
 
 ```
 ## 今天 [星期] [日期] — [任務名稱]
 
 **為什麼做這個**
 [一段話，說明這個練習針對哪個弱點、哪位教練的原則]
+
+**今日主題**（只有當 Theme Sprint Active 且任務需要主題時才顯示）
+[主題名稱] — 題材來自 `knowledge/ideas/<theme>/<idea-note>.md`
 
 **練習步驟**
 [條列步驟，含每段預估時間]
@@ -336,8 +349,9 @@ Speaking 主題依星期：
    - 寫作 error scan → `errors/grammar_db.md` / `errors/preposition_db.md` / `errors/word_form_db.md`
    - 寫作成績 → `performance/writing_db.md`
    - `connie_profile.md` Evidence Log 追加一行
-3. 依一致性更新規則，判斷是否需要重新生成 `dashboard.md`
-4. 完成後回報：
+3. 如果今天用了 Theme Sprint 的 idea（`start today` 有顯示「今日主題」）→ 在該 Theme Sprint 檔案對應的 Output Links 欄位（Writing drafts / Speaking notes / Podcast episode）追加今天產出的檔案連結
+4. 依一致性更新規則，判斷是否需要重新生成 `dashboard.md`
+5. 完成後回報：
 
 ```
 ## 今天完成 ✓
@@ -396,6 +410,11 @@ Speaking 主題依星期：
 
 ```
 knowledge/                   ← 教練策略知識庫（Sprint 規劃前必讀）
+├── ideas/                   ← Reusable Ideas 唯一知識來源（SSOT，見 ARCHITECTURE.md）
+│   ├── INDEX.md
+│   ├── TEMPLATE.md
+│   └── <theme>/<idea-note>.md   ← 一個 idea 一個檔案，Writing/Speaking/Podcast/Sprint 只能引用連結
+├── ARCHITECTURE.md          ← Knowledge Layer 設計說明（SSOT、Atomic Notes、Mermaid diagram）
 ├── coaches/
 │   ├── simon/
 │   │   ├── originals/       ← 原始文章（verbatim，不修改）

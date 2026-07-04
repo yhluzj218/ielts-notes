@@ -1,22 +1,25 @@
 # IELTS Coach Dashboard
 
 > **Single entry point. Read this first, every time.**
-> Last generated: 2026-06-29
+> Last generated: 2026-07-04 (Week 1 rebuilt around confirmed italki calendar)
 > Source files: `connie_profile.md` · `performance/*.md` · `errors/*.md` · `sprints/sprint-001.md`
 
 ---
 
 ## Current Sprint
 
-**Sprint-001** · 2026-06-29 (Mon) — 2026-07-12 (Sun) · Status: Active
+**Sprint-001** · 2026-07-06 (Mon) — 2026-07-19 (Sun) · Status: Active
+
+> **Reset 2026-07-04:** original 6/29–7/5 week discarded (tracking got confusing,
+> nothing was logged to any DB from it). Clean restart from Monday 7/6.
 
 | | |
 |---|---|
 | Primary goal | Writing — question type identification + body paragraph development chain |
 | Secondary goal | Listening — S4 verification method |
-| Matt assessment | ~2026-07-15 |
+| Matt assessment | Confirmed 2026-07-15, 21:15 (Wed, Week 2) |
 | Weekly commute | Podcast (45 min) + Speaking practice (45 min) |
-| Weekly evenings | Writing (Mon/Wed) · Listening (Tue) · Joe lesson (Thu) · Matt lesson/prep (Fri) |
+| Weekly evenings | Writing (Mon/Wed) · Listening (Tue) · Joe lesson (Thu) · Matt lesson/prep (Fri) — **Week 1 (7/6–7/12) overridden by real Joe offline deadlines, see sprint-001.md §5** |
 | Sunday | Full Mock + error analysis |
 
 Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)
@@ -53,44 +56,63 @@ Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)
 
 ---
 
-## This Week (6/29 — 7/5)
+## This Week
 
-**Week objective:** Method acquisition — learn question type identification, skeleton, body paragraph chain without time pressure (D1)
+**Today (Sat 7/4) and tomorrow (Sun 7/5) are rest — not part of the sprint.** Sprint-001
+restarts fresh on **Monday 7/6**. The Full Mock originally planned for tomorrow is
+cancelled; the first mock is now Sun 7/12 (end of new Week 1).
+
+**Week objective (starting Mon 7/6):** Method acquisition — **overridden this week
+only** by real Joe italki bookings (confirmed 2026-07-04). Same method (question
+type → skeleton → body chain), but real deadlines force D2/D3-level full essays
+instead of untimed drills. See `sprint-001.md` §5 Week 1 for full detail.
 
 **This week's focus skill:** Writing (primary) · Listening S4 (secondary)
 
 | Day | Evening task | Status |
 |---|---|---|
-| Mon 6/29 | Writing D1: Question type drill + skeleton | ⬜ |
-| Tue 6/30 | Listening D1: Cambridge S4 + transcript analysis | ⬜ |
-| Wed 7/1 | Writing D1: Body paragraph development | ⬜ |
-| **Thu 7/2** | **Joe Speaking Lesson** | ⬜ |
-| Fri 7/3 | Writing review + rest | ⬜ |
-| Sat 7/4 | Buffer / catch-up | ⬜ |
-| **Sun 7/5** | **Full Mock #1** + error analysis | ⬜ |
+| Sat 7/4 | Rest (today) | — |
+| Sun 7/5 | Rest — Full Mock cancelled | — |
+| **Mon 7/6** | Full Essay #1 — due tonight for Tue 7/7 Joe offline review | ⬜ |
+| **Tue 7/7** | Joe offline review (already submitted) + Listening D1: Cambridge S4 | ⬜ |
+| Wed 7/8 | Finish 7/2 lesson's unfinished essay — due for Thu 7/9 live lesson | ⬜ |
+| **Thu 7/9** | **Joe live writing lesson** (bring finished 7/2 essay) | ⬜ |
+| **Fri 7/10** | Full Essay #2 — due tonight for Sat 7/11 Joe offline review | ⬜ |
+| **Sat 7/11** | Joe offline review (already submitted) + light buffer | ⬜ |
+| **Sun 7/12** | **Full Mock #1** + error analysis | ⬜ |
 
 ---
 
 ## Lesson Preparation
 
-### Next Joe Lesson — Thu 7/2
+### Last Joe Lesson — Thu 7/2 (writing, not speaking as planned)
 
 | | |
 |---|---|
 | Date | Thursday 2026-07-02 |
-| Wednesday commute | Part 2 × 3 topics out loud |
-| Thursday commute | Full run-through of one Part 2 topic |
-| Known weak area | Part 2 stamina (must fill 2 min consistently) · overthinking |
-| Joe's key rule | Do not overthink. Natural delivery over perfect structure. |
+| Actual content | Writing lesson (first time) — Task 2 objective, forcing vocabulary, linking words ≠ coherence, "then vs now" intro. Full notes: `01_lessons/writing/writing-lesson_2026-07-02.md` |
+| Already distilled into | `writing_patterns.md` §5 · `10_knowledge_base/coaches/joe/distilled.md` · `10_knowledge_base/consensus/writing.md` |
+| New error observed (1st occurrence, not yet DB) | `get use of` → should be `get used to` |
 
-### Next Matt Lesson — ~2026-07-15
+### Next Joe Touchpoints — all writing this week (confirmed via italki calendar, 2026-07-04)
+
+| Date | Format | What to bring |
+|---|---|---|
+| Tue 2026-07-07 | Offline (async review) | New full essay, submitted Mon 7/6 night |
+| Thu 2026-07-09 | Live video | Finished 7/2 lesson essay (online shopping / opinion) |
+| Sat 2026-07-11 | Offline (async review) | A different new full essay, submitted Fri 7/10 night |
+
+⚠️ Not speaking this week — the "Thursday = Joe Speaking Lesson" default (see
+`sprint-001.md` §6) does not apply to 7/9. Full detail: `sprint-001.md` §5 Week 1.
+
+### Next Matt Lesson — Confirmed 2026-07-15, 21:15
 
 | | |
 |---|---|
-| Date | ~Wednesday 2026-07-15 (confirm when scheduled) |
-| Essay to bring | `02_writing/task2/drafts/[topic]_2026-07-08.md` (from Wed 7/8 evening) |
+| Date | Wednesday 2026-07-15, 21:15 (confirmed via italki calendar) |
+| Essay to bring | `02_writing/task2/drafts/[topic]_2026-07-15.md` (Wed 7/15 evening), or Mon 7/13's essay if that's further along by lesson time |
 | Tell Matt | "I practised question type identification and body paragraph development for 2 weeks." |
-| Questions to prepare | (fill in after Wed 7/8 session) |
+| Questions to prepare | (fill in after Wed 7/15 session) |
 | Matt's key rule | Task Response first. Skeleton before writing. Finished > Perfect. |
 
 ---
@@ -111,10 +133,10 @@ Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)
 
 | Skill | Next action | When |
 |---|---|---|
-| **Writing** | Question type drill (5 prompts) + skeleton (1 prompt) | Mon 6/29 evening |
-| **Listening** | Cambridge S4 section + full transcript analysis | Tue 6/30 evening |
+| **Writing** | Full Essay #1 (question type → skeleton → full essay) — due tonight for Joe's Tue offline review | Mon 7/6 evening |
+| **Listening** | Cambridge S4 section + full transcript analysis | Tue 7/7 evening |
 | **Speaking** | Part 2 × 3 out loud during commute | Mon–Wed commute |
-| **Reading** | No action — maintain only. Sunday mock reading section. | Sun 7/5 |
+| **Reading** | No action — maintain only. Sunday mock reading section. | Sun 7/12 |
 
 ---
 
@@ -159,7 +181,7 @@ Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)
 
 Reusable essay structures, templates, and frameworks. Read before every writing session.
 
-[`02_writing/knowledge/writing_patterns.md`](../02_writing/knowledge/writing_patterns.md) — last updated 2026-06-29
+[`10_knowledge_base/writing/writing_patterns.md`](../10_knowledge_base/writing/writing_patterns.md) — last updated 2026-06-29
 
 | Section | Contents |
 |---|---|
@@ -212,8 +234,8 @@ Reusable essay structures, templates, and frameworks. Read before every writing 
 - Don't use memorised fill-in-the-gap templates — examiners cap template writing at Band 2
 - Don't open with a pure paraphrase of the question — caps score ~Band 7; use a "then vs now" narrative contrast instead (added to `writing_patterns.md` §5)
 - Firstly/secondly/thirdly overuse ≠ coherence — real connection comes from explaining/exampling each reason, one idea per paragraph
-- ⚠️ Template conflict — now leaning resolved: Joe personally taught an intro sentence nearly identical to this project's own template in his 1:1 lesson, suggesting his Band-2 warning targets generic social-media templates, not this project's connector-only skeleton. See `knowledge/conflicts.md` — still needs your final confirmation to close
-- 16-topic video anti-pattern series in progress — 2 of 16 detailed so far, tracked in `knowledge/coaches/joe/distilled.md`
+- ⚠️ Template conflict — now leaning resolved: Joe personally taught an intro sentence nearly identical to this project's own template in his 1:1 lesson, suggesting his Band-2 warning targets generic social-media templates, not this project's connector-only skeleton. See `10_knowledge_base/conflicts.md` — still needs your final confirmation to close
+- 16-topic video anti-pattern series in progress — 2 of 16 detailed so far, tracked in `10_knowledge_base/coaches/joe/distilled.md`
 
 ---
 
@@ -250,7 +272,7 @@ Reusable essay structures, templates, and frameworks. Read before every writing 
 | Sunday mock 後 | 貼上成績和錯誤分類 | 更新 `listening_db.md`、`writing_db.md`、`connie_profile.md`、`dashboard.md` |
 | 有草稿要批改 | `批改` + 草稿路徑 | 評分 + 存 feedback + 更新 DB |
 | 上完課 | `更新筆記` + 逐字稿 | 拆解到各筆記 + 更新 DB |
-| 需要隔天 Podcast | `幫我準備明天的 Podcast` + 今天錯誤 | 填入模板 `07_podcast/episodes/YYYY-MM-DD.md` |
+| 需要隔天 Podcast | `幫我準備明天的 Podcast`（不用附輸入） | 自動從 Knowledge Base 選材，生成 ConnieVerse 劇情腳本 `07_podcast/episodes/YYYY-MM-DD.md` |
 
 **你不需要打開 sprint 文件。`start today` 會自動找到今天的任務。**
 

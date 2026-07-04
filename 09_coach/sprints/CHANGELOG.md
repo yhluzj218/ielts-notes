@@ -1,5 +1,25 @@
 # Sprint Template Changelog
 
+## THEME_SPRINT_TEMPLATE.md v1.2 — 2026-07-04
+
+New guiding principle: **Theme Sprint builds a Mental Model, not a model-essay
+collection.** Reading Simon/Cambridge/teacher material during a Theme Sprint is about
+understanding reasoning, not memorising text. Changes:
+- Added "Guiding Principle" section explaining Mental Model purpose
+- Added explicit Workflow diagram: Theme Sprint → Mental Model → Skill Sprint Writing
+  → Teacher Feedback → Update Knowledge Base Learning Status → next Skill Sprint
+- Added "Weekly Output — Mental Model" section with 5 required parts: Core Arguments,
+  Skeleton (Claim→Reason→Mechanism→Impact→Example), Reasoning Patterns, Functional
+  Language, Natural Collocations — each with explicit routing to where it's stored
+  permanently (idea notes vs `10_knowledge_base/writing/`)
+- Companion changes in the same pass (not to this file, but part of the same design
+  update): `10_knowledge_base/ideas/TEMPLATE.md` gained a `Learning Status` field
+  (New/Practised/Internalised) and replaced the old prose "Writing Use" section with
+  a structured `Skeleton` table; new `10_knowledge_base/writing/expressions.md` created as
+  the home for cross-topic Functional Language and Natural Collocations; existing 6
+  idea notes migrated to the new format; `writing_patterns.md` §8b added for
+  Reasoning Patterns
+
 ## THEME_SPRINT_TEMPLATE.md v1.1 — 2026-07-04
 
 Clarified relationship: **Skill Sprint is primary, Theme Sprint is supplementary.**
@@ -18,7 +38,7 @@ New, separate template for weekly content-theme task control (distinct from the
 skill-remediation sprint below). Sections:
 - Week / Theme / Why I chose this theme (user-filled, not AI-decided)
 - Goals (Writing / Speaking / Podcast / Idea Bank)
-- Source Ideas (links to `knowledge/ideas/<theme>/`, no content copied in)
+- Source Ideas (links to `10_knowledge_base/ideas/<theme>/`, no content copied in)
 - This Week Tasks (Writing / Speaking / Podcast / Review)
 - Output Links
 

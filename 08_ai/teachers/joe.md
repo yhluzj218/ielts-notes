@@ -7,7 +7,7 @@
 | Speaking lessons recorded | 2026-06-01, 2026-06-15, 2026-06-22 |
 | Writing lessons recorded | 2026-07-02 (first one, 1:1 — first transcript attempt was unusable ASR noise, re-collected with speaker labels; note the clean version's diarization still splits Connie's turns across multiple speaker IDs — Speaker 3 = Joe, all others = Connie) |
 | Note | 2026-05-25 trial and 2026-06-08 were taught by Matt — see matt.md |
-| Writing course (public video) | Verbatim transcripts stored in `knowledge/coaches/joe/originals/`; distilled principles in `knowledge/coaches/joe/distilled.md` § Writing — Anti-Pattern Course. As of 2026-07-02: 2 of 16 topics detailed (Forcing Vocabulary, Using a Template) + a Band Descriptors overview. |
+| Writing course (public video) | Verbatim transcripts stored in `10_knowledge_base/coaches/joe/originals/`; distilled principles in `10_knowledge_base/coaches/joe/distilled.md` § Writing — Anti-Pattern Course. As of 2026-07-02: 2 of 16 topics detailed (Forcing Vocabulary, Using a Template) + a Band Descriptors overview. |
 
 ---
 

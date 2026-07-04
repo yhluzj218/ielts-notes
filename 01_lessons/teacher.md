@@ -7,7 +7,7 @@
 - 寫作授課：7/02（第一堂，一對一課，逐字稿分軌錯誤把我拆成好幾個 speaker 編號）
 - 教學重點（口說）：自然溝通、不背稿不看 IELTS 社媒、用題目本身架 Part 2 結構、don't overthink
 - 教學重點（寫作）：Task 2 目標是清楚溝通立場+理由（不是列想法）、不刻意硬塞詞彙、不背誦連接詞組合、linking words 不等於連貫、不要只用改寫題目當開頭
-- 也有公開影片課程（"Things That Lower Your Score"系列），逐字稿與知識整理在 `knowledge/coaches/joe/`
+- 也有公開影片課程（"Things That Lower Your Score"系列），逐字稿與知識整理在 `10_knowledge_base/coaches/joe/`
 
 ### Matt — 寫作老師（兼早期口說）
 - 口說授課：5/25 試聽課、6/08
@@ -165,7 +165,7 @@
 ### 不要只用「改寫題目」當開頭（Joe，寫作課，2026-07-02）
 - 中國考生常見誤區：把題目改寫一次當作第一句。這樣寫分數偏低——因為太表面，任何人都能做到（甚至不會英文的人都能學），做不出足夠的書面溝通能力，最多拿 7 分（要完美改寫才行），拿不到 7 以上。
 - 替代寫法：用「今昔對比」的敘事式開頭。範例：`A hundred years ago, if you wanted to buy something, you would need to go to a local shop... Nowadays, the way we purchase things has changed dramatically.`
-- 已補進 `02_writing/knowledge/writing_patterns.md` §5 作為新的 Introduction 選項。
+- 已補進 `10_knowledge_base/writing/writing_patterns.md` §5 作為新的 Introduction 選項。
 
 ### 考場時間分配練習（Joe 推薦的資源，非 Joe 原創內容，2026-07-02）
 ⚠️ 這不是 Joe 自己講的內容，是 Joe 推薦給我的一份 IELTS 資源/範例，來源不是 Joe 本人。

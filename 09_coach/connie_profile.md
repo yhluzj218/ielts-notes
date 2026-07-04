@@ -498,6 +498,16 @@ Connie does not benefit from:
 * vocabulary-heavy recommendations
 * overly complicated frameworks
 
+### 10.1 Memory / Internalisation Style (added 2026-07-04)
+
+Plain-text memorisation (copying, re-reading, rote recall) tends to get stuck at
+**recognition** for Connie — she can understand a pattern on sight but can't
+retrieve it under exam pressure. This isn't an age issue; it's a match issue between
+the input method and how she processes language. She responds better to:
+image/visual scene → gesture/embodied action → spoken output → written form last.
+This plays to her actual strengths — understanding, creativity, situational sense —
+rather than rote storage. Full practice method: `10_knowledge_base/practice_method.md`.
+
 ---
 
 ## 11. Sprint History

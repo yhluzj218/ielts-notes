@@ -27,5 +27,5 @@
 ### Natural Chunks
 
 ## Related Ideas
-- 選填：若這題的論點在 `knowledge/ideas/<theme>/` 已有對應 idea note，用連結列出
+- 選填：若這題的論點在 `10_knowledge_base/ideas/<theme>/` 已有對應 idea note，用連結列出
 - 只放連結，不複製 idea 內容進來

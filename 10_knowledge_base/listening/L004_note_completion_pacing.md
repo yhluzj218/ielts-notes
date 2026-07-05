@@ -3,7 +3,7 @@ id: L004
 category: listening
 tags: [listening, note-completion, pacing, s4]
 difficulty: Medium
-source: 07_podcast/daily_template.md
+source: 07_podcast/templates/daily_template.md
 last_updated: 2026-06-29
 ---
 

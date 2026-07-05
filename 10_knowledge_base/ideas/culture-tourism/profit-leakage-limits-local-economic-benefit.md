@@ -15,7 +15,7 @@ benefits the local economy.
 
 | Step | Content |
 |---|---|
-| Claim | Money spent by an outside group is seldom retained by the local economy |
+| Claim | Money spent by an outside group is seldom retained within the local economy |
 | Reason | Revenue and local benefit are not the same thing — what matters is who captures the spending, not how much is spent |
 | Mechanism | If the businesses capturing most of the spending are foreign-owned or don't reinvest locally, the money "leaks out" rather than circulating within the local economy |
 | Impact | The local community sees little real economic benefit |
@@ -31,8 +31,12 @@ Part 3 answers to "Does [tourism/foreign investment] benefit the local economy?"
 international companies rather than staying in the local community."
 
 ## Useful Chunks
-- "seldom retained by the local economy"
+- [`be unevenly distributed`](../../expressions/be-unevenly-distributed.md)
+- [`Uneven distribution: minority versus majority`](../../sentence_patterns/uneven-distribution-minority-majority.md)
+- [`be retained within the local economy`](../../expressions/be-retained-within-the-local-economy.md)
+- [`Related to this is the fact that [clause].`](../../sentence_patterns/related-to-this-is-the-fact-that.md)
 - "profits are taken out by..."
+- [`multinational corporations`](../../expressions/multinational-corporations.md)
 - "little real economic benefit"
 
 ## Related Notes

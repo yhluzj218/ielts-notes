@@ -34,7 +34,7 @@ Concl:   權衡優缺點，給出「利大於弊 / 弊大於利」的結論
 > `[Paraphrase 現象/趨勢].` `This essay will discuss both the advantages and disadvantages of [X], before concluding that [利大於弊/弊大於利].`
 
 **Conclusion 模板：**
-> `In my view, despite [優點], these do not compensate for [缺點/代價].`
+> [`In my view, despite [advantages], these do not compensate for [costs or damage].`](../sentence_patterns/despite-advantages-do-not-compensate-for-costs.md)
 > 或反過來：`In my view, the benefits of [X] far outweigh the drawbacks.`
 
 ---
@@ -43,7 +43,10 @@ Concl:   權衡優缺點，給出「利大於弊 / 弊大於利」的結論
 
 真實範本 [International Tourism](../../02_writing/task2/models/international-tourism_model_2026-07-02.md) 示範了兩個進階技巧：
 
-1. **Intro 省略明講的表態句**——只用一句背景陳述，讓 Body 1／Body 2 的主旨句（"There are undoubtedly benefits..." / "There are, however, drawbacks...")自己完成表態功能。
+1. **Intro 省略明講的表態句**——只用一句背景陳述，讓 Body 1／Body 2 的主旨句
+  （[`There are undoubtedly benefits flowing from [X].`](../sentence_patterns/there-are-undoubtedly-benefits-flowing-from.md)
+  / [`There are, however, drawbacks associated with [X].`](../sentence_patterns/there-are-however-drawbacks-associated-with.md)）
+  自己完成表態功能。
 2. **Body 2（缺點段）塞了 4 個獨立理由**，用 Firstly / Secondly / Related to this / Finally 串起來，不是「一段一個想法」。
 
 這兩個技巧在你熟練 skeleton 之後可以學，**現在的 sprint 先用標準結構（intro 明確表態、body 一段一個想法）**。

@@ -68,8 +68,13 @@ This rhythm repeats every week. Commute slots and evening slots are separate.
 
 ### Podcast Template File
 
-Each night (5–10 min), fill in `07_podcast/daily_template.md` and save as `07_podcast/episodes/YYYY-MM-DD.md`.
-Use the completed file as your morning drive script (read aloud or convert to audio).
+The automatic nightly Episode Package workflow is disabled. Phase 1 can generate
+only a source-grounded NotebookLM brief after Connie supplies an IELTS question,
+model essay, article, notes, or viewpoints. Research-Assisted Mode may supplement
+that material with logged, credible external sources. Briefs are stored in
+`07_podcast/source_briefs/`. Stage 2 can generate ElevenLabs/TTS controlled output
+practice only after Connie supplies a Core Pattern, Model Sentence, and three to
+five Vocabulary / Expressions and passes the context gate.
 
 ### Weekly Podcast Focus
 
@@ -85,10 +90,17 @@ Use the completed file as your morning drive script (read aloud or convert to au
 
 ### Night-Before Prep Steps
 
-1. Open `07_podcast/daily_template.md`
-2. Fill in: one correction from today, 3–5 word/chunk items, one speaking prompt, 5–8 shadowing sentences
-3. Save as `07_podcast/episodes/YYYY-MM-DD.md`
-4. Total time: 5–10 min
+There is no automatic night-before generation.
+
+If Connie has selected source material:
+
+1. Provide the IELTS question, model essay, article, notes, or viewpoints.
+2. Trigger `生成 Podcast` or `根據這些資料產生 NotebookLM source brief`.
+3. Review the grounded brief and NotebookLM Generation Prompt.
+4. After NotebookLM listening, provide `# Output Drill Input` and trigger
+   `產生 Output Drill Script` if controlled speaking practice is wanted.
+5. For a final memory song, provide `# Chant Input` with the Target Sentence Pattern
+   and trigger `產生 Chant`.
 
 ---
 

@@ -31,7 +31,7 @@ different content, not different structure.
 
 ## Useful Chunks
 只放這個 idea 專屬、離開這個論點就不太自然的搭配（跨主題通用的片語放
-`10_knowledge_base/writing/expressions.md`，不要放這裡）。
+`10_knowledge_base/expressions/`，不要放這裡）。
 - chunk 1
 - chunk 2
 - chunk 3

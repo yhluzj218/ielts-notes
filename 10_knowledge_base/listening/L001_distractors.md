@@ -3,7 +3,7 @@ id: L001
 category: listening
 tags: [listening, s4, strategy, distractors]
 difficulty: Medium
-source: 07_podcast/daily_template.md · Cambridge practice
+source: 07_podcast/templates/daily_template.md · Cambridge practice
 last_updated: 2026-06-29
 ---
 

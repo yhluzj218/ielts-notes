@@ -3,7 +3,7 @@ id: L005
 category: listening
 tags: [listening, prediction, note-completion, s4, strategy]
 difficulty: Easy
-source: 07_podcast/daily_template.md · 07_podcast/episodes/2026-06-30.md
+source: 07_podcast/templates/daily_template.md · 09_coach/archive/pre-connieverse-podcast/2026-06-30.md
 last_updated: 2026-06-29
 ---
 

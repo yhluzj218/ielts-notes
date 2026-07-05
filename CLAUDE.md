@@ -70,13 +70,8 @@
    `- [主題](相對路徑) — 題型 — 一句話說明這篇的亮點`
 4. 存檔前先檢查同題是否已有範本；若有，提醒我：
    「已有 X 篇，建議比較後只留最好的一兩版」
-5. 更新 10_knowledge_base/writing/sentence_patterns.md：
-   把這篇「連接詞/句型片語」區塊的內容，按 skeleton 位置分類追加（去重後加入）。
-   同時判斷這句話說出來自不自然（Podcast Candidate），自然的話也加進檔案底部
-   「🎙️ Podcast Candidates」表格。
-   另外檢查「值得學的表達」裡有沒有真正跨主題（不綁特定 skeleton 位置）的表達或搭配詞，
-   有的話追加進 10_knowledge_base/writing/expressions.md（去重後加入，新增時 Learning Status
-   預設為 New，同時判斷並填入 Podcast Candidate 欄位）。
+5. 把可重複使用的表達更新到 `10_knowledge_base/expressions/`，可替換內容的
+   句型骨架更新到 `10_knowledge_base/sentence_patterns/`；先去重再新增。
 6. 更新對應的 skeleton 檔（10_knowledge_base/writing/skeleton_*.md）：
    判斷這篇用的是哪個 variation → 補上真實例子連結。
    若是現有 variation 沒有的新結構 → 新增一個 variation。
@@ -100,7 +95,7 @@
 這次合併只是讓「存範本」處理範文時，順便執行萃取知識裡「Reusable Ideas」那一段邏輯，
 不影響萃取知識本身的其他 5 種知識類型判斷。
 
-## Anki 卡片行為（手動觸發）
+## Anki 卡片行為（手動觸發；與 weekly review 自動分流並存）
 當我在對話中貼上我自己挑好的片語／句型／單字，並說「幫我做 Anki 卡」時，執行：
 1. 依題型分資料夾輸出 Anki 卡片 md 檔：
    - 寫作 → 08_ai/anki/writing/主題_YYYY-MM-DD.md
@@ -114,6 +109,10 @@
    - ## [Expression] 自然搭配 / 短語
    - ## [Vocab] 單字（Front 說清楚使用情境，Back 附詞性與例句）
 4. 存檔後告訴我存到哪，我自己會修改後手動放進 Anki。
+
+手動指令處理 Connie 當下指定的素材；`weekly review` 則處理
+`09_coach/knowledge_review_queue.md` 尚未獲得練習的 Knowledge。兩者產生前都必須
+搜尋整個 `08_ai/anki/`，相同 target 不得重複建卡。
 
 ## 更新筆記行為
 當我貼上一份「上課逐字稿」並說「更新筆記」時，執行：
@@ -133,131 +132,256 @@
 4. 我確認沒問題後，才提醒我可以 git add/commit/push 存檔。
 
 ## 萃取知識行為
-當我貼上老師逐字稿、寫作批改、Simon 文章或任何 IELTS 教學內容，並說「萃取知識」時，執行以下流程：
+當我貼上英文句子、段落、單字、collocation、expression 或 IELTS 教學內容，並說
+「萃取知識」、「收錄 Knowledge Base」、「加入知識庫」、「學這句」、
+「這句不錯」或「值得收錄」時，執行以下流程。把 Knowledge Base 當成資料庫維護，
+不是一般筆記：**先搜尋，預設更新，真正全新的概念才建立。**
 
-### Step 1 — 識別可重複使用的知識
-判斷標準：「半年後看到，仍然可以直接拿來寫另一篇作文或回答另一題 IELTS。」
-不能重複使用的 → 不存。
+### Step 1 — 萃取可重複使用的知識
 
-### Step 2 — 分類
-將內容歸類成下列六種，每一種都有固定存放位置：
+不要預設保存整句。先辨認真正可重複使用的 Expression、Sentence Pattern、Grammar
+point、IELTS Idea、Writing methodology、Listening/Speaking strategy 或 Coach
+principle。一次性措辭與換題便失效的內容不存。
 
-| 類型 | 說明 | 存放位置 |
-|---|---|---|
-| **Writing Patterns** | Essay Structure, Skeleton, Planning, Introduction/Conclusion/Paragraph Pattern | `10_knowledge_base/writing/` 對應檔案 |
-| **Reusable Expressions** | 自然、可重複使用的英文表達；不收一次性內容 | `10_knowledge_base/writing/expressions.md` |
-| **Sentence Patterns** | 可替換內容的句型骨架（不是背整句） | `10_knowledge_base/writing/sentence_patterns.md` |
-| **Reusable Ideas** | 可跨題目重複使用的論點/論證內容（不是語言，是「想法」本身）| `10_knowledge_base/ideas/<theme>/`（Single Source of Truth，見 `10_knowledge_base/ARCHITECTURE.md`） |
-| **Teacher Principles** | 老師的原則（不含示範內容） | `01_lessons/teacher.md` |
-| **Error Patterns** | Connie 的錯誤，依 confidence policy 更新 DB | `09_coach/errors/grammar_db.md` 等 |
+判斷標準：「半年後仍能直接拿來寫另一篇作文、回答另一題 IELTS，或改善同類任務嗎？」
 
-`10_knowledge_base/writing/` 的檔案結構：
-```
-essay_patterns.md      ← Essay Structure, 題型結構
-question_types.md      ← 題型辨識規則
-planning.md            ← Planning workflow, Skeleton principle
-paragraph_patterns.md  ← Body paragraph chain
-introductions.md       ← Introduction templates by type
-conclusions.md         ← Conclusion templates and rules
-expressions.md         ← Reusable Expressions
-sentence_patterns.md   ← Sentence Patterns
-```
+### Step 2 — 先搜尋現有知識
 
-Reusable Ideas 不存在 `10_knowledge_base/writing/` 底下 — 一律存到 `10_knowledge_base/ideas/<theme>/`，
-每個 idea 一個檔案（atomic note）。Writing / Speaking / Podcast / Sprint 只能引用連結，不可複製內容。
+建立任何內容前，搜尋整個 `10_knowledge_base/`，並優先：
 
-**Reusable Expressions 格式**（實際格式見 `10_knowledge_base/writing/expressions.md`，這裡不重複定義完整範例避免漂移）：
-加進「Functional Language」或「Natural Collocations」表格，欄位包含 Expression、
-Function、**Learning Status**（新增預設 New）、**Podcast Candidate**（Yes/No ——
-這句話說出來自然嗎？判斷標準見該檔案開頭說明）、Notes/Source。
+1. 更新既有條目：補更好的例句、usage、解釋或相關連結
+2. 合併重複知識
+3. 只有概念確實全新，才建立新條目或新檔案
 
-**Sentence Patterns 格式**（實際格式見 `10_knowledge_base/writing/sentence_patterns.md`）：
-按 skeleton 位置（Introduction/Body/Conclusion）加進對應區塊的 code block + 來源引用。
-如果這句話也適合口說（不是只有書面正式簽署語），額外加進檔案底部的
-「🎙️ Podcast Candidates」表格。
+不要因為來源、措辭或例句不同，就建立同一概念的第二份筆記。
 
-**Reusable Ideas 格式：**
-一個 idea 一個檔案，存到 `10_knowledge_base/ideas/<theme>/<claim-style-filename>.md`，格式見
-`10_knowledge_base/ideas/TEMPLATE.md`（不在此重複定義，避免兩份格式互相漂移）。
-判斷標準跟 Step 1 相同：這個「想法」本身要能套進至少 3 個不同主題的作文，不是只適用於單一題目的內容（例如具體數據、某篇範文的專屬例子，不算 Reusable Idea）。
+### Step 3 — 正確分類
 
-### Step 3 — 去除重複
-新增前先搜尋現有內容：
-- Writing Patterns / Expressions / Sentence Patterns → 搜尋 `10_knowledge_base/writing/`
-- Reusable Ideas → 搜尋 `10_knowledge_base/ideas/<theme>/`（依主題找對應資料夾，看是否已有相同 Core Idea）
-- 已有相同知識 → 不新增
-- 已有但可補充 → 延伸現有條目（Reusable Ideas 延伸該 idea note 的 Related Notes，不要建立重複檔案）
-- 全新知識 → 新增
-
-### Step 4 — Error Pattern 處理
-- 已在 DB → Count +1，Last Seen 更新
-- 新錯誤第一次 → 只加 Evidence，不建 entry
-- 新錯誤第二次 → 建 Low confidence entry
-
-### Step 5 — 回報
-完成後告訴我：
-- 新增了哪些 Knowledge（哪個分類、哪個檔案）
-- 更新了哪些 Knowledge
-- 哪些內容沒有保存（原因）
-- 哪些更新了 Error Database
-- 哪些值得做成 Anki（不要自動建立，讓我決定）
-
-## 幫我準備明天的 Podcast 行為（= ConnieVerse，2026-07-04 取代舊格式，2026-07-05 改為全自動選材）
-
-當我說「幫我準備明天的 Podcast」時，執行以下流程，自動決定本集 5 個輸入並生成完整
-腳本。完整格式與所有規則見 `07_podcast/daily_template.md`，這裡只列步驟。
-
-### Step 1 — 自動決定本集 5 個輸入
-
-**2026-07-05 起改為全自動——不用我提供輸入。** 這 5 個全部由 Claude 決定：
-
-| 輸入 | 怎麼選 |
+| 類型 | 存放位置 |
 |---|---|
-| Target Pattern | 從 `10_knowledge_base/writing/sentence_patterns.md` 底部「🎙️ Podcast Candidates」表格挑一個 `Yes` 的條目。查 `07_podcast/daily_template.md` 的 Episode Archive，避免跟過去 2 週用過的重複 |
-| Target Vocabulary（2–3 個） | 從 `10_knowledge_base/writing/expressions.md` 挑 Podcast Candidate = `Yes` 的條目（Functional Language + Natural Collocations 都可選），同樣避免跟過去 2 週重複 |
-| IELTS Topic | 從 `10_knowledge_base/writing/writing_patterns.md` §9 的 16 個常見 Task 2 主題輪流選，不要跟昨天重複 |
-| Episode Setting | Claude 依 ConnieVerse 世界觀創作（fashion party / startup meeting / Paris café 等），避免跟最近幾集重複場景 |
-| Main Conflict | Claude 依 Target Pattern + Vocabulary + Topic 創作一個貼合這集學習目標的衝突情境 |
+| 固定 expression、collocation、chunk | `10_knowledge_base/expressions/` |
+| 有可替換位置的 sentence frame | `10_knowledge_base/sentence_patterns/` |
+| Connie 常犯的 grammar/usage 規則 | `10_knowledge_base/grammar_notes/` |
+| 可跨題重複使用的 IELTS 論點 | `10_knowledge_base/ideas/<theme>/` |
+| Writing structure / methodology | `10_knowledge_base/writing/` |
+| Listening strategy | `10_knowledge_base/listening/` |
+| Speaking strategy | `10_knowledge_base/speaking/` |
+| 單一老師的教學原則 | `10_knowledge_base/coaches/<coach>/` |
+| 多位老師共同認同的原則 | `10_knowledge_base/consensus/` |
 
-如果我這次想指定其中幾個（例如我想練特定句型），我可以直接說，Claude 用我指定的，
-其餘照上表自動選——不用每次都手動填滿 5 個。
+NotebookLM Source Briefing Article、NotebookLM Generation Prompt 與 legacy Podcast
+Episode 內容永遠不存入 Knowledge Base。Reusable Ideas 必須維持 Single Source of
+Truth；Writing、Speaking、Source Brief、Sprint 只能引用，不複製。
 
-### Step 2 — 依 `07_podcast/daily_template.md` 的「Episode 格式」生成完整腳本
+### Step 4 — 更新，不擴張
 
-核心設定：主角是平行宇宙 Connie，住巴黎、AI startup PM 兼 fashion influencer。
-風格參考 Emily in Paris / Friends / Breaking Bad / 2 Broke Girls 的氛圍（不是抄台詞）。
+Knowledge Base 是 curated database。預設修改最適合的既有檔案；不要為每次輸入或
+每個例句建立新 Markdown。Ideas 只有在 Core Idea 確實全新時，才依
+`10_knowledge_base/ideas/TEMPLATE.md` 建立 atomic note。
 
-每集限制（不要超過）：
-- 1 個 target pattern
-- 2–3 個 target vocabulary/collocations
-- 1 句 key line
-- 1 個 IELTS transfer sentence
+Expressions 與 Sentence Patterns 一個可重用項目一個檔案，格式分別以
+`10_knowledge_base/expressions/TEMPLATE.md` 和
+`10_knowledge_base/sentence_patterns/TEMPLATE.md` 為準。除非 Connie 明確要求，
+不要保存中文翻譯；重點是可重用英文，不是孤立單字或 lesson summary。
 
-固定結構：Episode Title → Target Learning → Opening Story → Mini Drama → First
-Listen → Explanation（繁中）→ Shadowing x3 → Role Play Gap → Situation Swap →
-IELTS Transfer → Chant Song → Related Ideas（選填，若 IELTS Topic 在
-`10_knowledge_base/ideas/<theme>/` 有對應 idea note 則列連結，不複製內容）。
+若輸入同時是 Connie 的錯誤，另依 Error DB confidence policy 處理：
+已存在則更新 Count/Last Seen；第一次只存 Evidence；第二次才建立 Low confidence entry。
 
-語氣：像有劇情的 Podcast，不要像補習班講義；故事服務記憶，解說要短。
+### Step 5 — NotebookLM Source Brief boundary
 
-### Step 3 — 存檔
+收錄 Knowledge 時不要自動生成 NotebookLM source brief，也不要把新收錄的
+Expression、Sentence Pattern 或 Idea 自動當成 source。只有使用者明確提供或指定的
+資料，才能進入 NotebookLM Source Brief workflow。
 
-存到 `07_podcast/episodes/YYYY-MM-DD.md`（明天的日期）。同時在
-`07_podcast/daily_template.md` 的 Episode Archive 表格追加一行
-（Date / Target Pattern / Vocabulary / Topic / Setting）。
+### Step 6 — 一致性檢查與回報
 
-### Step 4 — 回報
+每次更新後確認：
 
-存檔後告訴我：
-- 存到哪個路徑
-- 這集自動選了什麼：Target Pattern / Vocabulary / Topic / Setting / Conflict，
-  各附一句「為什麼選這個」（例如「這個句型 Podcast Candidate 是 Yes 而且兩週內沒用過」）
-- 一句話提醒怎麼用這個檔案（NotebookLM 流程）
+- 分類正確，沒有重複知識
+- 應互相引用的相關條目已更新
+- README、ARCHITECTURE、CLAUDE 與 NotebookLM Source Brief 規則仍一致
+- 若流程造成文件缺口或矛盾，在同一次任務一併修正
 
-⚠️ `10_knowledge_base/`（G/E/L/P/SP/V/W/WR/C 卡片）不再被這個指令讀取——舊版
-Rachel/Connie 格式的選卡輪替邏輯已經跟著舊模板一起淘汰。這些卡片檔案還在，但
-2026-07-04 起沒有任何指令會自動讀寫它們（如果之後想手動引用某張卡片的內容當
-Episode Setting/Conflict 的靈感來源，可以，但不是自動流程）。
+每次新增真正全新的 Expression 或 Sentence Pattern，也要在
+`09_coach/knowledge_review_queue.md` 新增一筆 `Pending`；更新或合併既有知識時，
+更新同一筆 queue，不建立重複 row。
+
+最後回報更新或新增了哪些條目、存在哪裡、哪些內容未保存及原因，以及是否更新
+Error DB。收錄當下不生成 Anki；由 `weekly review` 統一分流與生成。
+
+## 生成 Podcast / 產生 Podcast — Gated Router
+
+以下任一指令都正式觸發 Podcast gated workflow：
+
+- `生成 Podcast`
+- `產生 Podcast`
+- `generate podcast`
+- `根據這些資料產生 NotebookLM source brief`
+- `Generate NotebookLM source brief`
+- `產生 Output Drill Script`
+- `產生 Chant`
+- `生成 Chant`
+- `generate chant`
+
+先讀 `07_podcast/templates/podcast_gated_router.md`，根據使用者提供的 input 判斷只跑
+Stage 1、Stage 2 或 Stage 3。不要直接製作未經 gate 的完整 Podcast。
+
+- 有 `# NotebookLM Source Input`，或提供 IELTS question、model essay、article、
+  source notes、existing viewpoints、Research Mode → Stage 1
+- 有 `# Output Drill Input`，或明確說 `產生 Output Drill Script` → Stage 2
+- 有 `# Chant Input`、`Target sentence pattern:`，或明確說 `產生 Chant` → Stage 3
+- 兩種以上 input 同時存在 → 問使用者要跑哪一個，不可一次全跑
+- generic trigger 沒有可辨識 input → 回覆 router 規定的 `Podcast input is missing.`
+
+## Stage 1 — Generate NotebookLM Source Brief
+
+完整驗證與生成規則見
+`07_podcast/templates/source_brief_workflow.md`；輸入格式見
+`07_podcast/templates/source_input_template.md`；輸出格式見
+`07_podcast/templates/source_brief_template.md`。
+
+### Step 1 — 驗證使用者來源
+
+使用者必須提供至少一種實質來源：IELTS question、model essay、article、source
+notes、NotebookLM notes 或自己整理的 viewpoints。Topic 名稱本身不算來源。
+
+AI 不得自動選主題。只能使用使用者指定的 topic，或替內容明確的題目/來源加上中性的
+topic label。Strict Mode 必須由使用者材料支持至少三個 viewpoints；Research-Assisted
+Mode 則在研究後用「使用者材料 + 可信外部來源」驗證三個 viewpoints。Desired
+Position 也必須有允許來源支持。
+
+若資料不足，先回覆：
+
+```text
+Source is insufficient.
+
+Please provide at least one of the following:
+1. IELTS question
+2. model essay
+3. article
+4. source notes
+5. your own viewpoints
+6. permission to use Research-Assisted Mode with external sources
+```
+
+接著列出缺少什麼並要求補充；不要建立檔案。
+
+### Step 2 — 決定模式
+
+目前輸入模板預設 `Research-Assisted Mode`；使用者可明確改成 `Strict Source Mode`。
+Strict Mode 只能重組、改寫、分類、簡化、比較使用者提供的內容，不可補外部事實、
+數據、研究、日期、具名案例或其他 factual claims。
+
+Research-Assisted Mode 必須先研究可信來源，並在 article 前建立 Source Log，逐筆列出
+title、publisher/organisation、source type、link、key idea、支援的
+paragraph/viewpoint 與 reliability note。使用者材料永遠是主來源；外部資料衝突時要
+標註，不可自行裁決。所有外部 factual claims 必須有來源；不確定內容標記
+`[Uncertain: ...]`。
+
+### Step 3 — 生成並存檔
+
+只產生 Phase 1 package：
+
+1. `Source Log`（Research-Assisted Mode）
+2. `NotebookLM Source Briefing Article`
+3. `NotebookLM Generation Prompt`
+
+不要產生完整 Podcast、host transcript、ElevenLabs/TTS、Teacher Mode、Shadowing、
+Interactive Output、output drill、chant 或 music prompt。
+
+成功檔案存到：
+`07_podcast/source_briefs/YYYY-MM-DD_notebooklm_source_brief_<topic-slug>.md`。同日
+同 slug 已存在時依序加 `-02`、`-03`。生成時不更新 Knowledge Base、Knowledge Review Queue、
+performance/error DB、Sprint progress 或 legacy episodes。
+
+完成後回報 mode、topic、question type、使用的來源類型、存檔路徑、Source Log 狀態，
+以及任何 uncertainty 或未採用內容。
+
+## Stage 2 — ElevenLabs Output Drill Script
+
+當 router 選擇 Stage 2 時，執行
+`07_podcast/templates/output_drill_workflow.md`。輸入格式見
+`07_podcast/templates/output_drill_input_template.md`；context gate 見
+`07_podcast/templates/stage2_context_gate.md`。
+
+### Required input
+
+- Topic
+- Core Pattern
+- Model Sentence
+- Vocabulary / Expressions 3–5 個
+
+`Practice Topics`、`NotebookLM Recap / Context` 與 `Source Brief File` 是 optional。
+任何 required input 缺少或 Vocabulary 超過 5 個時，回覆模板規定的
+`Output drill input is incomplete.`，停止且不可自行補值。
+
+### Context resolution
+
+依序使用：
+
+1. 使用者貼的 `NotebookLM Recap / Context`
+2. 使用者指定的 `Source Brief File`
+3. `07_podcast/source_briefs/` 中唯一合理的 topic match
+4. 資料夾內唯一的 source brief，或使用者明確說「用最新的」時的最新修改檔
+
+若有多個合理候選，不可猜；列出 repo-relative paths 請使用者選。若完全找不到，
+回覆模板規定的 `Stage 2 context is missing.`。
+
+Source brief 只能幫助開場銜接、檢查 Model Sentence 是否切題、產生自然教學說明，
+以及讓使用者提供的 Vocabulary examples 貼近主題。不可用它選擇或改寫 Core Pattern、
+Model Sentence、Vocabulary / Expressions；不可重新生成 NotebookLM discussion、
+重新 research、更新 Knowledge Base 或改寫 Stage 1 brief。
+
+Gate 通過後，產生含以下順序的 ElevenLabs-ready script：
+
+1. Opening Transition
+2. Pattern Teaching
+3. Vocabulary Focus
+4. Shadowing
+5. Interactive Output
+6. Final Turn
+
+ElevenLabs-ready script 不使用 `[TEACHER]` 或其他 speaker labels，直接從 spoken
+text 開始。開頭使用輕快自然的 `Welcome!` 或 `Welcome back!`；結尾感謝使用者收聽或
+練習，並銜接下一首歌或 `today's chant`。Pause 只使用 3 秒的倍數，標準 markers 為
+`[pause 3 seconds]`、`[pause 6 seconds]`、`[pause 9 seconds]`、
+`[pause 12 seconds]`。若沒有 Practice Topics，留在主要 Topic，不可自動另選題目。
+
+存到：
+`07_podcast/output_drills/YYYY-MM-DD_output_drill_<topic-slug>.md`。
+
+Stage 2 完成回報必須標示：
+
+```text
+Context used:
+[User-provided NotebookLM Recap / Context 或 repo-relative source brief path]
+```
+
+## Stage 3 — IELTS Chunk Memory Chant
+
+當 router 選擇 Stage 3 時，執行
+`07_podcast/templates/chant_workflow.md`。輸入格式見
+`07_podcast/templates/chant_input_template.md`。
+
+Target Sentence Pattern 必須由使用者提供，不能從 Stage 1、Stage 2、Knowledge Base
+或對話歷史自動挑選。Substitution Ideas、IELTS Topic Links 與 Music Style 是 optional。
+
+每份 package 只練一個 pattern，產生：
+
+1. 約 1–1.5 分鐘、短句、強重複、有明確 chorus 的簡單 chant lyrics
+2. 5–8 個自然 substitutions
+3. 最多 4 個 IELTS topic links
+4. 一份所選風格的 Suno prompt
+
+預設 Music Style 是 `Nursery-rhyme chant`；也可選 `Light bossa nova chant`。Suno
+prompt 必須以 `Use my saved voice profile.` 開頭，重視清楚發音、跟讀空間與簡單旋律，
+不可模仿任何真實歌手或 artist。
+
+存到：
+`07_podcast/chants/YYYY-MM-DD_chant_<pattern-slug>.md`。
+
+Stage 3 不可連帶執行 Stage 1/2、external research、Knowledge Base 更新或改寫既有
+source brief / output drill。
 
 ## 語氣
 - 先給結論再給原因，不要繞。
@@ -278,7 +402,7 @@ Episode Setting/Conflict 的靈感來源，可以，但不是自動流程）。
 1. 讀 `09_coach/dashboard.md` 確認當前 Skill Sprint 和日期
 2. 讀當前 Skill Sprint 檔（`sprints/sprint-XXX.md`），找到今天日期對應的 session — 這是今天任務的唯一依據
 3. 檢查 `09_coach/sprints/` 底下是否有 Status: Active 且日期涵蓋今天的 Theme Sprint 檔（`theme-*.md`）：
-   - 有，且今天的任務需要一個主題/題目（例如寫作草稿、口說練習、Podcast Speaking 段落）→ 從該 Theme Sprint 的 Source Ideas（`10_knowledge_base/ideas/<theme>/`）挑一個尚未用過的 idea note 作為今天的題材
+   - 有，且今天的任務需要一個主題/題目（例如寫作草稿或口說練習）→ 從該 Theme Sprint 的 Source Ideas（`10_knowledge_base/ideas/<theme>/`）挑一個尚未用過的 idea note 作為今天的題材
    - 沒有 Active Theme Sprint，或今天的任務不需要主題（例如純文法 drill、聽力 S4 練習）→ 完全比照原本方式，不受影響
 4. 如果今天不是 sprint 排程的練習日（例如週日），告訴我：「今天是休息日，下一個 session 是 [日期/星期]：[任務名稱]」
 5. 用以下格式輸出，只顯示今天的內容：
@@ -317,7 +441,7 @@ Episode Setting/Conflict 的靈感來源，可以，但不是自動流程）。
    - 寫作 error scan → `errors/grammar_db.md` / `errors/preposition_db.md` / `errors/word_form_db.md`
    - 寫作成績 → `performance/writing_db.md`
    - `connie_profile.md` Evidence Log 追加一行
-3. 如果今天用了 Theme Sprint 的 idea（`start today` 有顯示「今日主題」）→ 在該 Theme Sprint 檔案對應的 Output Links 欄位（Writing drafts / Speaking notes / Podcast episode）追加今天產出的檔案連結
+3. 如果今天用了 Theme Sprint 的 idea（`start today` 有顯示「今日主題」）→ 在該 Theme Sprint 檔案對應的 Output Links 欄位（Writing drafts / Speaking notes）追加今天產出的檔案連結
 4. 依一致性更新規則，判斷是否需要重新生成 `dashboard.md`
 5. 完成後回報：
 
@@ -346,10 +470,18 @@ Episode Setting/Conflict 的靈感來源，可以，但不是自動流程）。
    （以 `finish today` 累積的紀錄為準；沒回報過的任務直接問我，不要用猜的）
 3. 讀 `09_coach/errors/*.md` 找本週新增或 confidence 提升的條目
 4. 讀 `09_coach/performance/*.md` 找本週新增的成績記錄，判斷趨勢（進步/持平/退步）
-5. 如果今天是 Active Sprint 排定的 Retrospective 日（sprint 檔案 §10），引導我一起填
+5. 執行 Knowledge → Anki 每週分流：
+   - 讀 `09_coach/knowledge_review_queue.md` 的 `Pending` / legacy `Rollover`
+   - 值得主動回想 → 本週做 Anki
+   - 低價值或重複 → `Merged` / `Dropped`，不做 Anki
+   - 生成前搜尋整個 `08_ai/anki/`；已有相同 target 就不重複
+   - 將新卡存到 `08_ai/anki/weekly/knowledge-review_YYYY-MM-DD.md`，格式依
+     `08_ai/anki/weekly/TEMPLATE.md`
+   - 產生後將 queue 標 `Anki`，Practice Evidence 連到 Anki 檔
+6. 如果今天是 Active Sprint 排定的 Retrospective 日（sprint 檔案 §10），引導我一起填
    Method Check / Progress Check / Next Sprint Inputs 三個表格
-6. 依「一致性更新規則」判斷需不需要重新生成 `dashboard.md`
-7. 回報：
+7. 依「一致性更新規則」判斷需不需要重新生成 `dashboard.md`
+8. 回報：
 
 ```
 ## 本週回顧
@@ -358,6 +490,8 @@ Episode Setting/Conflict 的靈感來源，可以，但不是自動流程）。
 未完成：[本週沒做的任務，附原因（如果我有說）]
 Sprint 進度：[還在軌道上 / 落後 / 超前]
 本週新增的 Active Weakness（如果有）：[列出]
+Knowledge routing：[Anki / Merged / Dropped 數量與項目]
+Anki 輸出：[新檔路徑；若無則寫「本週無新卡」]
 下週建議：[1-2 句，基於以上證據 — 不是憑空建議]
 ```
 
@@ -462,14 +596,19 @@ Sprint-00N：[Primary goal] + [Secondary goal]
 │   ├── reading.md           ← 跨教練共識：閱讀（數據有限）
 │   └── listening.md         ← 跨教練共識：聽力（數據有限）
 ├── conflicts.md             ← 跨教練衝突記錄（依 ADR-007）
-├── vocabulary/              ← 主題詞彙卡
 ├── listening/               ← 聽力策略卡
 ├── speaking/                ← 口說策略卡 + Part 3 開頭句
-├── grammar/ · prepositions/ · word_form/  ← 文法/介系詞/詞性教學卡（index.md 索引）
-├── writing/                 ← Writing Patterns / Sentence Patterns / Expressions / Skeletons
-│   ├── writing_patterns.md · sentence_patterns.md · expressions.md
+├── grammar_notes/           ← 文法/介系詞/詞性教學卡（父資料夾，2026-07-06）
+│   ├── grammar/ · prepositions/ · word_form/
+├── expressions/             ← Collocations、Chunks、Fixed phrases、可重複使用單字
+├── sentence_patterns/       ← 可替換內容的句型骨架
+├── writing/                 ← Writing methods、Essay Structure
+│   ├── writing_patterns.md
 │   └── skeletons.md · skeleton_*.md
-└── practice_method.md       ← 記憶/內化練習法（畫面+動作+口說輸出）
+└── index.md
+
+目前沒有 `memory_triggers.md` 或 `practice_method.md`；Podcast 與 Coach/process
+layer 負責練習流程。`vocabulary/` 已併入 `expressions/`。
 
 09_coach/                    ← 所有 AI 可讀的資料集中在這裡
 ├── connie_profile.md        ← 主檔：學習狀態總覽
@@ -711,4 +850,3 @@ The AI Coach's responsibility is:
 * Maintain all databases.
 * Keep the project consistent.
 * Continuously improve future learning based on accumulated evidence.
-

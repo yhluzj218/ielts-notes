@@ -506,7 +506,9 @@ retrieve it under exam pressure. This isn't an age issue; it's a match issue bet
 the input method and how she processes language. She responds better to:
 image/visual scene → gesture/embodied action → spoken output → written form last.
 This plays to her actual strengths — understanding, creativity, situational sense —
-rather than rote storage. Full practice method: `10_knowledge_base/practice_method.md`.
+rather than rote storage. ⚠️ The written-up practice method (`practice_method.md`)
+was removed 2026-07-06 along with related knowledge files — the underlying
+preference described here still holds, just the reference doc is gone for now.
 
 ---
 

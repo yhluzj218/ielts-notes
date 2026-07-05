@@ -272,7 +272,7 @@ Reusable essay structures, templates, and frameworks. Read before every writing 
 | Sunday mock 後 | 貼上成績和錯誤分類 | 更新 `listening_db.md`、`writing_db.md`、`connie_profile.md`、`dashboard.md` |
 | 有草稿要批改 | `批改` + 草稿路徑 | 評分 + 存 feedback + 更新 DB |
 | 上完課 | `更新筆記` + 逐字稿 | 拆解到各筆記 + 更新 DB |
-| 需要隔天 Podcast | `幫我準備明天的 Podcast`（不用附輸入） | 自動從 Knowledge Base 選材，生成 ConnieVerse 劇情腳本 `07_podcast/episodes/YYYY-MM-DD.md` |
+| 生成 Podcast workflow | `生成 Podcast` / `產生 Podcast` + Stage input | Router 判斷 Stage 1 source brief、Stage 2 ElevenLabs drill 或 Stage 3 chant；Target Pattern、Model Sentence、Vocabulary 不自動選 |
 
 **你不需要打開 sprint 文件。`start today` 會自動找到今天的任務。**
 

@@ -15,10 +15,10 @@ impact becomes serious.
 
 | Step | Content |
 |---|---|
-| Claim | An activity adds to an environmental cost (e.g. greenhouse gases) |
+| Claim | An activity contributes to an environmental cost, such as greenhouse gas emissions |
 | Reason | Environmental cost is often driven by scale, not by any single instance |
 | Mechanism | Each instance seems small, but the scale of how many people repeat it is what causes the damage — the harm is in the aggregate, not the individual act |
-| Impact | Leads to harmful climate change / collective environmental damage |
+| Impact | Contributes to climate change or other forms of collective environmental damage |
 | Example | International air travel's cumulative greenhouse gas emissions — one flight seems minor, but millions of flights add up to a major contributor to climate change |
 
 ## Reusable IELTS Angle
@@ -32,6 +32,7 @@ people do the same thing, like flying or buying fast fashion, it adds up to a hu
 impact."
 
 ## Useful Chunks
+- [`contribute to greenhouse gas emissions`](../../expressions/contribute-to-greenhouse-gas-emissions.md)
 - "each instance seems small"
 - "the scale of [group] doing it is what causes the damage"
 - "adds up to a huge/cumulative impact"

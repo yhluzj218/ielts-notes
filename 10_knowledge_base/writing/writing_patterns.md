@@ -162,7 +162,7 @@ Conclusion: restate overall point
 
 ## 5. Introduction Templates
 
-> 完整句型庫（依 Skeleton 位置分類）→ [`sentence_patterns.md`](sentence_patterns.md)
+> 完整句型庫（依 Skeleton 位置分類）→ [`sentence_patterns/`](../sentence_patterns/)
 
 ### Opinion Essay
 
@@ -278,8 +278,7 @@ memorise the essay it came from.
 
 Every idea note's `Skeleton` (Claim → Reason → Mechanism → Impact → Example, see
 `10_knowledge_base/ideas/TEMPLATE.md`) is one concrete instance of one of these shapes — this
-table is the abstracted, reusable version. Learning Status follows the same
-New → Practised → Internalised convention as `expressions.md`.
+table is the abstracted, reusable version.
 
 ---
 

@@ -81,4 +81,4 @@ I think [claim about society]. This is because [societal reason]. For example, [
 
 - [SP002](SP002_part3_strategy.md) — Part 3 strategy
 - [SP003](SP003_natural_delivery.md) — natural delivery
-- Linking devices — merged into [`writing/expressions.md`](../writing/expressions.md) (2026-07-05)
+- Related fixed phrases live in `10_knowledge_base/expressions/`

@@ -2,21 +2,13 @@
 
 > Reusable knowledge cards extracted from lessons, transcripts, and writing feedback.
 >
-> **2026-07-05 restructure:** old `writing/`, `expressions/`, `collocations/` card
-> sets were merged into `writing/` (duplicated the same content in two places) —
-> see the table below for where each old ID landed. `vocabulary/`, `listening/`,
-> `speaking/` (plus `E004`) are simply other subfolders of this same knowledge
-> base — they were never duplicated, just orphaned once Podcast generation stopped
-> reading this index for card rotation. This index below only lists
-> `grammar/`, `prepositions/`, `word_form/` — kept deliberately separate from
-> `09_coach/errors/*.md` (different purpose: teaching-card format here vs
-> confidence-tracked error evidence there). Everything — `ideas/`, `coaches/`,
-> `consensus/`, `vocabulary/`, `listening/`, `speaking/`, `writing/`,
-> `grammar/`, `prepositions/`, `word_form/` — now lives together under
-> `10_knowledge_base/` as a single top-level knowledge folder.
+> The Knowledge Base has nine reusable-knowledge categories: `expressions/`,
+> `sentence_patterns/`, `ideas/`, `grammar_notes/`, `writing/`, `coaches/`,
+> `consensus/`, `listening/`, and `speaking/`. See
+> [`ARCHITECTURE.md`](ARCHITECTURE.md) for the classification rules.
 >
 > **Total cards indexed below:** 18 (was 37)
-> **Last updated:** 2026-07-05
+> **Last updated:** 2026-07-06
 >
 > Format: `[ID] Title — one-line description`
 
@@ -26,17 +18,17 @@
 
 | ID | File | Description | Priority |
 |---|---|---|---|
-| G001 | [Past Tense Time Markers](grammar/G001_past_tense_time_markers.md) | Explicit past time markers force simple past (not present perfect) | 🔴 High |
-| G002 | [Past Perfect + ago](grammar/G002_past_perfect_ago.md) | `ago` forces simple past — never use past perfect with `ago` | 🔴 High |
-| G003 | [information Uncountable](grammar/G003_information_uncountable.md) | `information` is always uncountable — no `-s`, no `a` | 🔴 High |
-| G004 | [Uncountable Nouns Group](grammar/G004_uncountable_nouns_group.md) | `feedback`, `advice`, `staff`, `equipment` — all uncountable | 🟡 Medium |
-| G005 | [Subject-Verb Agreement](grammar/G005_subject_verb_agreement.md) | `there are`, plural subjects, `each` → singular | 🟡 Medium |
-| G006 | [Third-Person Singular](grammar/G006_third_person_singular.md) | `she/he/it` + verb-s / has in present simple | 🔴 High |
-| G007 | [Compound Subject Pronoun](grammar/G007_compound_subject_pronoun.md) | `my sister and I` (not `me`) as subject | 🟡 Medium |
-| G008 | [Modal Bare Infinitive](grammar/G008_modal_bare_infinitive.md) | Modal verbs + bare infinitive; `end up` + gerund | 🟡 Medium |
-| G009 | [Past Passive](grammar/G009_past_passive.md) | `was/were + past participle` — auxiliary is required | 🟡 Medium |
-| G010 | [Double Conjunction](grammar/G010_double_conjunction.md) | `Although` and `However` cannot coexist in one sentence | 🔴 **Critical** |
-| G011 | [due to + Clause](grammar/G011_due_to_clause.md) | `due to` takes noun phrase only — use `because` for clauses | 🔴 High |
+| G001 | [Past Tense Time Markers](grammar_notes/grammar/G001_past_tense_time_markers.md) | Explicit past time markers force simple past (not present perfect) | 🔴 High |
+| G002 | [Past Perfect + ago](grammar_notes/grammar/G002_past_perfect_ago.md) | `ago` forces simple past — never use past perfect with `ago` | 🔴 High |
+| G003 | [information Uncountable](grammar_notes/grammar/G003_information_uncountable.md) | `information` is always uncountable — no `-s`, no `a` | 🔴 High |
+| G004 | [Uncountable Nouns Group](grammar_notes/grammar/G004_uncountable_nouns_group.md) | `feedback`, `advice`, `staff`, `equipment` — all uncountable | 🟡 Medium |
+| G005 | [Subject-Verb Agreement](grammar_notes/grammar/G005_subject_verb_agreement.md) | `there are`, plural subjects, `each` → singular | 🟡 Medium |
+| G006 | [Third-Person Singular](grammar_notes/grammar/G006_third_person_singular.md) | `she/he/it` + verb-s / has in present simple | 🔴 High |
+| G007 | [Compound Subject Pronoun](grammar_notes/grammar/G007_compound_subject_pronoun.md) | `my sister and I` (not `me`) as subject | 🟡 Medium |
+| G008 | [Modal Bare Infinitive](grammar_notes/grammar/G008_modal_bare_infinitive.md) | Modal verbs + bare infinitive; `end up` + gerund | 🟡 Medium |
+| G009 | [Past Passive](grammar_notes/grammar/G009_past_passive.md) | `was/were + past participle` — auxiliary is required | 🟡 Medium |
+| G010 | [Double Conjunction](grammar_notes/grammar/G010_double_conjunction.md) | `Although` and `However` cannot coexist in one sentence | 🔴 **Critical** |
+| G011 | [due to + Clause](grammar_notes/grammar/G011_due_to_clause.md) | `due to` takes noun phrase only — use `because` for clauses | 🔴 High |
 
 ---
 
@@ -44,10 +36,10 @@
 
 | ID | File | Description | Priority |
 |---|---|---|---|
-| P001 | [listen to](prepositions/P001_listen_to.md) | `listen` requires `to` — it is not transitive | 🔴 High |
-| P002 | [on the other hand](prepositions/P002_on_the_other_hand.md) | Fixed phrase — `in another hand` does not exist | 🔴 High |
-| P003 | [on social media](prepositions/P003_on_social_media.md) | Platforms use `on` — `in social medium` is wrong | 🔴 High |
-| P004 | [request + as a result of](prepositions/P004_request_and_as_a_result.md) | `request` (no `for`); `as a result of` (not `in a result of`) | 🟡 Medium |
+| P001 | [listen to](grammar_notes/prepositions/P001_listen_to.md) | `listen` requires `to` — it is not transitive | 🔴 High |
+| P002 | [on the other hand](grammar_notes/prepositions/P002_on_the_other_hand.md) | Fixed phrase — `in another hand` does not exist | 🔴 High |
+| P003 | [on social media](grammar_notes/prepositions/P003_on_social_media.md) | Platforms use `on` — `in social medium` is wrong | 🔴 High |
+| P004 | [request + as a result of](grammar_notes/prepositions/P004_request_and_as_a_result.md) | `request` (no `for`); `as a result of` (not `in a result of`) | 🟡 Medium |
 
 ---
 
@@ -55,9 +47,9 @@
 
 | ID | File | Description | Priority |
 |---|---|---|---|
-| W001 | [-ed vs -ing Adjectives](word_form/W001_ed_vs_ing_adjectives.md) | `-ed` = how a person feels; `-ing` = what causes the feeling | 🟡 Medium |
-| W002 | [Predicative Adjective](word_form/W002_predicative_adjective.md) | `make it easy` (not `easily`) — adjective after `make/find/consider it` | 🟡 Medium |
-| W003 | [Noun vs Adjective in Compounds](word_form/W003_noun_adj_compound.md) | `loyal customer` (not `loyalty customer`); nationality adjectives | 🟡 Medium |
+| W001 | [-ed vs -ing Adjectives](grammar_notes/word_form/W001_ed_vs_ing_adjectives.md) | `-ed` = how a person feels; `-ing` = what causes the feeling | 🟡 Medium |
+| W002 | [Predicative Adjective](grammar_notes/word_form/W002_predicative_adjective.md) | `make it easy` (not `easily`) — adjective after `make/find/consider it` | 🟡 Medium |
+| W003 | [Noun vs Adjective in Compounds](grammar_notes/word_form/W003_noun_adj_compound.md) | `loyal customer` (not `loyalty customer`); nationality adjectives | 🟡 Medium |
 
 ---
 
@@ -71,27 +63,32 @@
 
 ---
 
-## Moved / Merged Content (2026-07-05)
+## Moved / Merged Content (2026-07-05 – 2026-07-06)
 
 Don't look for these here anymore:
 
 | Was here | Now at |
 |---|---|
-| `writing/WR001`–`WR008` | Merged into [`writing/writing_patterns.md`](writing/writing_patterns.md) (§1–10) |
-| `expressions/E001`, `E002`, `E003` | Merged into [`writing/expressions.md`](writing/expressions.md) and [`writing/sentence_patterns.md`](writing/sentence_patterns.md) |
-| `collocations/C001` | Merged into [`writing/expressions.md`](writing/expressions.md) § Natural Collocations |
+| `writing/WR001`–`WR008` | Merged into [`writing/writing_patterns.md`](writing/writing_patterns.md) (§1–10) — still exists |
+| Old aggregate Expression content | Retired because it did not follow the current one-entry-per-file format; future items use [`expressions/TEMPLATE.md`](expressions/TEMPLATE.md) |
 | `expressions/E004` (Part 3 openers — this was Speaking content, not Writing) | Moved to [`speaking/E004_part3_opinion_openers.md`](speaking/E004_part3_opinion_openers.md) |
-| `vocabulary/V001`, `V002` | Moved to [`vocabulary/`](vocabulary/) |
-| `listening/L001`–`L005` | Moved to [`listening/`](listening/) |
-| `speaking/SP001`–`SP004` | Moved to [`speaking/`](speaking/) |
+| `vocabulary/V001`, `V002` | Retired; isolated vocabulary is not retained by default |
+| `listening/L001`–`L005` | Moved to [`listening/`](listening/) — still exists |
+| `speaking/SP001`–`SP004` | Moved to [`speaking/`](speaking/) — still exists |
+| Old aggregate Sentence Pattern content | Retired because it did not follow the current one-entry-per-file format; future items use [`sentence_patterns/TEMPLATE.md`](sentence_patterns/TEMPLATE.md) |
+| `grammar/`, `prepositions/`, `word_form/` (as direct children of `10_knowledge_base/`) | Nested one level deeper under [`grammar_notes/`](grammar_notes/) (2026-07-06) |
+| `07_podcast/episodes/*.md` | Briefly `10_knowledge_base/stories/`, now `07_podcast/episodes/season_01/` (2026-07-06) — not part of this knowledge base, see `07_podcast/README.md` |
 
 ---
 
 ## How to Use This Knowledge Base
 
 ### For NotebookLM
-Upload all `.md` files in `10_knowledge_base/` as a source (now grammar/prepositions/
-word_form only). Ask NotebookLM to generate a quiz or explain a rule as a podcast.
+
+Do not automatically upload the whole Knowledge Base. Explicitly select the notes
+you want to use, then provide them as user source material to
+`Generate NotebookLM source brief`. The default workflow will not add facts or
+silently pull in other Knowledge Base entries.
 
 ### For Self-Study
 Start with all 🔴 Critical cards. Then move through High → Medium by category.
@@ -100,7 +97,13 @@ Start with all 🔴 Critical cards. Then move through High → Medium by categor
 
 ## Adding New Cards
 
-Follow the card format in each existing file. After adding:
-1. Add a row to this index
-2. Update the Total cards count
-3. Link related cards in the `## Related Knowledge` section
+Search first. The default action is to improve an existing entry with a better
+example, clearer usage note, or related link. Create a new card only when no existing
+entry covers the concept.
+
+After a genuinely new card is added:
+
+1. Follow the format used by that category
+2. Add it to the relevant index and update totals where applicable
+3. Link related knowledge
+4. Check for duplicate concepts and documentation drift

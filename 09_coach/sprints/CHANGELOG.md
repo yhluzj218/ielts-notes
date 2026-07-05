@@ -15,7 +15,7 @@ understanding reasoning, not memorising text. Changes:
 - Companion changes in the same pass (not to this file, but part of the same design
   update): `10_knowledge_base/ideas/TEMPLATE.md` gained a `Learning Status` field
   (New/Practised/Internalised) and replaced the old prose "Writing Use" section with
-  a structured `Skeleton` table; new `10_knowledge_base/writing/expressions.md` created as
+  a structured `Skeleton` table; new `10_knowledge_base/expressions/` created as
   the home for cross-topic Functional Language and Natural Collocations; existing 6
   idea notes migrated to the new format; `writing_patterns.md` §8b added for
   Reasoning Patterns

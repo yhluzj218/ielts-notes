@@ -74,7 +74,7 @@ plugs in and where Learning Status gets updated.
 ## Goals
 - Writing goal
 - Speaking goal
-- Podcast goal
+- NotebookLM Source Brief goal (optional; only when the user supplies the source)
 - Idea Bank goal
 
 ## Source Ideas
@@ -91,8 +91,8 @@ See `10_knowledge_base/ideas/<theme>/`
 ### Speaking
 - [Skill Sprint day/task this applies to] → idea note used
 
-### Podcast
-- [Skill Sprint day/task this applies to] → idea note used
+### NotebookLM Source Brief (optional)
+- [Only when the user explicitly selects source material] → source note used
 
 ### Review
 - Which ideas got used, which are still unused this week
@@ -105,11 +105,13 @@ Fill this in as you read during the week — this is the actual point of the The
 Sprint, not a formality. Keep every entry short; none of these are full paragraphs.
 
 **Routing when the week ends:** Core Arguments + Skeleton are theme-specific and
-belong in that idea's own note under `10_knowledge_base/ideas/<theme>/`. Reasoning Patterns,
-Functional Language, and Natural Collocations are cross-topic and belong in
-`10_knowledge_base/writing/writing_patterns.md` §8b, `expressions.md`, and
-`sentence_patterns.md` respectively — check those files for an existing entry before
-adding a new one (dedup rule, same as 萃取知識).
+belong in that idea's own note under `10_knowledge_base/ideas/<theme>/`. Reasoning
+Patterns are cross-topic and belong in `10_knowledge_base/writing/writing_patterns.md`
+§8b — check for an existing entry before adding a new one (dedup rule, same as
+萃取知識). ⚠️ Functional Language and Natural Collocations used to route to
+`expressions.md`/`sentence_patterns.md`, both removed 2026-07-06 (new design not
+decided) — surface those two outputs in conversation instead of filing them anywhere
+for now.
 
 ### 1. Core Arguments
 2–4 common arguments for this theme. Not the only answers — just common directions.
@@ -132,14 +134,14 @@ Society, Short-term → Long-term, or a new one not yet in the list)?
 ### 4. Functional Language
 Only sentence frames that are genuinely cross-topic (would still sound natural on a
 different theme) — not full introductions/conclusions/body paragraphs.
-→ Check/update `10_knowledge_base/writing/expressions.md`.
+→ ⚠️ No storage location currently (`expressions.md` removed 2026-07-06) — list in conversation.
 
 ### 5. Natural Collocations
 Only 2–4 word chunks that are natural and high-frequency, not topic-specific vocab.
-→ Check/update `10_knowledge_base/writing/expressions.md`.
+→ ⚠️ No storage location currently (`expressions.md` removed 2026-07-06) — list in conversation.
 
 ## Output Links
 - Writing drafts:
 - Speaking notes:
-- Podcast episode:
+- NotebookLM source brief:
 - Error log:

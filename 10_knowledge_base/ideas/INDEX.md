@@ -20,8 +20,9 @@ the *same* pool of ideas instead of each keeping their own separate copy.
 
 - Not a place for full essays. Full drafts live in `02_writing/task1/` or `02_writing/task2/`.
 - Not a place for full spoken answers. Full Speaking answers live in `03_speaking/`.
-- Not a place for full Podcast scripts. Podcast episodes live in `07_podcast/episodes/`.
-- Not a vocabulary list. Vocabulary/expressions live in `10_knowledge_base/` and `10_knowledge_base/writing/expressions.md`.
+- Not a place for Podcast Episode Packages. NotebookLM source/prompts and ElevenLabs
+  shadowing scripts live in `07_podcast/episodes/season_01/`.
+- Not a vocabulary list. Reusable expressions live in `10_knowledge_base/expressions/`.
 
 One file here = one reusable idea, atomic, theme-tagged, linkable.
 

@@ -35,7 +35,7 @@ which means they lose some of their original meaning."
 - "sacrificed for mass appeal"
 - "mass-produced versions"
 - "loses its original meaning/authenticity"
-- [`be packaged for [audience] consumption`](../../expressions/be-packaged-for-consumption.md)
+- [`be packaged for [audience] consumption`](../../expressions/archive/be-packaged-for-consumption.md)
 
 ## Related Notes
 - Source essay: `02_writing/task2/models/international-tourism_model_2026-07-02.md`

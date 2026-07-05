@@ -31,12 +31,12 @@ Part 3 answers to "Does [tourism/foreign investment] benefit the local economy?"
 international companies rather than staying in the local community."
 
 ## Useful Chunks
-- [`be unevenly distributed`](../../expressions/be-unevenly-distributed.md)
-- [`Uneven distribution: minority versus majority`](../../sentence_patterns/uneven-distribution-minority-majority.md)
-- [`be retained within the local economy`](../../expressions/be-retained-within-the-local-economy.md)
-- [`Related to this is the fact that [clause].`](../../sentence_patterns/related-to-this-is-the-fact-that.md)
+- [`be unevenly distributed`](../../expressions/archive/be-unevenly-distributed.md)
+- [`Uneven distribution: minority versus majority`](../../sentence_patterns/archive/uneven-distribution-minority-majority.md)
+- [`be retained within the local economy`](../../expressions/archive/be-retained-within-the-local-economy.md)
+- [`Related to this is the fact that [clause].`](../../sentence_patterns/archive/related-to-this-is-the-fact-that.md)
 - "profits are taken out by..."
-- [`multinational corporations`](../../expressions/multinational-corporations.md)
+- [`multinational corporations`](../../expressions/archive/multinational-corporations.md)
 - "little real economic benefit"
 
 ## Related Notes

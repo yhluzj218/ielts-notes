@@ -2,15 +2,35 @@
 
 > Reusable knowledge cards extracted from lessons, transcripts, and writing feedback.
 >
-> The Knowledge Base has nine reusable-knowledge categories: `expressions/`,
-> `sentence_patterns/`, `ideas/`, `grammar_notes/`, `writing/`, `coaches/`,
-> `consensus/`, `listening/`, and `speaking/`. See
+> The Knowledge Base has eleven categories: `vocabulary/`, `expressions/`,
+> `sentence_patterns/`, `error_corrections/`, `ideas/`, `grammar_notes/`,
+> `writing/`, `coaches/`, `consensus/`, `listening/`, and `speaking/`. See
 > [`ARCHITECTURE.md`](ARCHITECTURE.md) for the classification rules.
 >
-> **Total cards indexed below:** 18 (was 37)
+> **Total cards indexed below:** 24 (was 37)
 > **Last updated:** 2026-07-06
 >
 > Format: `[ID] Title — one-line description`
+
+---
+
+## Vocabulary (1 active note)
+
+| Word | File | Status |
+|---|---|---|
+| excavate | [excavate](vocabulary/excavate.md) | Pending Anki |
+
+---
+
+## Error Corrections (5 active notes)
+
+| Topic | File | Status |
+|---|---|---|
+| Public resources distribution | [Original sentence → correction](error_corrections/2026-07-05_public-resources-distribution.md) | Pending review |
+| Modern tourism and cultural values | [Original sentence → correction](error_corrections/2026-07-05_modern-tourism-cultural-values.md) | Pending review |
+| Programming and AI prototypes | [Original sentence → correction](error_corrections/2026-07-05_programming-ai-prototypes.md) | Pending review |
+| Film studios and Hollywood formulas | [Original sentence → correction](error_corrections/2026-07-05_film-studios-hollywood-formulas.md) | Pending review |
+| Parents and flexible working hours | [Original sentence → correction](error_corrections/2026-07-05_parents-flexible-working-hours.md) | Pending review |
 
 ---
 
@@ -72,7 +92,7 @@ Don't look for these here anymore:
 | `writing/WR001`–`WR008` | Merged into [`writing/writing_patterns.md`](writing/writing_patterns.md) (§1–10) — still exists |
 | Old aggregate Expression content | Retired because it did not follow the current one-entry-per-file format; future items use [`expressions/TEMPLATE.md`](expressions/TEMPLATE.md) |
 | `expressions/E004` (Part 3 openers — this was Speaking content, not Writing) | Moved to [`speaking/E004_part3_opinion_openers.md`](speaking/E004_part3_opinion_openers.md) |
-| `vocabulary/V001`, `V002` | Retired; isolated vocabulary is not retained by default |
+| Old `vocabulary/V001`, `V002` category lists | Retired; the new [`vocabulary/`](vocabulary/) workflow stores only user-selected single-word notes, one file per word |
 | `listening/L001`–`L005` | Moved to [`listening/`](listening/) — still exists |
 | `speaking/SP001`–`SP004` | Moved to [`speaking/`](speaking/) — still exists |
 | Old aggregate Sentence Pattern content | Retired because it did not follow the current one-entry-per-file format; future items use [`sentence_patterns/TEMPLATE.md`](sentence_patterns/TEMPLATE.md) |
@@ -97,9 +117,11 @@ Start with all 🔴 Critical cards. Then move through High → Medium by categor
 
 ## Adding New Cards
 
-Search first. The default action is to improve an existing entry with a better
-example, clearer usage note, or related link. Create a new card only when no existing
-entry covers the concept.
+Search first, including `vocabulary/archive/`, `expressions/archive/`,
+`sentence_patterns/archive/`, and `error_corrections/archive/`.
+The default action is to improve an existing entry with a better example, clearer
+usage note, or related link. Create a new card only when no existing entry covers
+the concept.
 
 After a genuinely new card is added:
 
@@ -107,3 +129,9 @@ After a genuinely new card is added:
 2. Add it to the relevant index and update totals where applicable
 3. Link related knowledge
 4. Check for duplicate concepts and documentation drift
+
+New Vocabulary, Expression, Sentence Pattern, and Error Correction notes start in
+their category root. That root is the active review/Anki inbox. When `整理 anki`
+verifies Anki coverage, the source note moves into the category's `archive/`; it
+remains canonical knowledge and must not be recreated. Error Corrections require
+direct `整理 anki` approval and are not exported automatically by `weekly review`.

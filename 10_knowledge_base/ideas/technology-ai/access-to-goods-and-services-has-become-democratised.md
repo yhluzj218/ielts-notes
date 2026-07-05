@@ -33,11 +33,11 @@ Part 3 opinion answers to "Why do you think X has become more common/popular?":
 it just as easily."
 
 ## Useful Chunks
-- [`be the preserve of`](../../expressions/be-the-preserve-of.md)
+- [`be the preserve of`](../../expressions/archive/be-the-preserve-of.md)
 - "now within reach of ordinary people"
 - "thanks to falling costs / advances in technology"
 - Related framework:
-  [`From exclusive to accessible`](../../sentence_patterns/from-exclusive-to-accessible.md)
+  [`From exclusive to accessible`](../../sentence_patterns/archive/from-exclusive-to-accessible.md)
 
 ## Related Notes
 - Source essay: `02_writing/task2/models/international-tourism_model_2026-07-02.md`

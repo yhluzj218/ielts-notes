@@ -32,7 +32,7 @@ people do the same thing, like flying or buying fast fashion, it adds up to a hu
 impact."
 
 ## Useful Chunks
-- [`contribute to greenhouse gas emissions`](../../expressions/contribute-to-greenhouse-gas-emissions.md)
+- [`contribute to greenhouse gas emissions`](../../expressions/archive/contribute-to-greenhouse-gas-emissions.md)
 - "each instance seems small"
 - "the scale of [group] doing it is what causes the damage"
 - "adds up to a huge/cumulative impact"

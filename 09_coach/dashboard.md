@@ -1,7 +1,7 @@
 # IELTS Coach Dashboard
 
 > **Single entry point. Read this first, every time.**
-> Last generated: 2026-07-04 (Week 1 rebuilt around confirmed italki calendar)
+> Last generated: 2026-07-05 (G007 promoted to High confidence)
 > Source files: `connie_profile.md` · `performance/*.md` · `errors/*.md` · `sprints/sprint-001.md`
 
 ---
@@ -162,6 +162,7 @@ instead of untimed drills. See `sprint-001.md` §5 Week 1 for full detail.
 |---|---|---|
 | G001 | Past time marker + present perfect | Both |
 | G003 | `information` pluralised | Both |
+| G007 | Plural subject + singular verb (`these does` → `these do`) | Writing |
 | G010 | `although` + `however` double conjunction | Writing |
 | G011 | `due to` + clause | Writing |
 

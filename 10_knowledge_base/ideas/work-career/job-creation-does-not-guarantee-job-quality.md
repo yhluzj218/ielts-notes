@@ -31,8 +31,8 @@ jobs, but I'm not sure the jobs are always good ones — a lot of them are seaso
 low-paid, so the benefit isn't as strong as the headline number suggests."
 
 ## Useful Chunks
-- [`precarious employment`](../../expressions/precarious-employment.md)
-- [`Although [X] does [provide a benefit], [limitation].`](../../sentence_patterns/although-x-does-y-limitation.md)
+- [`precarious employment`](../../expressions/archive/precarious-employment.md)
+- [`Although [X] does [provide a benefit], [limitation].`](../../sentence_patterns/archive/although-x-does-y-limitation.md)
 - "seasonal / low-paid work"
 - "the benefit is weaker than it first appears"
 - "long periods of the year with no work"

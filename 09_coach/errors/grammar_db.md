@@ -93,15 +93,16 @@
 - **Status:** Active
 - **Evidence:** `06_error_database/error_log.md`
 
-### G007 — Third-person plural + singular verb
-- **Pattern:** Plural subject takes base verb, not `-s` form
-- **Error → Correct:** `families tends to` → `families tend to`
+### G007 — Plural subject + singular verb
+- **Pattern:** A plural subject takes the base verb or plural auxiliary form, not a third-person singular form
+- **Error → Correct:** `families tends to` → `families tend to`; `these does` → `these do`
 - **Skills:** writing
-- **Confidence:** Medium
+- **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 2
+- **Count:** 4
+- **Last Seen:** 2026-07-05
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md`
+- **Evidence:** `06_error_database/error_log.md` · `10_knowledge_base/error_corrections/2026-07-05_modern-tourism-cultural-values.md` · `10_knowledge_base/error_corrections/2026-07-05_film-studios-hollywood-formulas.md`
 
 ### G008 — Third-person singular `-s` omitted in speech
 - **Pattern:** `she / he / it` requires auxiliary `has` / verb + `-s`

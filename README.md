@@ -23,9 +23,12 @@
 | 產生 Chant | `生成 Podcast` / `產生 Chant` + `# Chant Input` 或 `Target sentence pattern:` | 用使用者提供的單一句型產生重複 chant lyrics 與 Suno prompt | `07_podcast/chants/YYYY-MM-DD_chant_<pattern-slug>.md` | **Existing — Stage 3** |
 | 貼老師課堂 feedback | `更新筆記` + 逐字稿 | 拆解逐字稿到對應筆記檔（只追加，不覆寫），更新錯誤 DB | `06_error_database/error_log.md` · `01_lessons/teacher.md` · `02_writing/writing_notes.md` / `03_speaking/speaking_notes.md` · `09_coach/errors/*.md`（視錯誤是否達到建 entry 門檻） | **Existing**（英文說法 "update lesson" 同義，觸發句本身是中文） |
 | 貼英文或教學內容 | `萃取知識`／`收錄 Knowledge Base`／`加入知識庫`／`學這句`／`這句不錯`／`值得收錄` | 萃取真正可重用的知識，先搜尋全庫，預設更新或合併既有條目；概念全新才建立 | `10_knowledge_base/` 對應分類（錯誤另依 policy 更新 `09_coach/errors/`） | **Existing** |
+| 收錄單字 | `收錄單字 excavate` / `學單字 excavate` / 單獨提供一個 headword | 優先查 Vocabulary.com，建立英英 Front 與含 IPA、詞性、frequency、例句的 Back；先進 Knowledge Base，不直接產 Anki | `10_knowledge_base/vocabulary/<word>.md` · `knowledge_review_queue.md` | **Existing** |
+| 記錄造句錯誤 | `記錄造句錯誤` + 原句／修正版／分析 | Front 保留完整錯誤原句；Back 保存修正版與 AI 分析。先進 review inbox，不拆成新詞或其他卡 | `10_knowledge_base/error_corrections/YYYY-MM-DD_<slug>.md` · `knowledge_review_queue.md` | **Existing** |
 | 貼範文 | `存範本`（= `learn model essay`） | 判斷題型存檔、估 Band、抽取可借用表達與句型、**萃取 Reusable Ideas / Mental Model 到 `10_knowledge_base/ideas/`**、更新 Anki | `02_writing/task1或2/models/*.md` · `models_index.md` · `sentence_patterns/` · `expressions/` · `skeleton_*.md` · `10_knowledge_base/ideas/<theme>/*.md` · `10_knowledge_base/ideas/INDEX.md` · `08_ai/anki/writing/*.md` | **Existing**（2026-07-04 合併，見下方說明） |
 | 練完 Listening | 目前沒有獨立指令 | 走 `finish today`（如果今天任務就是 listening）或 Sunday Mock 回報格式 | `performance/listening_db.md` · `connie_profile.md` | **Proposed** — 獨立命令未定義，見 §4 |
-| 每週回顧 | `weekly review` | 統整任務、Sprint 與 Weakness；將值得複習的 Knowledge 轉成 Anki 格式 | `knowledge_review_queue.md` · `08_ai/anki/weekly/knowledge-review_YYYY-MM-DD.md` · dashboard／Sprint（視情況） | **Existing** |
+| 整理 Anki | `整理 anki` / `整理 Anki` | 將 active Vocabulary、Expressions、Sentence Patterns 與已看過的 Error Corrections 轉成 Front/Back；成功產卡後移至各自 archive | `08_ai/anki/weekly/knowledge-review_YYYY-MM-DD.md` · Knowledge archives · `knowledge_review_queue.md` | **Existing** |
+| 每週回顧 | `weekly review` | 統整任務、Sprint 與 Weakness，執行 Vocabulary / Expressions / Sentence Patterns → Anki，並列出待確認的 Error Corrections | `knowledge_review_queue.md` · `08_ai/anki/weekly/knowledge-review_YYYY-MM-DD.md` · Knowledge archives · dashboard／Sprint（視情況） | **Existing** |
 | 開下一個 Sprint | `start next sprint` | 讀 dashboard/DB/Retrospective → 決定下一個 Primary/Secondary 目標 → 建立新 sprint 檔 | 新建 `sprints/sprint-00N.md` · `sprints/INDEX.md` · `dashboard.md` | **Existing**（2026-07-04 新增） |
 | （bonus）批改草稿 | `批改` + 草稿路徑 | 依老師標準評分、寫評語檔、更新 DB | `02_writing/task1或2/feedback/*.md` · `performance/writing_db.md` · `connie_profile.md` | **Existing** |
 | （bonus）建草稿 | `建草稿` + 題目圖檔/文字 + 我的文章 | 存成統一格式草稿檔 | `02_writing/task1或2/drafts/*.md` | **Existing** |
@@ -154,7 +157,32 @@ Claude Code 會讀 `dashboard.md`（本週目標）、Active Skill Sprint 本週
 `errors/*.md`、`performance/*.md`，判斷本週完成/未完成的任務與新增的弱點。如果今天
 是 Active Sprint 排定的 Retrospective 日，會引導我一起填 §10 的三個表格。輸出本週
 回顧 + 下週建議，**但不會自動開下一個 Sprint**——那是 `start next sprint` 的工作。
-會更新：`dashboard.md`（視情況重新生成）、Active Sprint 檔案的 §10（若當場填了）。
+同時會執行下方 `整理 anki` workflow。會更新：weekly Anki、Knowledge archives、
+queue、`dashboard.md`（視情況重新生成）、Active Sprint 檔案的 §10（若當場填了）。
+
+### Organize Anki — **Existing**
+
+我只想整理 Knowledge，不做完整 weekly review 時，輸入：
+
+```text
+整理 anki
+```
+
+`整理 Anki`、`整理anki` 也可以。系統會：
+
+1. 讀取 `10_knowledge_base/vocabulary/`、`expressions/` 與 `sentence_patterns/`
+   根目錄中的 active notes；
+2. 搜尋所有既有 Anki 卡，避免相同 target 重複；
+3. 依英文情境 Front / 正確 target + example Back 產卡；
+4. 存到 `08_ai/anki/weekly/knowledge-review_YYYY-MM-DD.md`；
+5. 卡片成功寫入或已確認存在後，才把來源 note 移到該類別的 `archive/`；
+6. 更新 Knowledge Review Queue 的 link、Status、Last Review 與 Practice Evidence。
+
+Archive 仍是 Knowledge Base，不是垃圾桶。未成功產卡或資料不完整的 note 會留在 active
+folder；未來新增知識時也必須搜尋 archive，避免重新建立同一項。
+
+Error Corrections 多一個人工確認 gate：直接輸入 `整理 anki` 代表已看過並批准；
+`weekly review` 只列出 Pending Error Corrections，不會自動產卡或封存。
 
 ### Start Next Sprint — **Existing**（2026-07-04 新增進 `CLAUDE.md`）
 
@@ -174,9 +202,36 @@ confidence）→ `connie_profile.md` → 目前 Active Sprint 的 §10 Retrospec
 
 ## 4. Knowledge Intake Workflow
 
-三種輸入，分開處理，不要混在一起：
+五種輸入，分開處理，不要混在一起：
 
-### A. `萃取知識`（extract knowledge）— **Existing**
+### A. Vocabulary Intake — **Existing**
+
+輸入 `收錄單字 excavate`、`學單字 excavate`、`excavate 做成單字卡`，或在單字 workflow
+脈絡中只貼一個英文 headword。系統會優先讀 Vocabulary.com，建立：
+
+- Front：不出現答案的精簡英英解釋
+- Back：word、IPA、part of speech、frequency、兩個 domain-labelled examples、word forms
+- Source：dictionary、直接 URL、access date，以及哪些欄位由使用者提供
+
+Frequency 若來源頁沒有顯示、使用者也沒提供，就寫 `Not available`，不能估算。網站
+長篇說明會改寫，例句預設原創，不整段複製第三方 example corpus。
+
+新 note 存到 `10_knowledge_base/vocabulary/<word-slug>.md`，queue 標 `Pending`。
+Intake 階段不建立 Anki；等之後輸入 `整理 anki` 才一起產卡與搬 archive。
+
+### B. Error Correction Intake — **Existing**
+
+輸入 `記錄造句錯誤`、`收錄造句錯誤` 或 `記錄這個錯誤`，並附原句與 AI／老師的修正
+分析。每一筆只建立一張簡單卡：
+
+- Front：完整保留你原本寫的句子，不修正
+- Back：英文 Corrected Version、繁體中文 Error Analysis、繁體中文 Key Reminder
+
+新 note 存到 `10_knowledge_base/error_corrections/`，queue 標 `Pending`。不會從同一筆
+錯誤自動新增 Vocabulary、Expression、Sentence Pattern 或 Idea。你看過後直接輸入
+`整理 anki`，才會產卡並移到 `error_corrections/archive/`。
+
+### C. `萃取知識`（extract knowledge）— **Existing**
 
 觸發語包含：「萃取知識」、「收錄 Knowledge Base」、「加入知識庫」、「學這句」、
 「這句不錯」、「值得收錄」。適用於英文句子、段落、單字、collocation、expression、
@@ -191,8 +246,10 @@ confidence）→ `connie_profile.md` → 目前 Active Sprint 的 §10 Retrospec
 | 知識類型 | 存放位置 |
 |---|---|
 | Writing methodology / structure | `10_knowledge_base/writing/` |
-| Reusable Expressions（含單字） | `10_knowledge_base/expressions/` |
+| User-selected Vocabulary | `10_knowledge_base/vocabulary/` |
+| Reusable Expressions / chunks | `10_knowledge_base/expressions/` |
 | Sentence Patterns | `10_knowledge_base/sentence_patterns/` |
+| Error Corrections | `10_knowledge_base/error_corrections/` |
 | Grammar Notes | `10_knowledge_base/grammar_notes/` |
 | Reusable Ideas | `10_knowledge_base/ideas/<theme>/<claim>.md`（atomic note，含 `Skeleton` 與 `Learning Status`） |
 | Listening / Speaking strategies | `10_knowledge_base/listening/` · `10_knowledge_base/speaking/` |
@@ -203,7 +260,7 @@ confidence）→ `connie_profile.md` → 目前 Active Sprint 的 §10 Retrospec
 時不會自動生成 NotebookLM source brief，也不會把新 Knowledge 自動當成 source。
 Source Briefing Article 與 NotebookLM Generation Prompt 不進知識庫。
 
-### B. `存範本`（= `learn model essay`）— **Existing**（2026-07-04 合併）
+### D. `存範本`（= `learn model essay`）— **Existing**（2026-07-04 合併）
 
 使用情境：貼一篇範文。
 
@@ -229,7 +286,7 @@ Learning Status（New/Practised/Internalised）存在於：
 新建或延伸 atomic idea note——不用再另外喊「萃取知識」。`萃取知識` 仍是獨立指令，
 只是專門處理範文以外的內容（老師逐字稿、Simon 文章、官方教材）。
 
-### C. `更新筆記`（update lesson）— **Existing**
+### E. `更新筆記`（update lesson）— **Existing**
 
 使用情境：貼老師 feedback / 上課逐字稿。
 
@@ -255,7 +312,8 @@ Learning Status（New/Practised/Internalised）存在於：
 - `06_error_database/error_log.md`
 - `01_lessons/teacher.md` · `02_writing/writing_notes.md` · `03_speaking/speaking_notes.md`
 - `10_knowledge_base/ideas/<theme>/*.md`（Learning Status 更新）
-- `10_knowledge_base/expressions/` · `sentence_patterns/` · `writing/writing_patterns.md`
+- `10_knowledge_base/vocabulary/` · `expressions/` · `sentence_patterns/` · `writing/writing_patterns.md`
+- `10_knowledge_base/error_corrections/`（使用者尚未批准送 Anki 的修正卡）
 
 ### B. Passive Reference Files（通常只讀取，很少更新）
 
@@ -270,18 +328,20 @@ Learning Status（New/Practised/Internalised）存在於：
   （讀取頻率跟 coaches/consensus 差不多）
 - `09_coach/sprints/TEMPLATE.md` · `THEME_SPRINT_TEMPLATE.md` · `CHANGELOG.md`（Sprint 版型定義，只有重新設計時才動）
 - `DECISIONS.md` · `PRD.md` · `09_coach/PLAN.md`（專案層級文件，非日常教練流程會動到的）
-- `10_knowledge_base/`（**2026-07-06 統一為單一頂層知識庫**——`ideas/`、`coaches/`、
+- `10_knowledge_base/`（**2026-07-06 統一為單一頂層知識庫**——`vocabulary/`、
+  `ideas/`、`coaches/`、
   `consensus/`、`listening/`、`speaking/`、`writing/`（現在只剩 essay/skeleton 結構性
-  內容，**加上 2026-07-06 又併入的 `vocabulary/` 單字**併入 `expressions/`，見下方
-  分類規則）與原本就在這裡的 `grammar_notes/grammar/`、`grammar_notes/prepositions/`、
+  內容）、`expressions/`、`sentence_patterns/`，以及原本就在這裡的
+  `grammar_notes/grammar/`、`grammar_notes/prepositions/`、
   `grammar_notes/word_form/`（G/P/W 卡片，2026-07-06 起統一收進 `grammar_notes/` 這個
   父資料夾）現在都在同一個資料夾底下，不再分散成頂層 `knowledge` 資料夾和
   `02_writing` 底下的 `knowledge` 子資料夾兩個獨立位置。G/P/W 卡片跟 `09_coach/errors/*.md` 內容重疊（例如 G001 兩邊都有）——
   **維持分開，不合併**：`10_knowledge_base/` 是教學卡片格式，`09_coach/errors/*.md`
   是 confidence-tracked 的錯誤證據資料庫，用途不同。
-- **知識分類三問（2026-07-06，四分類定案更新路徑）**：能塞進很多句子不用改？
-  → `10_knowledge_base/expressions/`（單字/片語都算，不分開）。有空格可以換內容？
-  → `10_knowledge_base/sentence_patterns/`。是觀點不是語言？→ `ideas/<theme>/`。
+- **現行分類規則**：使用者明確選的單一 headword → `vocabulary/`；能塞進很多句子
+  幾乎不用改的 multi-word chunk → `expressions/`；有空格可替換的 frame →
+  `sentence_patterns/`；完整錯誤原句與修正分析 → `error_corrections/`；觀點而非語言
+  → `ideas/<theme>/`。
   文法規則另外走 `grammar_notes/`，只在犯錯時查，不用主動複習。`expressions/` 與
   `sentence_patterns/` 現在是 `10_knowledge_base/` 的直接子項，不再嵌在
   `writing/` 底下（`writing/` 現在只放 essay 結構：
@@ -296,12 +356,20 @@ Learning Status（New/Practised/Internalised）存在於：
 - `07_podcast/output_drills/YYYY-MM-DD_output_drill_<topic-slug>.md` — `產生 Output Drill Script`
 - `07_podcast/chants/YYYY-MM-DD_chant_<pattern-slug>.md` — `產生 Chant`
 - `08_ai/anki/writing/*.md` · `speaking/*.md` — 「幫我做 Anki 卡」
+- `08_ai/anki/weekly/knowledge-review_YYYY-MM-DD.md` — `整理 anki` 或 `weekly review`
+- `10_knowledge_base/vocabulary/<word-slug>.md` — Vocabulary Intake；只建立 Knowledge note
+- `10_knowledge_base/error_corrections/YYYY-MM-DD_<slug>.md` — Error Correction Intake；只建立 review note
 - `10_knowledge_base/ideas/<theme>/<idea>.md` — `萃取知識` 或 `存範本`（新 idea 才建檔，延伸用 Related Notes）
 - `10_knowledge_base/coaches/<coach>/originals/*.md` — `存文章`
 - `09_coach/sprints/sprint-00N.md` — `start next sprint`
 
 ### Archived（已封存，不再是 Active 工作流程的一部分）
 
+- `10_knowledge_base/vocabulary/archive/*.md`、
+  `10_knowledge_base/expressions/archive/*.md` 與
+  `10_knowledge_base/sentence_patterns/archive/*.md`、
+  `10_knowledge_base/error_corrections/archive/*.md` — 已有 Anki coverage 的 canonical
+  Knowledge notes；不再重複產卡，但萃取知識與去重時仍會搜尋
 - `09_coach/archive/old_daily/2026-06-29.md` · `2026-07-01.md` — 2026-07-04 從
   `09_coach/daily/` 移出封存。這是重新設計 Sprint 系統前的「每日 Sheet」工作流程，
   現在的 `start today` / `finish today` 直接讀 dashboard + sprint 檔案，不再需要
@@ -393,10 +461,25 @@ Learning Status（New/Practised/Internalised）存在於：
 **`萃取知識`**
 - [ ] 已用「半年後還能用嗎」的標準篩選內容
 - [ ] 已先搜尋整個 Knowledge Base，優先更新或合併既有條目
-- [ ] 只有真正全新的概念才建立新檔，且已歸入九類之一
+- [ ] 只有真正全新的概念才建立新檔，且已歸入十一類之一
 - [ ] Expression/Pattern 已放在正確資料夾，未自動生成 NotebookLM source brief
 - [ ] 已檢查相關連結與 README／ARCHITECTURE／CLAUDE 一致性
 - [ ] 已回報：更新或新增了什麼、存放位置、哪些內容沒有保存（原因）
+
+**Vocabulary Intake**
+- [ ] 單字由使用者選，沒有自動推薦或收集
+- [ ] 已先搜尋 active Vocabulary、archive 與全部既有 Anki
+- [ ] Front 是不含答案的英英解釋；Back 包含 word、IPA、詞性、frequency 與兩個標籤例句
+- [ ] Frequency 有明確來源；沒有資料時標 `Not available`
+- [ ] 已記錄 dictionary URL、access date 與 user-provided fields
+- [ ] 只建立 active Knowledge note 和 Pending queue row，沒有直接建立 Anki
+
+**Error Correction Intake**
+- [ ] Front 完整保留使用者原句，沒有偷偷修正
+- [ ] Back 依序包含英文 Corrected Version、繁體中文 Error Analysis 與 Key Reminder
+- [ ] 一個原句只建立一張卡，沒有拆成 Vocabulary／Expression／Pattern
+- [ ] 只建立 active review note 和 Pending queue row，沒有直接建立 Anki
+- [ ] 沒有繞過 Error DB recurrence/confidence policy
 
 **`存範本`（= `learn model essay`）**
 - [ ] 已判斷題型並存到對應資料夾
@@ -411,10 +494,20 @@ Learning Status（New/Practised/Internalised）存在於：
 - [ ] 已比對本週實際完成 vs 排定任務
 - [ ] 已檢查本週是否有新增/升級的 Active Weakness
 - [ ] 已搜尋全部既有 Anki 卡，避免重複 target
-- [ ] 已依 Anki／Merged／Dropped 更新 queue；legacy Podcast 狀態只保留歷史
+- [ ] 已依 `organize_anki_workflow.md` 產卡，確認 Anki coverage 後才移動 source notes
+- [ ] 已更新 queue 的 archive link、Anki status、Last Review 與 Practice Evidence
 - [ ] 如有合格項目，已生成 `08_ai/anki/weekly/knowledge-review_YYYY-MM-DD.md`
 - [ ] 若當天是 Retrospective 日，已引導填寫或明確說明還沒到日子
 - [ ] 已輸出下週建議（基於證據，不是憑空建議）
+
+**`整理 anki` / `整理 Anki`**
+- [ ] 只掃描 Vocabulary / Expressions / Sentence Patterns / Error Corrections active root，排除 templates、README 與 archive
+- [ ] 已搜尋整個 `08_ai/anki/`，相同 target 沒有重複建卡
+- [ ] Front 是不洩漏答案的英文使用情境；Back 保留 exact target、source example 與必要資訊
+- [ ] 只有成功寫入或驗證既有卡片的 source note 才移到同類別 `archive/`
+- [ ] 不完整、失敗或 path conflict 的 note 保留在 active folder 並回報
+- [ ] 已更新所有受影響連結與 Knowledge Review Queue
+- [ ] Error Corrections 只有在直接 `整理 anki` 時處理；`weekly review` 沒有自動輸出
 
 **`start next sprint`**
 - [ ] 已確認上一個 Sprint 的 Retrospective 已填（沒填先提醒，不跳過）
@@ -441,9 +534,11 @@ Learning Status（New/Practised/Internalised）存在於：
 ```
 ielts-notes/
 ├── 01_lessons/                  # 課堂筆記（原始證據）
-├── 10_knowledge_base/           # 單一頂層知識庫（四分類：expressions/sentence_patterns/grammar_notes/ideas）
-│   ├── expressions/           # 固定搭配/片語/單字，塞進句子幾乎不用改（含單字，見§分類規則）
-│   ├── sentence_patterns/     # 有空格可替換的句型骨架
+├── 10_knowledge_base/           # 十一類 Knowledge / correction records
+│   ├── vocabulary/            # 使用者選字的 active Anki inbox；archive/ 存已產卡 notes
+│   ├── expressions/           # active Anki inbox；archive/ 存已產卡的 canonical notes
+│   ├── sentence_patterns/     # active Anki inbox；archive/ 存已產卡的 canonical notes
+│   ├── error_corrections/     # 錯誤原句 → 修正版與分析；archive/ 存已批准 cards
 │   ├── grammar_notes/           # 2026-07-06 新增的父資料夾，文法參考卡（犯錯時查，不主動複習）
 │   │   ├── grammar/             # G001-G011
 │   │   ├── prepositions/        # P001-P004
@@ -500,7 +595,7 @@ ielts-notes/
 3. **Existing**：`start today` · `finish today` · `生成 Podcast` / `產生 Podcast` ·
    `根據這些資料產生 NotebookLM source brief` · `產生 Output Drill Script` ·
    `產生 Chant` ·
-   `更新筆記` · `萃取知識` · `存範本`(=`learn model essay`) · `批改` · `建草稿` ·
+   `更新筆記` · `萃取知識` · `整理 anki` · `存範本`(=`learn model essay`) · `批改` · `建草稿` ·
    **`weekly review`**（新增）· **`start next sprint`**（新增）。
 4. **歷史決策（Podcast 項目僅供追蹤，已被 Phase 1 reset 取代）**：
    - `存範本` + `萃取知識` 合併 → `CLAUDE.md` 存範本行為新增 Reusable Ideas /
@@ -548,6 +643,13 @@ ielts-notes/
      `grammar_notes/`。這一輪也把 `07_podcast/episodes/*.md` 短暫搬進
      `10_knowledge_base/stories/`（當時的判斷：反正都是知識庫的一部分，不如收進
      同一個根目錄）。
+   - **Vocabulary intake 重新加入（2026-07-05，本次，supersedes 單字併入
+     Expressions）**：新增 `vocabulary/` active inbox 與 archive，只收使用者明確選擇的
+     single headword。Intake 優先查 Vocabulary.com，先建立 source-backed Knowledge
+     note，不直接產 Anki；`整理 anki` 再與 Expressions / Sentence Patterns 一起處理。
+   - **Error Correction review inbox（2026-07-05）**：新增 `error_corrections/`，一張卡
+     保存完整錯誤原句、修正版與 AI 分析，不拆成額外語言知識。Intake 不直接進 Anki；
+     使用者看過後直接說 `整理 anki` 才輸出並封存。
    - **ConnieVerse 移出知識庫，回到 07_podcast/（2026-07-06，本次，推翻上一步）**：
      發現把 Podcast 劇本放進知識庫資料夾，反而讓「素材庫 vs 練習場」這條界線變模糊，
      不是變清楚。`07_podcast/` 重新設計成完整的獨立系統：

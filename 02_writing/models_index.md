@@ -6,6 +6,7 @@
 - [Language Loss](task2/models/language-loss_model_2026-06-26.md) — Agree/disagree — 示範回應 "because + 前提"、愛斯基摩人例子、結論讓步句
 - [Skills vs Facts](task2/models/skills-vs-facts_model_2026-07-01.md) — Agree/disagree (completely agree) — 示範雙 body 不同角度切入、Body 內子主題轉換（With regard to）、結論對比句
 - [International Tourism](task2/models/international-tourism_model_2026-07-02.md) — Advantages & Disadvantages + Opinion — 示範今昔對比手法用在 body、一段內塞多個理由的進階 signposting（⚠️ 進階技巧，暫不模仿）、優缺點權衡型結論
+- [Parenting Course](task2/models/parenting-course_model_2026-07-07.md) — Agree/Disagree (completely disagree) — 作者確認為 Simon（ielts-simon.com）；示範開頭讓步+反駁、非 firstly/secondly 的自然段落承接、結論首尾呼應
 
 ## Task 1
 

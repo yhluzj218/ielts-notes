@@ -1,7 +1,7 @@
 # Ideas — Reusable IELTS Argument Bank
 
 > Single Source of Truth for IELTS reusable ideas.
-> Last updated: 2026-07-04
+> Last updated: 2026-07-07
 
 ---
 
@@ -53,7 +53,7 @@ Each theme folder holds atomic idea notes named after the claim itself, e.g.
 ## Idea Index by Theme
 
 ### Education
-- *(none yet)*
+- [Skills can be learned informally without formal training](education/skills-can-be-learned-informally-without-formal-training.md)
 
 ### Technology & AI
 - [Access to goods and services has become democratised](technology-ai/access-to-goods-and-services-has-become-democratised.md)
@@ -72,6 +72,7 @@ Each theme folder holds atomic idea notes named after the claim itself, e.g.
 
 ### Government & Society
 - [No long-term stake leads to irresponsible behaviour](government-society/no-long-term-stake-leads-to-irresponsible-behaviour.md)
+- [Mandatory proposals often fail on enforcement](government-society/mandatory-proposals-often-fail-on-enforcement.md)
 
 ### Culture & Tourism
 - [Commercialisation erodes cultural authenticity](culture-tourism/commercialisation-erodes-cultural-authenticity.md)

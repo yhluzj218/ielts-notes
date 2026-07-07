@@ -1,7 +1,7 @@
 # IELTS Coach Dashboard
 
 > **Single entry point. Read this first, every time.**
-> Last generated: 2026-07-05 (G007 promoted to High confidence)
+> Last generated: 2026-07-07 (Full Essay #1 completed late — Mon 7/6 task done Tue 7/7; self-graded Band 5.5)
 > Source files: `connie_profile.md` · `performance/*.md` · `errors/*.md` · `sprints/sprint-001.md`
 
 ---
@@ -73,12 +73,12 @@ instead of untimed drills. See `sprint-001.md` §5 Week 1 for full detail.
 |---|---|---|
 | Sat 7/4 | Rest (today) | — |
 | Sun 7/5 | Rest — Full Mock cancelled | — |
-| **Mon 7/6** | Full Essay #1 — due tonight for Tue 7/7 Joe offline review | ⬜ |
-| **Tue 7/7** | Joe offline review (already submitted) + Listening D1: Cambridge S4 | ⬜ |
+| **Mon 7/6** | Full Essay #1 — due tonight for Tue 7/7 Joe offline review | ✅ (completed late, Tue 7/7 morning — submitted to Joe late) |
+| **Tue 7/7** | Joe offline review (submitted late) | ✅ (Listening D1 moved to Sat 7/11, see below) |
 | Wed 7/8 | Finish 7/2 lesson's unfinished essay — due for Thu 7/9 live lesson | ⬜ |
 | **Thu 7/9** | **Joe live writing lesson** (bring finished 7/2 essay) | ⬜ |
 | **Fri 7/10** | Full Essay #2 — due tonight for Sat 7/11 Joe offline review | ⬜ |
-| **Sat 7/11** | Joe offline review (already submitted) + light buffer | ⬜ |
+| **Sat 7/11** | Joe offline review (already submitted) + **Listening D1: Cambridge S4 (moved from Tue 7/7)** — no longer a light buffer day | ⬜ |
 | **Sun 7/12** | **Full Mock #1** + error analysis | ⬜ |
 
 ---
@@ -133,8 +133,8 @@ instead of untimed drills. See `sprint-001.md` §5 Week 1 for full detail.
 
 | Skill | Next action | When |
 |---|---|---|
-| **Writing** | Full Essay #1 (question type → skeleton → full essay) — due tonight for Joe's Tue offline review | Mon 7/6 evening |
-| **Listening** | Cambridge S4 section + full transcript analysis | Tue 7/7 evening |
+| **Writing** | Full Essay #1 done (late, self-graded Band 5.5 — see `02_writing/task2/feedback/company-size_2026-07-07.md`). Next: Wed 7/8 — finish 7/2 lesson's unfinished essay for Thu 7/9 live lesson. | Wed 7/8 evening |
+| **Listening** | Cambridge S4 section + full transcript analysis — moved from Tue 7/7 | Sat 7/11 |
 | **Speaking** | Part 2 × 3 out loud during commute | Mon–Wed commute |
 | **Reading** | No action — maintain only. Sunday mock reading section. | Sun 7/12 |
 

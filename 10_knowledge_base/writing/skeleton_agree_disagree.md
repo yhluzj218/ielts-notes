@@ -47,6 +47,20 @@ Concl:   While it is true that 共同語言方便溝通，
          this convenience is far outweighed by what would be permanently lost
 ```
 
+**真實例子 2 →** [Parenting Course](../../02_writing/task2/models/parenting-course_model_2026-07-07.md)（作者確認為 Simon，ielts-simon.com）
+
+題目主張：親職是最重要的工作，所以父母應該被要求上課。
+立場：完全不同意。
+
+```
+Intro:   讓步「責任重大」+ 反駁「但不代表要強制上課」→ It is true that X. However, I completely disagree with...
+Body 1:  Reason 1 — 不可行（enforcement 問題：誰該被處罰？標準怎麼訂？）
+Body 2:  Reason 2 — 不必要（親職技巧本來就能靠家庭/文化/試錯學會，例：badly-behaved child 的情境）
+Concl:   In conclusion, while [對方論點] might seem like a good idea, I believe that [你的立場]
+```
+
+這篇的段落承接示範了不用 firstly/secondly 也能自然轉場：`As well as being impractical, I would argue that...`
+
 ---
 
 ## Variation B — Refute Two Claims（逐一反駁題目的兩個主張）

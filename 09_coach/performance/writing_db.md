@@ -13,8 +13,8 @@
 | Current estimate | Band 5.0–5.5 |
 | Target | Band 7.0 |
 | Gap | −1.5 to −2.0 |
-| Sessions logged | 6 |
-| Last updated | 2026-06-28 |
+| Sessions logged | 7 |
+| Last updated | 2026-07-07 |
 
 ---
 
@@ -42,6 +42,7 @@ Band scale: 1–9. Use 0 if not assessed.
 | 2026-06-26 | T1 | New Year letter | 5.5 | 5.5 | 6 | 7 | 5.5 | Matt | `02_writing/task1/feedback/new-year-letter_2026-06-26.md` |
 | 2026-06-26 | T2 | Language loss | 5.5 | 5 | 5.5 | 7 | 5.5 | Matt | `02_writing/task2/feedback/language-loss_2026-06-26.md` |
 | 2026-06-29 | T2 | Clothes overconsumption (skeleton only) | 7 | — | — | — | — | self | `09_coach/daily/2026-06-29.md` |
+| 2026-07-07 | T2 | Large vs small company (Agree/Disagree) | 5.5 | 5 | 5.5 | 7 | 5 | self | `02_writing/task2/feedback/company-size_2026-07-07.md` |
 
 *Note: Band estimates above are approximations based on teacher feedback patterns. Update with confirmed scores when available.*
 
@@ -52,7 +53,7 @@ Band scale: 1–9. Use 0 if not assessed.
 | Criterion | Average | Trend | Priority |
 |---|---|---|---|
 | TR | ~5.1 | Improving slowly | 🔴 Critical |
-| CC | ~5.8 | Improving | 🔴 High |
+| CC | ~5.7 | Stable | 🔴 High |
 | LR | ~7.0 | Stable — STRENGTH | ✅ No action |
 | GRA | ~5.5 | Stable | 🔴 High |
 

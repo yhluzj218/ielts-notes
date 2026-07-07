@@ -99,10 +99,10 @@
 - **Skills:** writing
 - **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 4
-- **Last Seen:** 2026-07-05
+- **Count:** 5
+- **Last Seen:** 2026-07-07
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md` · `10_knowledge_base/error_corrections/2026-07-05_modern-tourism-cultural-values.md` · `10_knowledge_base/error_corrections/2026-07-05_film-studios-hollywood-formulas.md`
+- **Evidence:** `06_error_database/error_log.md` · `10_knowledge_base/error_corrections/2026-07-05_modern-tourism-cultural-values.md` · `10_knowledge_base/error_corrections/2026-07-05_film-studios-hollywood-formulas.md` · `02_writing/task2/feedback/company-size_2026-07-07.md`
 
 ### G008 — Third-person singular `-s` omitted in speech
 - **Pattern:** `she / he / it` requires auxiliary `has` / verb + `-s`

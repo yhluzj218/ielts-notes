@@ -1,6 +1,6 @@
 # IELTS Writing Vocabulary — Anki Cards by Category
 # Date: 2026-07-01
-# Source: model essays (Skills vs Facts · Language Loss · Print vs Digital · International Tourism [2026-07-02]) + place adjectives
+# Source: model essays (Skills vs Facts · Language Loss · Print vs Digital · International Tourism [2026-07-02] · Parenting Course [2026-07-07]) + place adjectives
 
 ---
 
@@ -716,6 +716,66 @@ Note:
 More precise than "copy" — implies faithfulness to the original. Common in science, research, and cultural essays.
 Common collocations:
 replicate the results · replicate success · replicate a model · cannot be replicated · difficult to replicate
+
+---
+
+**Front:**
+A rule or requirement that everyone must follow — there is no choice about whether to do it.
+What adjective describes this?
+
+**Back:**
+**Compulsory**
+Pronunciation: /kəmˈpʌlsəri/ · kum-PUL-suh-ree
+Form: adjective
+Related forms:
+compel = verb
+compulsion = noun
+Example:
+Making parenting courses compulsory raises the question of how non-attendance would be enforced.
+Note:
+Useful whenever an essay discusses a proposal to require something by law or policy — pairs naturally with words like "enforce" and "mandatory."
+Common collocations:
+compulsory attendance · compulsory training · compulsory education · make [X] compulsory
+
+---
+
+**Front:**
+A plan or idea cannot actually work when you try to apply it in real life, even if it sounds reasonable in theory.
+What adjective describes this?
+
+**Back:**
+**Impractical**
+Pronunciation: /ɪmˈpræktɪkəl/ · im-PRAK-ti-kul
+Form: adjective
+Related forms:
+practical = adjective (opposite)
+impracticality = noun
+Example:
+Requiring every parent to attend a class is impractical, since many have jobs and busy schedules.
+Note:
+The standard word for rebutting a proposal on the grounds of real-world feasibility, not principle. Common in Agree/Disagree essays that concede an idea sounds good but argue it can't work.
+Common collocations:
+completely impractical · prove impractical · an impractical solution · impractical to enforce
+
+---
+
+**Front:**
+Official or outside involvement in a private or personal matter, especially when unwanted.
+What noun describes this?
+
+**Back:**
+**Intervention**
+Pronunciation: /ˌɪntərˈvenʃən/ · in-tur-VEN-shun
+Form: noun
+Related forms:
+intervene = verb
+interventionist = adjective
+Example:
+Parenting skills are usually learned without any official intervention, through family, culture, and experience.
+Note:
+Useful when arguing that government/official involvement in a personal area is unnecessary or unwelcome — common in family, education, and government-society topics.
+Common collocations:
+official intervention · government intervention · without intervention · require intervention
 
 ---
 

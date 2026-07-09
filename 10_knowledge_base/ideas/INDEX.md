@@ -1,7 +1,7 @@
 # Ideas — Reusable IELTS Argument Bank
 
 > Single Source of Truth for IELTS reusable ideas.
-> Last updated: 2026-07-07
+> Last updated: 2026-07-09
 
 ---
 
@@ -68,7 +68,8 @@ Each theme folder holds atomic idea notes named after the claim itself, e.g.
 - [Job creation does not guarantee job quality](work-career/job-creation-does-not-guarantee-job-quality.md)
 
 ### Family & Children
-- *(none yet)*
+- [Intentional design beats outright restriction](family-children/intentional-design-beats-outright-restriction.md)
+- [Environment design reduces reliance on willpower](family-children/environment-design-reduces-reliance-on-willpower.md)
 
 ### Government & Society
 - [No long-term stake leads to irresponsible behaviour](government-society/no-long-term-stake-leads-to-irresponsible-behaviour.md)

@@ -167,6 +167,24 @@
 - 替代寫法：用「今昔對比」的敘事式開頭。範例：`A hundred years ago, if you wanted to buy something, you would need to go to a local shop... Nowadays, the way we purchase things has changed dramatically.`
 - 已補進 `10_knowledge_base/writing/writing_patterns.md` §5 作為新的 Introduction 選項。
 
+### Body Paragraph 必須呼應 Introduction，不能中途換理由（Joe，寫作課，2026-07-09）
+- 老師原話（大意）：「Whatever you write at the beginning of this paragraph must also match what you've written in the introduction. Don't jump around in your essay from introduction to the middle.」
+- 練習過程：這篇 opinion essay 在 intro 已經寫「更容易從其他國家買東西，帶來改變」這個理由；學生在 body 1 一度轉去寫「更容易取得（accessible）」這個不同角度，老師拉回去對應 intro 原本的理由，不能中途換掉。
+- 呼應既有原則「一個段落一個主要想法」，但這次補上「段落開頭要對回 intro 寫的那個理由」這個更具體的檢查點。
+
+### 舉例三重檢查法：例子要同時符合主題句設定的每個條件（Joe，寫作課，2026-07-09）
+- 老師示範：主題句設定了三個條件（medication／online shopping／improve quality of life），舉的例子必須同時符合這三個條件，不能只符合其中一個就寫下去。
+- 老師明確說不用糾結找「完美」或「真實精確」的例子——例子可以是概括性的（general），例如「有些止痛藥以前在亞洲不容易買到，現在能網購」，不用力求百分之百真實，只要邏輯上符合段落其他部分就好。
+- 學生一直卡在「想不到夠好的例子」而反覆重寫，老師觀察到這是「想追求完美例子」的心理障礙，提醒不用想那麼複雜。
+
+### 同義詞替換要小心搭配/語感，不是意思相近就能換（Joe，寫作課，2026-07-09）
+- 學生想把 "easier to buy" 換成 accessible 或 visible，老師糾正：accessible 語感比較像「讓門容易打開」的比喻用法，不是單純「容易取得」；visible/invisible 完全是不同意思（看不看得見）。
+- 老師建議：不用刻意換字，用簡單、自己確定意思和搭配的字最安全。這呼應核心規則「我不缺詞彙」——不熟悉搭配的同義詞硬換反而扣分。
+
+### 課堂總評：英文本身沒問題，只需要練「想法排序」（Joe，寫作課，2026-07-09）
+- 老師原話（大意）：「Your writing is good in English. To get around a seven, this is the only thing you have to practice — just the sequence of ideas. If you fix that, you'll definitely get a seven.」
+- 再次確認核心規則「先修切題和結構，不要先談詞彙文法」——這堂課的證據直接支持這個判斷。
+
 ### 考場時間分配練習（Joe 推薦的資源，非 Joe 原創內容，2026-07-02）
 ⚠️ 這不是 Joe 自己講的內容，是 Joe 推薦給我的一份 IELTS 資源/範例，來源不是 Joe 本人。
 - 考場規則：時間到監考會叫你放下筆，不能再寫，一定要練到能在時間內自然收尾。

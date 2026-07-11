@@ -10,11 +10,11 @@
 
 | Field | Value |
 |---|---|
-| Current estimate | Band 5.0–5.5 |
+| Current estimate | Band 5.0–5.5 (Joe's 2026-07-11 official score of 6/6.5 is the highest recorded so far — one data point, watch for confirmation before revising baseline) |
 | Target | Band 7.0 |
 | Gap | −1.5 to −2.0 |
-| Sessions logged | 7 |
-| Last updated | 2026-07-07 |
+| Sessions logged | 9 |
+| Last updated | 2026-07-11 |
 
 ---
 
@@ -43,6 +43,8 @@ Band scale: 1–9. Use 0 if not assessed.
 | 2026-06-26 | T2 | Language loss | 5.5 | 5 | 5.5 | 7 | 5.5 | Matt | `02_writing/task2/feedback/language-loss_2026-06-26.md` |
 | 2026-06-29 | T2 | Clothes overconsumption (skeleton only) | 7 | — | — | — | — | self | `09_coach/daily/2026-06-29.md` |
 | 2026-07-07 | T2 | Large vs small company (Agree/Disagree) | 5.5 | 5 | 5.5 | 7 | 5 | self | `02_writing/task2/feedback/company-size_2026-07-07.md` |
+| 2026-07-11 | T2 | Large vs small company (Agree/Disagree) — same essay, Joe's official assessment | 6 | 6 | 6 | 6 | 7 | Joe | `02_writing/task2/feedback/company-size_2026-07-11.md` |
+| 2026-07-11 | T2 | Celebrity privacy / paparazzi (Discuss Both Views) | 6 | 6 | 6 | 7 | 5 | self | `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md` |
 
 *Note: Band estimates above are approximations based on teacher feedback patterns. Update with confirmed scores when available.*
 
@@ -52,10 +54,10 @@ Band scale: 1–9. Use 0 if not assessed.
 
 | Criterion | Average | Trend | Priority |
 |---|---|---|---|
-| TR | ~5.1 | Improving slowly | 🔴 Critical |
-| CC | ~5.7 | Stable | 🔴 High |
-| LR | ~7.0 | Stable — STRENGTH | ✅ No action |
-| GRA | ~5.5 | Stable | 🔴 High |
+| TR | ~5.3 | Improving slowly | 🔴 Critical |
+| CC | ~5.8 | Improving (Body 2 development chain now consistently strong) | 🔴 High |
+| LR | ~6.9 | Stable — STRENGTH | ✅ No action |
+| GRA | ~5.6 | Recurring a/an article errors confirmed 2nd occurrence (G015) | 🔴 High |
 
 ---
 

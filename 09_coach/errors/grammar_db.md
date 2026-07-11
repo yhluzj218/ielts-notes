@@ -95,14 +95,14 @@
 
 ### G007 — Plural subject + singular verb
 - **Pattern:** A plural subject takes the base verb or plural auxiliary form, not a third-person singular form
-- **Error → Correct:** `families tends to` → `families tend to`; `these does` → `these do`
+- **Error → Correct:** `families tends to` → `families tend to`; `these does` → `these do`; `paparazzi has caused` → `paparazzi have caused`
 - **Skills:** writing
 - **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 5
-- **Last Seen:** 2026-07-07
+- **Count:** 6
+- **Last Seen:** 2026-07-11
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md` · `10_knowledge_base/error_corrections/2026-07-05_modern-tourism-cultural-values.md` · `10_knowledge_base/error_corrections/2026-07-05_film-studios-hollywood-formulas.md` · `02_writing/task2/feedback/company-size_2026-07-07.md`
+- **Evidence:** `06_error_database/error_log.md` · `10_knowledge_base/error_corrections/2026-07-05_modern-tourism-cultural-values.md` · `10_knowledge_base/error_corrections/2026-07-05_film-studios-hollywood-formulas.md` · `02_writing/task2/feedback/company-size_2026-07-07.md` · `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md`
 
 ### G008 — Third-person singular `-s` omitted in speech
 - **Pattern:** `she / he / it` requires auxiliary `has` / verb + `-s`
@@ -158,14 +158,15 @@
 ## Verb Form
 
 ### G012 — Modal verb + inflected form
-- **Pattern:** Modal verbs (`might`, `could`, `would`, etc.) take bare infinitive
-- **Error → Correct:** `might ended up` → `might end up`
+- **Pattern:** Modal verbs (`might`, `could`, `would`, `should`, etc.) take bare infinitive — not past tense, not gerund
+- **Error → Correct:** `might ended up` → `might end up`; `should not stalking` → `should not stalk`
 - **Skills:** writing
-- **Confidence:** Medium
+- **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 2
+- **Count:** 3
+- **Last Seen:** 2026-07-11
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md`
+- **Evidence:** `06_error_database/error_log.md` · `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md`
 
 ### G013 — `end up` + infinitive instead of gerund
 - **Pattern:** `end up` takes gerund (`-ing`), not infinitive
@@ -186,6 +187,21 @@
 - **Count:** 2
 - **Status:** Active
 - **Evidence:** `06_error_database/error_log.md`
+
+---
+
+## Articles
+
+### G015 — `a` / `an` selection by following sound
+- **Pattern:** `an` before a vowel sound, `a` before a consonant sound — checked by the sound of the next word, not just its spelling
+- **Error → Correct:** `a organised system` → `an organised system`; `a unfair place` → `an unfair place`; `an car accident` → `a car accident`
+- **Skills:** writing
+- **Confidence:** Low
+- **First Seen:** 2026-07-07
+- **Count:** 2
+- **Last Seen:** 2026-07-11
+- **Status:** Active (2nd occurrence — 3 instances on 7/7, 4 more on 7/11, watch for a 3rd graded session before raising to Medium)
+- **Evidence:** `02_writing/task2/feedback/company-size_2026-07-07.md` · `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md`
 
 ---
 

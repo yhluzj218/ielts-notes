@@ -27,6 +27,9 @@
 | 2026-07-05 | [Parents and flexible working hours correction](../10_knowledge_base/error_corrections/2026-07-05_parents-flexible-working-hours.md) | Error Correction | Pending | — | — |
 | 2026-07-09 | [set the bar higher/lower](../10_knowledge_base/expressions/set-the-bar-higher.md) | Expression | Pending | — | — |
 | 2026-07-09 | [set someone up for success/failure](../10_knowledge_base/expressions/set-someone-up-for-success.md) | Expression | Pending | — | — |
+| 2026-07-10 | [fern](../10_knowledge_base/vocabulary/fern.md) | Vocabulary | Pending | — | — |
+| 2026-07-10 | [plaster](../10_knowledge_base/vocabulary/plaster.md) | Vocabulary | Pending | — | — |
+| 2026-07-10 | [longevity](../10_knowledge_base/vocabulary/longevity.md) | Vocabulary | Pending | — | — |
 | 2026-07-04 | [be packaged for consumption](../10_knowledge_base/expressions/archive/be-packaged-for-consumption.md) | Expression | Anki | 2026-07-05 | [Anki](../08_ai/anki/weekly/knowledge-review_2026-07-05.md) |
 | 2026-07-04 | [be retained within the local economy](../10_knowledge_base/expressions/archive/be-retained-within-the-local-economy.md) | Expression | Anki | 2026-07-05 | [Anki](../08_ai/anki/weekly/knowledge-review_2026-07-05.md) |
 | 2026-07-04 | [be severely damaged](../10_knowledge_base/expressions/archive/be-severely-damaged.md) | Expression | Anki | 2026-07-05 | [Anki](../08_ai/anki/weekly/knowledge-review_2026-07-05.md) |

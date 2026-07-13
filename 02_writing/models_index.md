@@ -7,6 +7,7 @@
 - [Skills vs Facts](task2/models/skills-vs-facts_model_2026-07-01.md) — Agree/disagree (completely agree) — 示範雙 body 不同角度切入、Body 內子主題轉換（With regard to）、結論對比句
 - [International Tourism](task2/models/international-tourism_model_2026-07-02.md) — Advantages & Disadvantages + Opinion — 示範今昔對比手法用在 body、一段內塞多個理由的進階 signposting（⚠️ 進階技巧，暫不模仿）、優缺點權衡型結論
 - [Parenting Course](task2/models/parenting-course_model_2026-07-07.md) — Agree/Disagree (completely disagree) — 作者確認為 Simon（ielts-simon.com）；示範開頭讓步+反駁、非 firstly/secondly 的自然段落承接、結論首尾呼應
+- [Useful Subjects vs Study What You Like](task2/models/useful-subjects_model_2026-07-13.md) — Discuss Both Views + Opinion — 由 Connie 自己的草稿修至 7–7.5（概念全保留），含逐項「為什麼這樣改」；示範 Body 1 公平論證弱方、換邊句、the more...the greater
 
 ## Task 1
 

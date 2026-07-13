@@ -48,14 +48,15 @@
 - **Evidence:** `06_error_database/error_log.md`
 
 ### W005 — `easily` vs `easy` as predicative complement
-- **Pattern:** After `make it / find it / consider it`, use adjective not adverb
-- **Error → Correct:** `made it easily` → `made it easy`
+- **Pattern:** After `make it / find it / be`, use adjective not adverb
+- **Error → Correct:** `made it easily` → `made it easy`; `is easily to burn out` → `is likely to burn out` / `burns out easily`
 - **Skills:** writing
-- **Confidence:** Medium
+- **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 2
+- **Count:** 3
+- **Last Seen:** 2026-07-13
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md`
+- **Evidence:** `06_error_database/error_log.md` · `02_writing/task2/feedback/useful-subjects_2026-07-13.md`
 
 ### W006 — Nationality adjective vs country noun in compound
 - **Pattern:** Country name (noun) cannot modify another noun directly; use nationality adjective

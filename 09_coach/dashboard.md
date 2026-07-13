@@ -1,7 +1,7 @@
 # IELTS Coach Dashboard
 
 > **Single entry point. Read this first, every time.**
-> Last generated: 2026-07-07 (Full Essay #1 completed late — Mon 7/6 task done Tue 7/7; self-graded Band 5.5)
+> Last generated: 2026-07-13 evening (Mon essay done Band 6, weaker-side drill achieved; G007 escalated to Top-3 #1 after ×8 in one essay; 6/26 lesson transcript backfilled; model essay + 2 education ideas + 8 KB items added)
 > Source files: `connie_profile.md` · `performance/*.md` · `errors/*.md` · `sprints/sprint-001.md`
 
 ---
@@ -43,7 +43,7 @@ Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)
 
 | | |
 |---|---|
-| Date | No mock completed yet |
+| Date | No mock completed yet — Mock #1 (Sun 7/12) skipped, not rescheduled; Sun 7/19 is the sprint's only mock |
 | Listening | — |
 | Reading | — |
 | Writing Task 1 | — |
@@ -58,28 +58,28 @@ Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)
 
 ## This Week
 
-**Today (Sat 7/4) and tomorrow (Sun 7/5) are rest — not part of the sprint.** Sprint-001
-restarts fresh on **Monday 7/6**. The Full Mock originally planned for tomorrow is
-cancelled; the first mock is now Sun 7/12 (end of new Week 1).
+**Week 2 (Mon 7/13 — Sun 7/19) — rescheduled 2026-07-12, corrected 2026-07-13:**
+Tue dinner (study from ~21:30) · Wed Matt lesson 21:15 (one essay due, written Mon) ·
+Thu writing class 21:30–22:30 · Fri exercise 20:30–21:30 · Sat 2 essays due to Joe
+(1× Task 1 + 1× Task 2) + French class (afternoon). Full detail: `sprint-001.md` §5 Week 2.
 
-**Week objective (starting Mon 7/6):** Method acquisition — **overridden this week
-only** by real Joe italki bookings (confirmed 2026-07-04). Same method (question
-type → skeleton → body chain), but real deadlines force D2/D3-level full essays
-instead of untimed drills. See `sprint-001.md` §5 Week 1 for full detail.
+**Week objective:** Method under pressure — 3 separate essays this week
+(corrected 2026-07-13, no double-counting): Mon = essay for **Matt's Wed lesson**;
+Fri = **Joe due Task 2** (timed D3); Sat am = **Joe due Task 1 letter**. Listening
+D2 dropped; Sunday mock covers listening. **Full Mock #1 (7/12) skipped, not
+rescheduled — Sun 7/19 is the sprint's only mock and is non-negotiable.**
 
-**This week's focus skill:** Writing (primary) · Listening S4 (secondary)
+**This week's focus skill:** Writing (primary) · Listening S4 (secondary, mock only)
 
 | Day | Evening task | Status |
 |---|---|---|
-| Sat 7/4 | Rest (today) | — |
-| Sun 7/5 | Rest — Full Mock cancelled | — |
-| **Mon 7/6** | Full Essay #1 — due tonight for Tue 7/7 Joe offline review | ✅ (completed late, Tue 7/7 morning — submitted to Joe late) |
-| **Tue 7/7** | Joe offline review (submitted late) | ✅ (Listening D1 moved to Sat 7/11, see below) |
-| Wed 7/8 | Finish 7/2 lesson's unfinished essay — due for Thu 7/9 live lesson | ⬜ |
-| **Thu 7/9** | **Joe live writing lesson** (bring finished 7/2 essay) | ⬜ |
-| **Fri 7/10** | Full Essay #2 — due tonight for Sat 7/11 Joe offline review | ⬜ |
-| **Sat 7/11** | Joe offline review (already submitted) + **Listening D1: Cambridge S4 (moved from Tue 7/7)** — no longer a light buffer day | ⬜ |
-| **Sun 7/12** | **Full Mock #1** + error analysis | ⬜ |
+| **Mon 7/13** | Essay for Matt's Wed lesson (90 min, D2 weaker-side focus) | ✅ Band 6 (TR 6.5/CC 6.5/LR 6/GRA 5.5) — weaker-side goal achieved; G007 ×8 |
+| **Tue 7/14** | Dinner night — rest; catch-up slot only if Mon's essay unfinished (from ~21:30, ≤45 min) | ⬜ |
+| **Wed 7/15** | **Matt writing lesson 21:15** (bring Mon's essay + 2–3 questions) | ⬜ |
+| **Thu 7/16** | **English writing class 21:30–22:30** — no other practice | ⬜ |
+| **Fri 7/17** | Joe due essay #1: Task 2, fully timed D3 (90 min, around 20:30–21:30 exercise) | ⬜ |
+| **Sat 7/18** | Joe due essay #2: Task 1 letter (am) · submit both to Joe · French class (pm) · **Sprint Retrospective** (eve) | ⬜ |
+| **Sun 7/19** | **Full Mock (only one this sprint)** + error analysis | ⬜ |
 
 ---
 
@@ -94,25 +94,23 @@ instead of untimed drills. See `sprint-001.md` §5 Week 1 for full detail.
 | Already distilled into | `writing_patterns.md` §5 · `10_knowledge_base/coaches/joe/distilled.md` · `10_knowledge_base/consensus/writing.md` |
 | New error observed (1st occurrence, not yet DB) | `get use of` → should be `get used to` |
 
-### Next Joe Touchpoints — all writing this week (confirmed via italki calendar, 2026-07-04)
+### This Week's Lessons (Week 2, rescheduled 2026-07-12)
 
-| Date | Format | What to bring |
+| Date | Lesson | What to bring |
 |---|---|---|
-| Tue 2026-07-07 | Offline (async review) | New full essay, submitted Mon 7/6 night |
-| Thu 2026-07-09 | Live video | Finished 7/2 lesson essay (online shopping / opinion) |
-| Sat 2026-07-11 | Offline (async review) | A different new full essay, submitted Fri 7/10 night |
+| Wed 2026-07-15, 21:15 | Matt writing lesson (confirmed) | Mon 7/13's essay + 2–3 prepared questions |
+| Thu 2026-07-16, 21:30–22:30 | English writing class | — (log corrections after) |
 
-⚠️ Not speaking this week — the "Thursday = Joe Speaking Lesson" default (see
-`sprint-001.md` §6) does not apply to 7/9. Full detail: `sprint-001.md` §5 Week 1.
+⚠️ Thursday is a **writing** class this week, not Joe speaking — the "Thursday =
+Joe Speaking Lesson" default does not apply to 7/16.
 
-### Next Matt Lesson — Confirmed 2026-07-15, 21:15
+### Matt Lesson — Wed 2026-07-15, 21:15
 
 | | |
 |---|---|
-| Date | Wednesday 2026-07-15, 21:15 (confirmed via italki calendar) |
-| Essay to bring | `02_writing/task2/drafts/[topic]_2026-07-15.md` (Wed 7/15 evening), or Mon 7/13's essay if that's further along by lesson time |
+| Essay to bring | ✅ Written & graded: `02_writing/task2/drafts/useful-subjects_2026-07-13.md`（feedback 檔末有 3 個現成問題可帶去問）|
 | Tell Matt | "I practised question type identification and body paragraph development for 2 weeks." |
-| Questions to prepare | (fill in after Wed 7/15 session) |
+| Questions to prepare | 2–3 specific ones during the pre-lesson 15 min (see sprint §5 Wed 7/15) |
 | Matt's key rule | Task Response first. Skeleton before writing. Finished > Perfect. |
 
 ---
@@ -121,9 +119,9 @@ instead of untimed drills. See `sprint-001.md` §5 Week 1 for full detail.
 
 | Rank | Error | Code | Skills | Confidence |
 |---|---|---|---|---|
-| 1 | Past time marker + present perfect | G001 | Both | High |
-| 2 | Double conjunction: `although` + `however` | G010 | Writing | High |
-| 3 | `due to` + clause (must be noun phrase) | G011 | Writing | High |
+| 1 | Plural subject + singular verb — Count 7, ×8 in one essay 7/13 ⚠️ escalating | G007 | Writing | High |
+| 2 | Past time marker + present perfect | G001 | Both | High |
+| 3 | Double conjunction: `although` + `however` — clean in last 2 essays ✓ | G010 | Writing | High |
 
 *Full error list: [`errors/grammar_db.md`](errors/grammar_db.md) · [`errors/preposition_db.md`](errors/preposition_db.md)*
 
@@ -133,10 +131,10 @@ instead of untimed drills. See `sprint-001.md` §5 Week 1 for full detail.
 
 | Skill | Next action | When |
 |---|---|---|
-| **Writing** | Full Essay #1 done (late, self-graded Band 5.5 — see `02_writing/task2/feedback/company-size_2026-07-07.md`). Next: Wed 7/8 — finish 7/2 lesson's unfinished essay for Thu 7/9 live lesson. | Wed 7/8 evening |
-| **Listening** | Cambridge S4 section + full transcript analysis — moved from Tue 7/7 | Sat 7/11 |
-| **Speaking** | Part 2 × 3 out loud during commute | Mon–Wed commute |
-| **Reading** | No action — maintain only. Sunday mock reading section. | Sun 7/12 |
+| **Writing** | ✅ Mon essay done (Band 6). Next: pre-lesson 15 min Wed — re-read essay + feedback, prepare 2–3 questions (3 ready-made ones in the feedback file). Joe's essays: Fri Task 2 · Sat am Task 1 letter | Wed 7/15 21:00 |
+| **Listening** | ⚠️ Week 1 listening = 0 sessions (D1 skipped twice, mock skipped). Listening D2 dropped — Sat morning is now Joe's Task 1 letter. Sun 7/19 mock S4 + transcript analysis is this sprint's only listening evidence | Sun 7/19 |
+| **Speaking** | Part 2 / Part 3 out loud during commute (unchanged) | Mon–Wed commute |
+| **Reading** | No action — maintain only. Sunday mock reading section. | Sun 7/19 |
 
 ---
 
@@ -220,6 +218,7 @@ Reusable essay structures, templates, and frameworks. Read before every writing 
 - Finished > Perfect — write continuously, review only at end
 - Discussion essays: argue the weaker side properly, not dismissively
 - Task 1 letters: each bullet point = its own paragraph
+- Word-form control, not word quantity, is the vocabulary work: learn POS + other forms with every new word ("learn one word = learn three words", 6/26)
 
 ### Joe — Speaking
 

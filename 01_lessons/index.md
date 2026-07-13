@@ -10,6 +10,8 @@
 
 ## 寫作課
 
+- [2026-07-02 Joe](writing/writing-lesson_2026-07-02.md) — Joe 第一堂寫作課；重點：Task 2 目標是清楚溝通立場+理由、不硬塞詞彙、linking words ≠ 連貫、「今昔對比」開頭
+- [2026-06-26 Matt](writing/writing-lesson_2026-06-26.md) — Task 1 New Year letter + Task 2 語言消失批改 + Discussion Essay 教學；重點：Body 1 替弱方辯護、段落份量平均、非正式信結尾、單字連詞性一起學
 - [2026-06-23](writing/writing-lesson_2026-06-23.md) — Task 1 訓練課程信 v2 + Task 2 學費議論文 v2（修訂後第二次批改）；重點：內容要真實具體、Para 要展開解釋、題目前提要正面回應
 - [2026-06-19 第一堂](writing/writing-lesson_2026-06-19.md) — Task 1 火車退票信 + Task 2 報紙書籍議論文；重點：分段、時態、agree/disagree 答法、although 用法
 - [2026-06-19 第二堂](writing/writing-lesson_2026-06-19-b.md) — Task 1 訓練課程信 + Task 2 學費議論文（修訂版檢討）；重點：idea 要展開解釋、due to 用法、examples 後要收尾、想法簡單清楚勝過複雜

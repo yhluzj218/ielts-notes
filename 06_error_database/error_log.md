@@ -14,7 +14,8 @@
 - information 永遠不加 s（我多次犯）
 - staff 是不可數；要數人時用 staff member
 - feedback 不可數：`a short feedback` → `some feedback` 或 `a piece of feedback`
-- 檢查：information / staff / feedback / advice / equipment 等不可數名詞，別加 s
+- heritage 不可數：`historical heritages` → `historical heritage`（永遠不加 s，2026-06-26）
+- 檢查：information / staff / feedback / advice / equipment / heritage 等不可數名詞，別加 s
 
 ### 3. 介系詞搭配
 - listening that story → listening TO a story
@@ -27,6 +28,7 @@
 - `study my IELTS exam` → `study for my IELTS exam`（study for something）
 - `thinking to try` → `thinking of trying`（think of + V-ing，不接 to）
 - `How have you been up to?` → 兩個說法混在一起，選一個：`How have you been?` 或 `What have you been up to?`（2026-06-26）
+- `Among the holidays time` → `During the holidays` 或 `During the holiday time`（2026-06-26）
 
 ### 4. 詞性混用（adj / noun / adv 選錯）
 - bullish vs bully（我想講 bully）
@@ -37,6 +39,9 @@
 - `made it easily` → `made it easy`（easy 是形容詞補語，不是副詞）
 - `a colony of Dutch and Japan` → `a Dutch and Japanese colony`（Japan 是名詞，要用形容詞 Japanese；Dutch 已是形容詞，口說 2026-06-01/08）
 - `the plan will be success` → `the plan will succeed`（success 是名詞，動詞用 succeed）
+- `what ancient had said` → `what ancient people had said`（ancient 是形容詞，後面要接名詞，2026-06-26）
+- `having varies of languages` → `having a variety of languages`（varies 是動詞，名詞是 variety，2026-06-26）
+- `languages are diminishing` 想表達「消失」→ `vanishing` 或 `becoming obsolete`（diminishing = 逐漸減少變小，不是消失；詞義選錯，2026-06-26）
 
 ### 5. 單複數 / 主謂一致
 - a refunds / app refunds → our refund

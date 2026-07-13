@@ -30,6 +30,14 @@
 | 2026-07-10 | [fern](../10_knowledge_base/vocabulary/fern.md) | Vocabulary | Pending | — | — |
 | 2026-07-10 | [plaster](../10_knowledge_base/vocabulary/plaster.md) | Vocabulary | Pending | — | — |
 | 2026-07-10 | [longevity](../10_knowledge_base/vocabulary/longevity.md) | Vocabulary | Pending | — | — |
+| 2026-07-13 | [This essay will examine both perspectives and argue that…](../10_knowledge_base/sentence_patterns/this-essay-will-examine-both-and-argue.md) | Sentence Pattern | Pending | — | — |
+| 2026-07-13 | [On the other hand, other people, including myself, believe that…](../10_knowledge_base/sentence_patterns/on-the-other-hand-including-myself.md) | Sentence Pattern | Pending | — | — |
+| 2026-07-13 | [The more X…, the greater Y…](../10_knowledge_base/sentence_patterns/the-more-x-the-greater-y.md) | Sentence Pattern | Pending | — | — |
+| 2026-07-13 | [be widely regarded as](../10_knowledge_base/expressions/be-widely-regarded-as.md) | Expression | Pending | — | — |
+| 2026-07-13 | [of one's own will](../10_knowledge_base/expressions/of-ones-own-will.md) | Expression | Pending | — | — |
+| 2026-07-13 | [[Institution] offers a wide range of [X]](../10_knowledge_base/sentence_patterns/agent-offers-a-wide-range-of.md) | Sentence Pattern | Pending | — | — |
+| 2026-07-13 | [from this point of view](../10_knowledge_base/expressions/from-this-point-of-view.md) | Expression | Pending | — | — |
+| 2026-07-13 | [hand the decision back to someone](../10_knowledge_base/expressions/hand-the-decision-back-to.md) | Expression | Pending | — | — |
 | 2026-07-04 | [be packaged for consumption](../10_knowledge_base/expressions/archive/be-packaged-for-consumption.md) | Expression | Anki | 2026-07-05 | [Anki](../08_ai/anki/weekly/knowledge-review_2026-07-05.md) |
 | 2026-07-04 | [be retained within the local economy](../10_knowledge_base/expressions/archive/be-retained-within-the-local-economy.md) | Expression | Anki | 2026-07-05 | [Anki](../08_ai/anki/weekly/knowledge-review_2026-07-05.md) |
 | 2026-07-04 | [be severely damaged](../10_knowledge_base/expressions/archive/be-severely-damaged.md) | Expression | Anki | 2026-07-05 | [Anki](../08_ai/anki/weekly/knowledge-review_2026-07-05.md) |

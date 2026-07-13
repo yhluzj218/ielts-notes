@@ -5,7 +5,7 @@
 | Skill | Writing (Task 1 & Task 2) + Speaking (early sessions) |
 | Platform | italki |
 | Speaking lessons | 2026-05-25 (trial), 2026-06-08 |
-| Writing lessons | 2026-06-19, 2026-06-19-b, 2026-06-23 |
+| Writing lessons | 2026-06-19, 2026-06-19-b, 2026-06-23, 2026-06-26 |
 | Note | Speaking lessons transferred to Joe from 2026-06-15 onward |
 
 ---
@@ -108,6 +108,8 @@ Focus on eliminating recurring patterns, not hunting individual errors:
 ### Vocabulary
 
 Do not recommend vocabulary improvements unless there is a clear collocation error. Vocabulary is Connie's strongest criterion. Pushing higher-level words causes more harm than good.
+
+The one vocabulary-adjacent thing Matt does correct: **word-form control** (6/26). *"You have more than enough words. You just need to learn the control of: this is a noun, and this is a verb."* When learning any new word, learn its part of speech and check its other forms — "you learn one word but you actually learn three words." This is grammar-pattern work, not vocabulary expansion.
 
 ---
 

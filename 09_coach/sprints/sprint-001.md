@@ -222,6 +222,12 @@ No other practice today. Save energy for the lesson.
 
 #### Fri 7/10 — Full Essay #2, due tonight for Sat 7/11 offline (100 min)
 
+> ✅ **Status (reported 2026-07-12):** completed one day late — written Sat 7/11
+> ("Celebrity privacy / paparazzi", Discuss Both Views). Graded same day, all DBs
+> updated: `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md`.
+> Second consecutive essay finished one day after its planned slot (same as Mon 7/6
+> → Tue 7/7) — pattern worth raising at the § 10 retrospective.
+
 Same timer structure as Mon 7/6 — a **new** prompt, not a revision of Monday's essay.
 
 **Timer structure:**
@@ -245,6 +251,14 @@ week:
 - If Tue 7/7's offline feedback has come back, review it (no new writing required)
 - Otherwise: true rest, per § 9 buffer rules
 
+> ❌ **Status (reported 2026-07-12):** the day was consumed by writing + grading
+> Essay #2 instead. **Listening D1 (moved here from Tue 7/7) was NOT done.**
+> Combined with the skipped Sun 7/12 mock, Week 1 listening practice = **0 sessions**
+> — the secondary goal produced no data at all in Week 1. Consequence: the Sat 7/18
+> optional Listening D2 is upgraded to "do it if the morning allows at all", and the
+> Sun 7/19 mock S4 + transcript analysis is the minimum acceptable listening evidence
+> for this sprint. Log this in the § 10 retrospective.
+
 ---
 
 #### Sun 7/12 — Full Mock #1
@@ -257,58 +271,103 @@ skip it.
 
 ### Week 2 — Method Under Pressure (Mon 7/13 — Sun 7/19)
 
-> ⚠️ **Matt lesson lands mid-week this cycle (~7/15, Wed).** The plan below still puts
-> the D3 timed essay on Wed 7/15 evening. If Matt's lesson is in the evening, bring
-> Monday 7/13's D2 essay instead — the Wed essay won't exist yet. If Matt's lesson is
-> daytime, Wed evening's D3 essay proceeds as normal and Fri 7/17 becomes lesson
-> follow-up instead of pre-lesson prep. Confirm the actual lesson time once scheduled.
+> ⚠️ **Week 2 rescheduled 2026-07-12 (Sun night) around real fixed commitments:**
+>
+> - Tue 7/14: dinner with friends — study only possible from ~21:30
+> - Wed 7/15: writing lesson 21:15 (Matt, confirmed) — one essay due for this lesson, written Mon. (The earlier "external English article due Wed" entry was a duplicate record of this same essay — removed 2026-07-13.)
+> - Thu 7/16: English **writing** class 21:30–22:30 (not speaking — Thursday speaking default does not apply)
+> - Fri 7/17: fixed exercise 20:30–21:30
+> - Sat 7/18: **2 essays due** + French class in the afternoon
+>
+> Same Week-1 logic applies: real deadlines replace drills, method stays the same
+> (question type → skeleton → body chain).
+>
+> **Corrected 2026-07-13:** the Wed essay (for Matt's lesson) and the Sat essays
+> (Joe's offline deadline) are **separate deliverables — no double-counting**:
+>
+> - Mon 7/13 → write the essay for **Matt's Wed 7/15 lesson** (Task 2, D2 weaker-side focus)
+> - Fri 7/17 → **Joe due essay #1: Task 2**, fully timed (D3)
+> - Sat 7/18 morning → **Joe due essay #2: Task 1 letter**, then submit both
+>
+> That's 3 essays this week (1 for Matt + 2 for Joe). Listening D2 drops from
+> Sat-morning-optional to **covered by Sunday mock only** — Sat morning is now the
+> Task 1 letter. Sunday mock's S4 + transcript analysis covers listening this week.
+>
+> **Full Mock #1 (Sun 7/12) was not done.** Not rescheduled — the week is full.
+> Sun 7/19 becomes the sprint's only full mock and is the one non-negotiable session.
 
 ---
 
-#### Mon 7/13 — Writing D2: Discussion Essay — Argue the Weaker Side (90 min)
+#### Mon 7/13 — Writing: essay for Matt's Wed lesson (90 min) — D2 focus: argue the weaker side
 
-**Why:** `writing_db.md` recurring weakness: "Body 1 (weaker side) too superficial." Matt: argue the opposing view as if you believe it — a dismissive paragraph signals inability to engage with opposing ideas.
+**Why:** `writing_db.md` recurring weakness: "Body 1 (weaker side) too superficial." Matt: argue the opposing view as if you believe it. This is the essay to bring to Matt's Wed 7/15 lesson — **it is NOT one of Joe's Sat essays** (those are written Fri 7/17 + Sat 7/18 am).
 
 **Exercise:**
-1. Find a Discuss Both Views prompt
-2. Identify the view you personally disagree with
-3. Write ONLY the body paragraph for that view
-4. Argue it fully: reason + example + consequence
-5. Read it aloud: does it sound like you believe it, or like you are dismissing it?
+1. Use the prompt for Matt's Wednesday lesson — if you get to choose, prefer a Discuss Both Views type
+2. Skeleton first (4-part), then write the full essay continuously
+3. Give the weaker-side body paragraph full treatment: reason + example + consequence
+4. Read the weaker-side paragraph aloud: does it sound like you believe it?
 
 **Check:**
-- [ ] Reason, example, and consequence all present?
+- [ ] Skeleton written before the essay?
+- [ ] Weaker-side paragraph: reason, example, and consequence all present?
 - [ ] Does it avoid "some people think X, however this is wrong"?
-- [ ] Does it feel as developed as your own-view paragraph would be?
 
-**Error scan (15 min)**
+**Error scan (15 min)** — any error appearing for the second time this sprint → tell me for DB entry.
 
----
+Save draft: `02_writing/task2/drafts/[topic]_2026-07-13.md`
 
-#### Tue 7/14 — Listening D2: Cambridge S4 #2 + Pattern Comparison (90 min)
-
-Same method as Tue 7/7.
-
-**After transcript analysis, compare with last Tuesday:**
-- Same error type appearing again? → That is the confirmed priority pattern
-- Different error types? → Note which question range (31–34 / 35–37 / 38–40) was harder
-- Was there a self-correction you missed again? → That is the primary trap to practise
-
-Report to me: score + error categories. I will update `listening_db.md` and flag any confirmed pattern for Sprint-002.
+Once tonight's essay is done, nothing else is due before Wed's lesson.
 
 ---
 
-#### Wed 7/15 — Writing D3: First Full Timed Essay (90 min) · Matt lesson ~this day
+#### Tue 7/14 — Dinner night: rest (buffer only)
 
-**Why:** All Week 1 skills tested together under exam conditions. Matt lesson is ~7/15 — see the ⚠️ note above the Week 2 header for how these two interact.
+Nothing is due tonight. If Mon's essay is NOT finished, tonight from ~21:30 is the
+catch-up slot (≤45 min). Otherwise: rest. Commute speaking (Part 3) still applies
+if feasible.
+
+*(Listening D2 originally here — moved to Sat 7/18 morning, optional; see Sat.)*
+
+---
+
+#### Wed 7/15 — Matt Writing Lesson 21:15 (bring Mon 7/13's essay)
+
+The essay due today is Mon 7/13's essay itself — no separate article.
+
+**Before the lesson (15–20 min):**
+1. Re-read Mon's essay — do NOT rewrite it
+2. Prepare 2–3 specific questions, e.g.:
+   - "Is my question type identification correct for this prompt?"
+   - "My weakest paragraph was [X]. What is missing from the chain?"
+3. Opening line: "I practised question type identification and body paragraph development for 2 weeks."
+
+**After lesson:** log corrections in `01_lessons/writing/writing-lesson_2026-07-15.md`.
+No timed essay tonight — moved to Fri 7/17.
+
+---
+
+#### Thu 7/16 — English Writing Class 21:30–22:30
+
+Not a speaking lesson this week. No other evening practice today (lesson-day rule).
+
+**After lesson:** note 1–2 corrections. Log in `01_lessons/writing/writing-lesson_2026-07-16.md`.
+
+---
+
+#### Fri 7/17 — Writing D3: Joe due essay #1 (Task 2), fully timed (90 min, scheduled around 20:30–21:30 exercise)
+
+**Why:** All sprint skills tested together under exam conditions. This is the Task 2 essay of the two due to Joe Sat 7/18. Apply one concrete point from Matt's Wed feedback.
+
+Fit the session either before exercise or 21:45 onwards — but keep the 60-min essay block unbroken.
 
 **Timer structure:**
 - 5 min: question type + position + structure selection
 - 5 min: skeleton (4-part)
 - 50 min: full essay — write continuously, no stopping to edit
-- 10 min: self-review only (mark questions for Matt, do not rewrite)
+- 10 min: self-review only (mark issues, do not rewrite)
 
-Save draft: `02_writing/task2/drafts/[topic]_2026-07-15.md`
+Save draft: `02_writing/task2/drafts/[topic]_2026-07-17.md`
 
 **Self-review checklist (mark, do not fix):**
 - [ ] Question type correctly identified?
@@ -317,44 +376,28 @@ Save draft: `02_writing/task2/drafts/[topic]_2026-07-15.md`
 - [ ] Body 2 chain reached result/consequence level?
 - [ ] Conclusion restates position?
 
-**Error scan (15 min):** Full error scan. Any error appearing for the second time this sprint → tell me for DB entry.
+**Error scan (15 min):** Full error scan. Second occurrence this sprint → tell me for DB entry.
 
 ---
 
-#### Thu 7/16 — Joe Speaking Lesson
+#### Sat 7/18 — Joe due essay #2 (Task 1 letter) + submit both (morning) · French class (afternoon) · Sprint Retrospective (evening)
 
-No other practice today.
+1. **Morning:** write Joe due essay #2 — **Task 1 letter** (timed: 20 min + 10 min
+   review). Remember: each bullet point = its own paragraph (Matt).
+   Save draft: `02_writing/task1/drafts/[topic]_2026-07-18.md`
+2. **Morning:** final read-through + submit both Joe essays (7/17 Task 2 + 7/18 Task 1)
+3. **Afternoon:** French class
+4. **Evening:** Sprint Retrospective — see § 10. Keep it to 30–45 min if tired.
 
-**After lesson:** note 1–2 corrections. Log in `01_lessons/speaking/speaking-lesson_2026-07-16.md`.
-
----
-
-#### Fri 7/17 — Matt Lesson Prep (90 min)
-
-Use this session to prepare (or, if Matt's lesson already happened on Wed, to follow up — see ⚠️ note above).
-
-Review the Wed 7/15 essay (or Mon 7/13's, if that's what you brought):
-1. What question type was this, and are you certain you identified it correctly?
-2. Which body paragraph had a more complete chain? Why?
-3. Which sentences were doing the same job (duplication)?
-4. Did you write the skeleton before starting? Did you follow it?
-
-Prepare 2–3 specific questions for Matt. Examples:
-- "Is my question type identification correct for this prompt?"
-- "My weakest paragraph was [X]. What is missing from the chain?"
-- "I am still unsure when to use Discuss Both Views vs Agree/Disagree — can we review these two prompts?"
+*(Listening D2 dropped entirely this week — Sunday mock's S4 + transcript analysis
+is the listening evidence for this sprint.)*
 
 ---
 
-#### Sat 7/18 — Sprint Retrospective
+#### Sun 7/19 — Full Mock (the sprint's only one — 7/12 was skipped) + error analysis
 
-See § 10.
-
----
-
-#### Sun 7/19 — Full Mock #2
-
-See § 7.
+See § 7. **Non-negotiable** — this is now the sprint's only full mock and the main
+evidence source for the Sprint-002 planning.
 
 ---
 
@@ -389,9 +432,9 @@ bring the finished 7/2 essay instead of doing Part 2 warm-up.
 
 Tell Matt at the start: "I practised [X] this week. I was uncertain about [Y]. Can we look at [Z]?"
 
-**This sprint: bring `02_writing/task2/drafts/[topic]_2026-07-15.md` to the ~7/15 lesson,
-or Monday 7/13's essay if the lesson happens before Wed evening — see ⚠️ note in § 5
-Week 2.**
+**This sprint: bring Monday 7/13's essay (`02_writing/task2/drafts/[topic]_2026-07-13.md`)
+to the Wed 7/15 21:15 lesson — the lesson is in the evening, so Wed's timed essay was
+moved to Fri 7/17. See ⚠️ note in § 5 Week 2 (rescheduled 2026-07-12).**
 
 ### If Matt Lesson Moves Off the Planned Day
 

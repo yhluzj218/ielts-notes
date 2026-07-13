@@ -54,6 +54,8 @@ Each theme folder holds atomic idea notes named after the claim itself, e.g.
 
 ### Education
 - [Skills can be learned informally without formal training](education/skills-can-be-learned-informally-without-formal-training.md)
+- [Passion sustains learning better than practicality](education/passion-sustains-learning-better-than-practicality.md)
+- [Fundamental subjects are interconnected prerequisites](education/fundamental-subjects-are-interconnected-prerequisites.md)
 
 ### Technology & AI
 - [Access to goods and services has become democratised](technology-ai/access-to-goods-and-services-has-become-democratised.md)

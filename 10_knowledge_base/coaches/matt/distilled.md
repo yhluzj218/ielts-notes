@@ -24,6 +24,7 @@ Matt's primary frame is task response and method accuracy before language. He co
 | Plan 5 minutes before writing | Structure first, writing second; no editing during drafting | All writing lessons |
 | Grammar from own errors, not systematic study | Matt corrects specific errors from Connie's writing — no grammar workbooks | All sessions |
 | Vocabulary is not the problem | Matt's assessment: "instinctively, not a vocabulary problem" — explicitly confirmed | 2026-06-08 (speaking), all writing sessions |
+| Word-form control is the real vocabulary work | "You have more than enough words. You just need to learn the control of: this is a noun, and this is a verb." Learn POS + other forms with every new word — "learn one word, actually learn three words" | 2026-06-26 |
 | No IELTS social media content | Explicitly warned against | 2026-06-08 |
 | Shadowing for pronunciation — but after intonation lesson | Don't shadow before intonation is introduced | 2026-05-25 |
 

@@ -2,7 +2,7 @@
 
 > Maps each lesson to the topics it covers.
 > Distilled knowledge is in `distilled.md`.
-> Last updated: 2026-06-28
+> Last updated: 2026-07-13
 
 ---
 
@@ -14,6 +14,7 @@
 | 2026-06-08 | Speaking lesson | Part 2 stamina · Part 3 scope · Vocabulary assessment | `01_lessons/speaking/speaking-lesson_2026-06-08.md` |
 | 2026-06-19 | Writing lesson | Task Response · Idea Development · Letter register | `01_lessons/writing/writing-lesson_2026-06-19.md` |
 | 2026-06-23 | Writing lesson | Structure progress · Past tense · Feedback | `01_lessons/writing/writing-lesson_2026-06-23.md` |
+| 2026-06-26 | Writing lesson | Discussion essay structure · Informal letter tone/closings · Paragraph balance · Word-form control | `01_lessons/writing/writing-lesson_2026-06-26.md` |
 
 ---
 
@@ -29,5 +30,8 @@
 | Speaking — Part 2 | 2026-06-08 |
 | Speaking — Part 3 | 2026-06-08 |
 | Speaking — Pronunciation | 2026-05-25 |
-| Vocabulary | 2026-06-08 (de-emphasised) |
+| Discussion Essay Structure | 2026-06-26 |
+| Writing Task 1 — Informal Letter | 2026-06-26 |
+| Paragraph Balance | 2026-06-26 |
+| Vocabulary | 2026-06-08 (de-emphasised) · 2026-06-26 (word-form control) |
 | Anti-patterns | 2026-05-25 · 2026-06-08 · 2026-06-19 |

@@ -106,13 +106,14 @@ Conclusion: restate position
 ### 4.2 Discuss Both Views + Opinion
 
 ```
-Introduction: paraphrase + signal you will discuss both views
-Body 1: first view (argued fairly — even if you disagree with it)
-Body 2: second view (your preferred view)
-Conclusion: restate your overall position
+Introduction: paraphrase both views + thesis (you will discuss both AND give your opinion)
+Body 1: the view you support less (explain fairly why people hold it — NO refutation here)
+Body 2: the view you support (why it is more reasonable + your position,
+        e.g. "On the other hand, other people, including myself, believe that...")
+Conclusion: summarise both views + restate your opinion
 ```
 
-**Key rule (Matt):** Body 1 must argue the opposing view as if you believe it. A dismissive paragraph signals inability to engage — examiner penalises this.
+**Key rule (Matt, 6/26):** Body 1's job is to explain why others believe that view, as if you believe it yourself. The most common mistake: "Some people think X. However, this is a bad idea because..." — introducing the view and immediately refuting it. Refutation is not Body 1's job; a dismissive paragraph signals inability to engage and the examiner penalises it.
 
 ---
 

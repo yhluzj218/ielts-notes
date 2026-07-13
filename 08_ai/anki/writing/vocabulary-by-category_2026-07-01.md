@@ -1,6 +1,6 @@
 # IELTS Writing Vocabulary — Anki Cards by Category
 # Date: 2026-07-01
-# Source: model essays (Skills vs Facts · Language Loss · Print vs Digital · International Tourism [2026-07-02] · Parenting Course [2026-07-07]) + place adjectives
+# Source: model essays (Skills vs Facts · Language Loss · Print vs Digital · International Tourism [2026-07-02] · Parenting Course [2026-07-07] · Useful Subjects [2026-07-13]) + place adjectives
 
 ---
 
@@ -287,6 +287,45 @@ Note:
 Very useful in technology and education essays. The phrase "accessible online" appears naturally in discussions about the internet.
 Common collocations:
 accessible online · freely accessible · accessible to all · accessible information · widely accessible
+
+---
+
+**Front:**
+Something you must learn or complete first, before you can move on to more advanced study or tasks.
+What noun describes this?
+
+**Back:**
+**Prerequisite**
+Pronunciation: /ˌpriːˈrekwəzɪt/ · pree-REK-wuh-zit
+Form: noun (also adjective)
+Related forms:
+require = verb
+requirement = noun (general need, not necessarily "first")
+Example:
+A solid understanding of mathematics is a prerequisite for most science subjects.
+Note:
+Followed by "for" (a prerequisite FOR physics). Precise academic word for education and skills essays — stronger than "necessary first step."
+Common collocations:
+a prerequisite for · an essential prerequisite · prerequisites for entry · a prerequisite to success
+
+---
+
+**Front:**
+A firm, solid understanding of a subject or concept — you really "hold" the idea in your mind.
+What noun describes this understanding?
+
+**Back:**
+**Grasp**
+Pronunciation: /ɡræsp/ · GRASP
+Form: noun (also verb = to understand / to seize)
+Related forms:
+grasp = verb (grasp a concept)
+Example:
+Students with a strong grasp of mathematics tend to comprehend physics more easily.
+Note:
+Almost always "a strong/good/solid grasp OF something." Natural replacement for "good understanding" in education essays.
+Common collocations:
+a strong grasp of · a solid grasp of · grasp a concept · beyond one's grasp
 
 ---
 
@@ -655,6 +694,65 @@ Note:
 A modern, widely recognised concept in education and workplace essays. More specific and impressive than "understanding feelings."
 Common collocations:
 develop emotional intelligence · emotional intelligence skills · high emotional intelligence · lack of emotional intelligence
+
+---
+
+**Front:**
+Someone becomes so exhausted and demotivated — usually from prolonged stress or forced effort — that they can no longer continue.
+What phrasal verb describes this?
+
+**Back:**
+**Burn out**
+Pronunciation: /ˌbɜːrn ˈaʊt/ · burn-OUT
+Form: phrasal verb (noun form: burnout, uncountable)
+Related forms:
+burnout = noun (suffer from burnout)
+burnt out / burned out = adjective
+Example:
+Students who are forced to study subjects they have no interest in are likely to burn out and give up.
+Note:
+Modern, natural word for motivation/pressure topics (education, work). The noun "burnout" is also common: "employee burnout."
+Common collocations:
+burn out quickly · likely to burn out · suffer from burnout · avoid burnout
+
+---
+
+**Front:**
+A person or thing develops quickly and successfully — they thrive, especially after conditions improve.
+What verb describes this?
+
+**Back:**
+**Flourish**
+Pronunciation: /ˈflɜːrɪʃ/ · FLUR-ish
+Form: verb
+Related forms:
+flourishing = adjective
+Example:
+She struggled through compulsory chemistry but flourished once she switched to design.
+Note:
+Strongest in before/after contrasts — pair it with "struggle" for effect. Works for people, businesses, cities, and cultures.
+Common collocations:
+flourish in a new environment · begin to flourish · businesses flourish · allow talent to flourish
+
+---
+
+**Front:**
+The satisfying feeling you get after achieving something you worked hard for.
+What fixed phrase describes this feeling?
+
+**Back:**
+**A sense of accomplishment**
+Pronunciation: /əˈkʌmplɪʃmənt/ · uh-KUM-plish-munt
+Form: fixed noun phrase
+Related forms:
+accomplish = verb
+accomplished = adjective (skilled)
+Example:
+Completing a project of their own choosing gives students a profound and long-lasting sense of accomplishment.
+Note:
+The natural collocation for "成就感" — do not translate as "wellness" or "achievement feeling." Common in education, work, and personal development essays.
+Common collocations:
+a sense of accomplishment · a profound sense of accomplishment · gives me a sense of accomplishment
 
 ---
 

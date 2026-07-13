@@ -1,6 +1,6 @@
 # Skeleton — Discuss Both Views + Opinion
 
-> Last updated: 2026-07-01
+> Last updated: 2026-07-13
 
 ---
 
@@ -62,4 +62,4 @@ Body 1 是你**不同意**的觀點，但你必須論述它像你真的相信它
 
 ## 真實例子
 
-目前無範本。存到範本庫後更新這裡。
+- [Useful Subjects vs Study What You Like（2026-07-13）](../../02_writing/task2/models/useful-subjects_model_2026-07-13.md) — 標準結構的完整示範（由 Connie 原稿修至 7–7.5）：Intro 兩句（paraphrase + thesis 亮立場）· Body 1 弱方零反駁 · Body 2 用 `On the other hand, other people, including myself, believe...` 換邊 + 具體例子 · 結論 although 讓步收尾

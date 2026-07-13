@@ -45,6 +45,7 @@ Band scale: 1–9. Use 0 if not assessed.
 | 2026-07-07 | T2 | Large vs small company (Agree/Disagree) | 5.5 | 5 | 5.5 | 7 | 5 | self | `02_writing/task2/feedback/company-size_2026-07-07.md` |
 | 2026-07-11 | T2 | Large vs small company (Agree/Disagree) — same essay, Joe's official assessment | 6 | 6 | 6 | 6 | 7 | Joe | `02_writing/task2/feedback/company-size_2026-07-11.md` |
 | 2026-07-11 | T2 | Celebrity privacy / paparazzi (Discuss Both Views) | 6 | 6 | 6 | 7 | 5 | self | `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md` |
+| 2026-07-13 | T2 | Useful subjects vs study what you like (Discuss Both Views) | 6 | 6.5 | 6.5 | 6 | 5.5 | AI coach | `02_writing/task2/feedback/useful-subjects_2026-07-13.md` |
 
 *Note: Band estimates above are approximations based on teacher feedback patterns. Update with confirmed scores when available.*
 

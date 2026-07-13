@@ -95,14 +95,14 @@
 
 ### G007 — Plural subject + singular verb
 - **Pattern:** A plural subject takes the base verb or plural auxiliary form, not a third-person singular form
-- **Error → Correct:** `families tends to` → `families tend to`; `these does` → `these do`; `paparazzi has caused` → `paparazzi have caused`
+- **Error → Correct:** `families tends to` → `families tend to`; `these does` → `these do`; `paparazzi has caused` → `paparazzi have caused`; `people believes` → `people believe`
 - **Skills:** writing
 - **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 6
-- **Last Seen:** 2026-07-11
-- **Status:** Active
-- **Evidence:** `06_error_database/error_log.md` · `10_knowledge_base/error_corrections/2026-07-05_modern-tourism-cultural-values.md` · `10_knowledge_base/error_corrections/2026-07-05_film-studios-hollywood-formulas.md` · `02_writing/task2/feedback/company-size_2026-07-07.md` · `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md`
+- **Count:** 7
+- **Last Seen:** 2026-07-13（單篇 8 處，含反向 `the concept itself are` — 歷來最密）
+- **Status:** Active ⚠️ escalating
+- **Evidence:** `06_error_database/error_log.md` · `10_knowledge_base/error_corrections/2026-07-05_modern-tourism-cultural-values.md` · `10_knowledge_base/error_corrections/2026-07-05_film-studios-hollywood-formulas.md` · `02_writing/task2/feedback/company-size_2026-07-07.md` · `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md` · `02_writing/task2/feedback/useful-subjects_2026-07-13.md`
 
 ### G008 — Third-person singular `-s` omitted in speech
 - **Pattern:** `she / he / it` requires auxiliary `has` / verb + `-s`

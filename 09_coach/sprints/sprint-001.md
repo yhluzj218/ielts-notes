@@ -295,6 +295,13 @@ skip it.
 >
 > **Full Mock #1 (Sun 7/12) was not done.** Not rescheduled — the week is full.
 > Sun 7/19 becomes the sprint's only full mock and is the one non-negotiable session.
+>
+> **Updated 2026-07-15 (booked lesson schedule confirmed):**
+>
+> - Thu 7/16 的課確認是 **Joe，21:45–22:30（45 min）**——不是先前記的「English writing class 21:30–22:30」另一堂課，是同一個時段的 Joe 課
+> - Sat 7/18 新增 **Joe 課 11:45–12:45（60 min）**——兩篇 essay 要在這堂課前完成並提交
+> - 之後已預約：Joe Thu 7/23 21:45（45 min）· Joe Sat 7/25 11:45（60 min）· **Matt Wed 7/29 21:15**（45 min）· Matt Wed 8/12 21:15（45 min）→ Matt 改為隔週三固定
+> - **Matt 7/15 出的作業（1× Task 1 + 1× Task 2 廣告題，positive/negative development，題目在 Matt 文件最上方）與 Joe 的兩篇是不同題目，要各寫各的；期限 = Matt 下堂課 Wed 7/29** → 屬於下一個 sprint 的排程，已列入 §10 Next Sprint Inputs
 
 ---
 
@@ -347,11 +354,11 @@ No timed essay tonight — moved to Fri 7/17.
 
 ---
 
-#### Thu 7/16 — English Writing Class 21:30–22:30
+#### Thu 7/16 — Joe lesson 21:45–22:30（updated 2026-07-15：確認是 Joe 的課，非另一堂 English writing class）
 
-Not a speaking lesson this week. No other evening practice today (lesson-day rule).
+No other evening practice today (lesson-day rule).
 
-**After lesson:** note 1–2 corrections. Log in `01_lessons/writing/writing-lesson_2026-07-16.md`.
+**After lesson:** note 1–2 corrections. Log in `01_lessons/` 對應資料夾（依實際上課內容判斷 writing 或 speaking）。
 
 ---
 
@@ -380,13 +387,14 @@ Save draft: `02_writing/task2/drafts/[topic]_2026-07-17.md`
 
 ---
 
-#### Sat 7/18 — Joe due essay #2 (Task 1 letter) + submit both (morning) · French class (afternoon) · Sprint Retrospective (evening)
+#### Sat 7/18 — Joe due essay #2 (Task 1 letter) + Joe lesson 11:45–12:45 · French class (afternoon) · Sprint Retrospective (evening)
 
-1. **Morning:** write Joe due essay #2 — **Task 1 letter** (timed: 20 min + 10 min
+1. **Early morning:** write Joe due essay #2 — **Task 1 letter** (timed: 20 min + 10 min
    review). Remember: each bullet point = its own paragraph (Matt).
    Save draft: `02_writing/task1/drafts/[topic]_2026-07-18.md`
-2. **Morning:** final read-through + submit both Joe essays (7/17 Task 2 + 7/18 Task 1)
-3. **Afternoon:** French class
+2. **Before 11:45:** final read-through + submit both Joe essays (7/17 Task 2 + 7/18 Task 1)
+3. **11:45–12:45:** Joe lesson (booked, 60 min) — updated 2026-07-15
+4. **Afternoon:** French class
 4. **Evening:** Sprint Retrospective — see § 10. Keep it to 30–45 min if tired.
 
 *(Listening D2 dropped entirely this week — Sunday mock's S4 + transcript analysis
@@ -566,6 +574,8 @@ Check each that applies:
 - [ ] Same S4 error type appeared twice → keep S4 as secondary target in Sprint-002
 - [ ] Grammar error appeared 3+ times → add targeted drill to Sprint-002
 - [ ] Joe flagged Part 2 stamina → add to Sprint-002 speaking target
+- [x] **Fixed deliverable (added 2026-07-15): Matt homework due Wed 7/29 lesson — 1× Task 1 + 1× Task 2（廣告題，positive/negative development，題目在 Matt 文件最上方）。與 Joe 的題目不同，必須各寫各的 → Sprint-002 Week 1 要排進這兩篇**
+- [x] **Booked lessons for Sprint-002 window (added 2026-07-15): Joe Thu 7/23 21:45 · Joe Sat 7/25 11:45 · Matt Wed 7/29 21:15（Matt 改為隔週三；下一次 8/12）**
 
 ---
 

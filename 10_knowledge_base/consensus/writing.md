@@ -121,10 +121,11 @@
 | Field | Value |
 |---|---|
 | Principle | Complete the essay under time pressure; do not sacrifice completion for perfection |
-| Agreement | ✅ Simon + Matt |
-| Matt | Repeated: "Finished > Perfect"; Connie identified as over-editing during drafting |
+| Agreement | ✅ Simon + Matt + Joe (Joe added 2026-07-15 via overthinking mechanism) |
+| Matt | Repeated: "Finished > Perfect"; Connie identified as over-editing during drafting. **Mechanism specified 2026-07-15**: write quickly without re-reading from the start, leave 5 minutes at the end for a grammar pass; "write how you would speak — thinking too much makes it worse" (her spoken grammar is mostly correct, so drafting like speech is safe for her specifically) |
 | Simon | Core Belief: automatic performance under exam conditions is the goal |
-| Sprint implication | Every timed writing practice must finish within the time limit — partial essays are not valid |
+| Joe | Same overthinking diagnosis from the speaking side (hesitation is the bottleneck, not language); writing lesson 7/09: don't chase perfect examples — general ones are fine |
+| Sprint implication | Every timed writing practice must finish within the time limit — partial essays are not valid. Timed drills should enforce: no mid-draft re-reading, 5-minute end check reserved for G007/articles/spelling |
 
 ---
 

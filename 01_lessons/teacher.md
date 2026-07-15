@@ -122,6 +122,23 @@
 **進階版（老師提到但尚未教）：**
 - 當你的立場不是完全站某一邊，而是「介於兩者之間」時，有另一種寫法。老師說這次先不講，之後再教。
 
+### 討論文補充：段落配對與 Body 段示範（Matt，寫作課批改，2026-07-15）
+來源：useful-subjects 作業的書面批改（`01_lessons/writing/writing-lesson_2026-07-15.md`）
+- **兩個 body 段要用 `On the one hand` / `On the other hand` 配對開頭**——Matt 直接在 Body 1 開頭補上 On the one hand（原本只在 Body 2 用 however）。
+- **Body 段可用 `There are two main reasons why...` 開段**，再用 Firstly / Secondly 展開兩個理由；兩個理由最好分屬不同層級（個人層面 + 社會層面）。
+- **例子用具體名詞**：Matt 示範段用 `Degrees like art, history, music and drama` 補上具體例子——概括論述（"a student"、"students"）整段到底不夠。
+- **切題檢查到名詞層級**：題目問 university students，寫 `in school time` 就是情境沒對準——改寫題目時連場景名詞都要對準題目。
+
+### 逐字稿補充原則（Matt，寫作課，2026-07-15）
+來源：`01_lessons/writing/writing-lesson_2026-07-15.md`（逐字稿補充區）
+- **Intro 要把兩個觀點都寫出來**：introduction 是「把題目介紹給沒看過題目的讀者」——不能假設讀者知道題目，Discussion intro 的 paraphrase 兩邊觀點都要出現。
+- **寫快 + 留 5 分鐘檢查**：30–35 分鐘不回頭寫完，最後 5 分鐘專掃文法。不要 write-delete-write-delete、不要每寫一句就從頭重讀。
+- **用說話的方式寫、想少一點**：「你的口說文法大多是對的，照你說話的方式寫就沒問題——thinking too much makes it worse。」（與 Joe 的 overthinking 診斷同方向，跨教練共識）
+- **一個段落可以放兩個 idea**：`There are two main reasons why...` 開段 + Firstly / Secondly，不必一段一 idea 硬拆兩段。
+- **positive or negative development 題型**：不要用 agree/disagree 字眼（nothing to agree with），直接說 positive / negative；讀題時把題目簡化成兩個問題（why do they do it? / is it good or bad?）。
+- **主謂一致代換檢查法**：把主詞換成代名詞再配動詞——`a phone` = it → helps；`products` = they → help。
+- **knowledge 不可數補充**：肯定用 `a lot of knowledge`，否定用 `not much knowledge`。
+
 ### Task 2 "to what extent agree/disagree" 補充（2026-06-26）
 - 題目有 "because + 前提" 時，**必須直接回應那個前提**，不只是說自己的理由
 - 承認對方前提的部分合理性，再說為什麼你的理由更重要（讓步 + 反駁）

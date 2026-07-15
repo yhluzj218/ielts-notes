@@ -39,6 +39,14 @@ Matt's primary frame is task response and method accuracy before language. He co
 | Task 2 — structure | Introduction (paraphrase + position) → Body 1 → Body 2 → Conclusion |
 | Task 2 — body paragraphs | Both body paragraphs must be equally developed |
 | Task 2 — discussion essays | Even the weaker side must be argued properly — not dismissed |
+| Task 2 — discussion pairing | Open the two body paragraphs with `On the one hand` / `On the other hand` (added 2026-07-15) |
+| Task 2 — body framing | `There are two main reasons why...` + Firstly/Secondly; pick reasons at different levels (individual + society) and give concrete named examples (added 2026-07-15) |
+| Task 2 — paraphrase accuracy | Paraphrase must match the question's scene nouns — `university students` ≠ `in school time`; the whole body paragraph's register must stay in the question's scene too (added 2026-07-15) |
+| Task 2 — introduction | Present BOTH views in a discussion intro — write for a reader who hasn't seen the question (added 2026-07-15) |
+| Task 2 — question types | `positive or negative development` ≠ agree/disagree — never use agree/disagree wording; simplify every question into its 2 component questions before planning (added 2026-07-15) |
+| Drafting speed | Write quickly without re-reading from the start; leave 5 minutes at the end for a grammar check pass — no write-delete-write loops (added 2026-07-15) |
+| Write like you speak | Connie-specific: her spoken grammar is mostly correct, so writing how she speaks + thinking less beats careful sentence-by-sentence construction (added 2026-07-15) |
+| Body paragraphs — idea count | Two ideas in one paragraph is fine: `There are two main reasons why...` + Firstly/Secondly (added 2026-07-15) |
 | Connector usage | Study by function, not by memorisation; common errors: while/whereas, although/however |
 
 ---

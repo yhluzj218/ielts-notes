@@ -15,7 +15,9 @@
 - staff 是不可數；要數人時用 staff member
 - feedback 不可數：`a short feedback` → `some feedback` 或 `a piece of feedback`
 - heritage 不可數：`historical heritages` → `historical heritage`（永遠不加 s，2026-06-26）
-- 檢查：information / staff / feedback / advice / equipment / heritage 等不可數名詞，別加 s
+- knowledge 不可數：`many other knowledge` → `a lot of other knowledge`；`fundamental knowledge are` → `fundamental knowledge is`（Matt 批改 2026-07-15）
+- effort 抽象義不可數：`The more efforts you spend` → `The more effort you spend`（Matt 批改 2026-07-15）
+- 檢查：information / staff / feedback / advice / equipment / heritage / knowledge / effort 等不可數名詞，別加 s
 
 ### 3. 介系詞搭配
 - listening that story → listening TO a story
@@ -42,6 +44,9 @@
 - `what ancient had said` → `what ancient people had said`（ancient 是形容詞，後面要接名詞，2026-06-26）
 - `having varies of languages` → `having a variety of languages`（varies 是動詞，名詞是 variety，2026-06-26）
 - `languages are diminishing` 想表達「消失」→ `vanishing` 或 `becoming obsolete`（diminishing = 逐漸減少變小，不是消失；詞義選錯，2026-06-26）
+- `a competitive advantageous` → `a competitive advantage`（advantageous 是形容詞，名詞是 advantage，Matt 批改 2026-07-15）
+- `under her/his willing` → `under her/his will`（willing 是形容詞，名詞是 will，Matt 批改 2026-07-15）
+- `The eager and passion does` → `how eager and passionate they are`（eager 是形容詞不能當名詞；用 how + adj 結構最安全，Matt 批改 2026-07-15）
 
 ### 5. 單複數 / 主謂一致
 - a refunds / app refunds → our refund
@@ -62,6 +67,12 @@
 - `end up go for work` → `end up working`（end up + V-ing）
 - `we been separated` → `we were separated`（過去被動：was/were + pp）
 - `I have participated` + last weekend → `I participated`（明確過去時間 → 過去式）
+- `letting pupils to learn` → `letting pupils learn`（let + 受詞 + 原形動詞，不加 to，Matt 批改 2026-07-15）
+- `worth of studing` → `worthy of studying`（worthy of + V-ing；或 worth + V-ing，Matt 批改 2026-07-15）
+
+### 8. 冠詞（2026-07-15 新增，先觀察）
+- 遺漏 a：`essential to latter study path` → `essential to a latter study path`；`have strong capability` → `have a strong capability`（Matt 批改 2026-07-15，第一次被標記，再犯才入 DB）
+- a/an 選錯：見 `09_coach/errors/grammar_db.md` G015（已 Low confidence）
 
 ## ✍️ 寫作 Task 1（信件）專屬檢查
 - [ ] 每個 bullet point 各開一段了嗎？

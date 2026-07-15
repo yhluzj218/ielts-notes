@@ -1,7 +1,7 @@
 # IELTS Coach Dashboard
 
 > **Single entry point. Read this first, every time.**
-> Last generated: 2026-07-13 evening (Mon essay done Band 6, weaker-side drill achieved; G007 escalated to Top-3 #1 after ×8 in one essay; 6/26 lesson transcript backfilled; model essay + 2 education ideas + 8 KB items added)
+> Last generated: 2026-07-15 (Matt Wed lesson done — written corrections + full transcript logged; corrections confirm 7/13 AI grading; new principles: intro both views, write-fast + 5-min check, "write like you speak", 2 ideas/paragraph; overthinking consensus now 3 coaches; Matt homework Task 1 + Task 2 assigned, unscheduled)
 > Source files: `connie_profile.md` · `performance/*.md` · `errors/*.md` · `sprints/sprint-001.md`
 
 ---
@@ -75,10 +75,10 @@ rescheduled — Sun 7/19 is the sprint's only mock and is non-negotiable.**
 |---|---|---|
 | **Mon 7/13** | Essay for Matt's Wed lesson (90 min, D2 weaker-side focus) | ✅ Band 6 (TR 6.5/CC 6.5/LR 6/GRA 5.5) — weaker-side goal achieved; G007 ×8 |
 | **Tue 7/14** | Dinner night — rest; catch-up slot only if Mon's essay unfinished (from ~21:30, ≤45 min) | ⬜ |
-| **Wed 7/15** | **Matt writing lesson 21:15** (bring Mon's essay + 2–3 questions) | ⬜ |
-| **Thu 7/16** | **English writing class 21:30–22:30** — no other practice | ⬜ |
+| **Wed 7/15** | **Matt writing lesson 21:15** (bring Mon's essay + 2–3 questions) | ✅ Done — corrections logged: `01_lessons/writing/writing-lesson_2026-07-15.md` |
+| **Thu 7/16** | **Joe lesson 21:45–22:30**（確認是 Joe，非另一堂 writing class）— no other practice | ⬜ |
 | **Fri 7/17** | Joe due essay #1: Task 2, fully timed D3 (90 min, around 20:30–21:30 exercise) | ⬜ |
-| **Sat 7/18** | Joe due essay #2: Task 1 letter (am) · submit both to Joe · French class (pm) · **Sprint Retrospective** (eve) | ⬜ |
+| **Sat 7/18** | Joe due essay #2: Task 1 letter (early am) · submit both before **Joe lesson 11:45–12:45** · French class (pm) · **Sprint Retrospective** (eve) | ⬜ |
 | **Sun 7/19** | **Full Mock (only one this sprint)** + error analysis | ⬜ |
 
 ---
@@ -94,24 +94,28 @@ rescheduled — Sun 7/19 is the sprint's only mock and is non-negotiable.**
 | Already distilled into | `writing_patterns.md` §5 · `10_knowledge_base/coaches/joe/distilled.md` · `10_knowledge_base/consensus/writing.md` |
 | New error observed (1st occurrence, not yet DB) | `get use of` → should be `get used to` |
 
-### This Week's Lessons (Week 2, rescheduled 2026-07-12)
+### Booked Lesson Schedule (confirmed 2026-07-15 from booking system)
 
-| Date | Lesson | What to bring |
-|---|---|---|
-| Wed 2026-07-15, 21:15 | Matt writing lesson (confirmed) | Mon 7/13's essay + 2–3 prepared questions |
-| Thu 2026-07-16, 21:30–22:30 | English writing class | — (log corrections after) |
+| Date | Teacher | Time | Notes |
+|---|---|---|---|
+| Thu 7/16 | Joe | 21:45–22:30 (45 min) | ✅ 確認是 Joe 的課（取代先前記的「English writing class 21:30–22:30」）|
+| Sat 7/18 | Joe | 11:45–12:45 (60 min) | 兩篇 Joe essays 要在課前提交 |
+| Thu 7/23 | Joe | 21:45–22:30 (45 min) | Sprint-002 window |
+| Sat 7/25 | Joe | 11:45–12:45 (60 min) | Sprint-002 window |
+| **Wed 7/29** | **Matt** | 21:15–22:00 (45 min) | **Matt homework due: 1× Task 1 + 1× Task 2（廣告題）— 與 Joe 題目不同，各寫各的** |
+| Wed 8/12 | Matt | 21:15–22:00 (45 min) | Matt = 隔週三固定 |
 
-⚠️ Thursday is a **writing** class this week, not Joe speaking — the "Thursday =
-Joe Speaking Lesson" default does not apply to 7/16.
-
-### Matt Lesson — Wed 2026-07-15, 21:15
+### Matt Lesson — Wed 2026-07-15, 21:15 — ✅ Completed
 
 | | |
 |---|---|
-| Essay to bring | ✅ Written & graded: `02_writing/task2/drafts/useful-subjects_2026-07-13.md`（feedback 檔末有 3 個現成問題可帶去問）|
-| Tell Matt | "I practised question type identification and body paragraph development for 2 weeks." |
-| Questions to prepare | 2–3 specific ones during the pre-lesson 15 min (see sprint §5 Wed 7/15) |
-| Matt's key rule | Task Response first. Skeleton before writing. Finished > Perfect. |
+| What happened | Matt corrected the useful-subjects essay line by line. Corrections match the 7/13 AI grading almost item-for-item. Full log: `01_lessons/writing/writing-lesson_2026-07-15.md` |
+| New teaching | `On the one hand / On the other hand` pairing for discussion bodies · Body-2 model: `There are two main reasons why...` + individual/society levels + concrete degree examples · paraphrase must match the question's scene nouns (`university` ≠ `school`) |
+| New teaching (transcript) | Intro must present BOTH views · write quickly + 5-min end grammar pass (no write-delete loops) · **"write how you would speak — thinking too much makes it worse"** · two ideas per paragraph OK · positive/negative-development ≠ agree/disagree wording · G007 pronoun-substitution check (`a phone`=it, `products`=they) |
+| Matt's verdict | Structure, paragraph order, clarity, TR all praised with minimal pre-coaching — remaining issues are "little grammar and little vocabulary mistakes" (independently confirms GRA is the bottleneck) |
+| **Homework assigned** | 1× Task 1 + 1× Task 2 before **Matt's next lesson Wed 7/29** (questions at the top of Matt's document). Next Task 2 = advertising "claims products are new" — positive/negative development type. Confirmed 2026-07-15: different questions from Joe's essays — must be written separately. Falls in Sprint-002 Week 1 → logged in sprint-001 §10 Next Sprint Inputs |
+| First occurrences (watch) | Missing indefinite article ×2 · `it`→`they` pronoun-antecedent agreement · `interactive make`→`frequently/normally make` (spoken) |
+| Still missing | No criterion bands given — ask Matt for a band breakdown next lesson (Data Gap stays open) |
 
 ---
 
@@ -131,7 +135,7 @@ Joe Speaking Lesson" default does not apply to 7/16.
 
 | Skill | Next action | When |
 |---|---|---|
-| **Writing** | ✅ Mon essay done (Band 6). Next: pre-lesson 15 min Wed — re-read essay + feedback, prepare 2–3 questions (3 ready-made ones in the feedback file). Joe's essays: Fri Task 2 · Sat am Task 1 letter | Wed 7/15 21:00 |
+| **Writing** | ✅ Mon essay done (Band 6) · ✅ Matt Wed lesson done (corrections logged). Next: Joe due essay #1 — Task 2, fully timed D3. Before writing: re-read Matt's Body-2 model paragraph + do the post-writing G007/spelling scan pass | Fri 7/17 |
 | **Listening** | ⚠️ Week 1 listening = 0 sessions (D1 skipped twice, mock skipped). Listening D2 dropped — Sat morning is now Joe's Task 1 letter. Sun 7/19 mock S4 + transcript analysis is this sprint's only listening evidence | Sun 7/19 |
 | **Speaking** | Part 2 / Part 3 out loud during commute (unchanged) | Mon–Wed commute |
 | **Reading** | No action — maintain only. Sunday mock reading section. | Sun 7/19 |
@@ -219,6 +223,10 @@ Reusable essay structures, templates, and frameworks. Read before every writing 
 - Discussion essays: argue the weaker side properly, not dismissively
 - Task 1 letters: each bullet point = its own paragraph
 - Word-form control, not word quantity, is the vocabulary work: learn POS + other forms with every new word ("learn one word = learn three words", 6/26)
+- Discussion intro presents BOTH views; bodies open with On the one hand / On the other hand (7/15)
+- Write quickly, no mid-draft re-reading; reserve 5 min at the end for a grammar pass (7/15)
+- "Write how you would speak — thinking too much makes it worse" (Connie-specific, 7/15)
+- Two ideas per paragraph is fine: `There are two main reasons why...` + Firstly/Secondly (7/15)
 
 ### Joe — Speaking
 
@@ -259,7 +267,7 @@ Reusable essay structures, templates, and frameworks. Read before every writing 
 | Reading | No formal timed test sessions logged | Sunday mock reading section — log results |
 | Speaking per-criterion bands | No formal criterion scores | Request formal band breakdown from Joe |
 | Listening question-type breakdown | Section scores only; type breakdown not logged | Log question types in next Cambridge test |
-| Writing criterion scores | Estimates only — no confirmed teacher bands | Confirm with Matt on ~7/15 |
+| Writing criterion scores | Estimates only — Matt's 7/15 written corrections had no bands | Ask Matt for a criterion band breakdown next lesson |
 
 ---
 

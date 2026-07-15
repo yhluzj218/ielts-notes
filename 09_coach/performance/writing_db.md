@@ -10,11 +10,11 @@
 
 | Field | Value |
 |---|---|
-| Current estimate | Band 5.0–5.5 (Joe's 2026-07-11 official score of 6/6.5 is the highest recorded so far — one data point, watch for confirmation before revising baseline) |
+| Current estimate | Band 6.0–6.5 (Joe official ×2 consecutive: 6/6.5 on 7/11, 6.5 on 7/16 — baseline revised from 5.0–5.5; self/AI grading runs ~0.5 lower. Joe 7/16: structure is at 7, the only gap is mistake count) |
 | Target | Band 7.0 |
-| Gap | −1.5 to −2.0 |
-| Sessions logged | 9 |
-| Last updated | 2026-07-11 |
+| Gap | −0.5 to −1.0 |
+| Sessions logged | 10 |
+| Last updated | 2026-07-16 |
 
 ---
 
@@ -46,6 +46,7 @@ Band scale: 1–9. Use 0 if not assessed.
 | 2026-07-11 | T2 | Large vs small company (Agree/Disagree) — same essay, Joe's official assessment | 6 | 6 | 6 | 6 | 7 | Joe | `02_writing/task2/feedback/company-size_2026-07-11.md` |
 | 2026-07-11 | T2 | Celebrity privacy / paparazzi (Discuss Both Views) | 6 | 6 | 6 | 7 | 5 | self | `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md` |
 | 2026-07-13 | T2 | Useful subjects vs study what you like (Discuss Both Views) | 6 | 6.5 | 6.5 | 6 | 5.5 | AI coach | `02_writing/task2/feedback/useful-subjects_2026-07-13.md` |
+| 2026-07-16 | T2 | Celebrity privacy / paparazzi — same essay as 7/11, Joe's official video feedback | 6.5 | 7 | 7 | 6 | 6 | Joe | `02_writing/task2/feedback/celebrity-privacy_2026-07-16.md` |
 
 *Note: Band estimates above are approximations based on teacher feedback patterns. Update with confirmed scores when available.*
 
@@ -55,10 +56,10 @@ Band scale: 1–9. Use 0 if not assessed.
 
 | Criterion | Average | Trend | Priority |
 |---|---|---|---|
-| TR | ~5.3 | Improving slowly | 🔴 Critical |
-| CC | ~5.8 | Improving (Body 2 development chain now consistently strong) | 🔴 High |
-| LR | ~6.9 | Stable — STRENGTH | ✅ No action |
-| GRA | ~5.6 | Recurring a/an article errors confirmed 2nd occurrence (G015) | 🔴 High |
+| TR | ~5.6 | Improving — Joe official 7 on 7/16 ("structure is good for seven") | 🟡 Watch |
+| CC | ~6.0 | Improving (Body 2 chain praised by Joe 7/16: "good point, explanation, example") | 🟡 Watch |
+| LR | ~6.7 | Joe scored 6 twice in a row (7/11, 7/16) — cause is spelling + word-form mistakes + "I" in intro, NOT vocabulary quantity | 🟡 Watch |
+| GRA | ~5.6 | Bottleneck. Joe 7/16: "for 7 you just need fewer mistakes" | 🔴 High |
 
 ---
 
@@ -73,6 +74,7 @@ Band scale: 1–9. Use 0 if not assessed.
 | Due to + clause | High | High | Active | `errors/grammar_db.md` G011 |
 | Task 1: bullets not in separate paragraphs | Medium | High | Improving | `01_lessons/teacher.md` |
 | Writing too slowly (2× exam time) | High | Medium | Active | `09_coach/connie_profile.md` §5.7 |
+| First-person "I" in the introduction (should be third-person opinion) | Medium | Low | Active — 2nd Joe flag (7/11 company-size, 7/16 celebrity-privacy) | `02_writing/task2/feedback/celebrity-privacy_2026-07-16.md` |
 
 ---
 
@@ -82,6 +84,7 @@ Band scale: 1–9. Use 0 if not assessed.
 |---|---|---|
 | 2026-06-23 | Structure overall "much better than last time" | Matt's feedback: `01_lessons/writing/writing-lesson_2026-06-23.md` |
 | 2026-06-23 | Past tense noticeably improved | Matt: "明顯比上次好" |
+| 2026-07-16 | Structure confirmed at Band 7 level by Joe ("good for seven in terms of structure... you understand the structure, which is really important"); intro "more natural" than company-size; Body 2 Point→Explanation→Example praised | `02_writing/task2/feedback/celebrity-privacy_2026-07-16.md` |
 
 ---
 

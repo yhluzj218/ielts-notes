@@ -192,3 +192,33 @@ Source: `01_lessons/writing/writing-lesson_2026-07-02.md`. These are lesson-sour
 | Don't open with a pure paraphrase of the question | Common technique taught in China — caps score around Band 7 even done perfectly, because it shows minimal written communication ability, not enough for Band 8+. |
 | Alternative: narrative "then vs now" opening | Contrast historical/past practice with the present, e.g. `"A hundred years ago, if you wanted to buy something, you would need to go to a local shop... Nowadays, the way we purchase things has changed dramatically."` Added to `10_knowledge_base/writing/writing_patterns.md` §5 as a new Introduction option. |
 | Skeleton confirmed | Intro (topic → opinion → reasons) → Body 1 (Reason 1: main idea, explain, example) → Body 2 (Reason 2, same structure) → Conclusion (summarise). Matches Matt's Point→Explain→Example→Result chain exactly — three-coach consensus now confirmed in `10_knowledge_base/consensus/writing.md`. |
+
+---
+
+## Writing — From Official Feedback Videos
+
+### Celebrity-privacy essay feedback (2026-07-16 — see `02_writing/task2/feedback/celebrity-privacy_2026-07-16.md`)
+
+Scores: TA 7 · CC 7 · LR 6 · GRA 6 → **6.5** (second consecutive official Joe score ≥6).
+
+| Principle | Detail |
+|---|---|
+| Structure is no longer the gap | "Good for seven in terms of structure... you understand the structure, which is really important. Key thing now is just to do some practice and get some feedback to reduce the number of mistakes and then you'll get seven." — mistake count (spelling + small grammar/word errors) is the only thing between Connie and Band 7. |
+| Discuss Both Views intro: preview BOTH sides explicitly | "Write what both sides of your opinion are — agree and disagree — a bit more clearly." Opinion alone being clear is not enough; the intro should signal both views. Converges with Matt's 7/15 "intro must present both views" → two-coach agreement, candidate for `consensus/writing.md`. |
+| Explain more BEFORE the example | Body paragraph order matters: fill out the Explain step fully, then give the example. Joe's model for Body 1: "Often fans only see one very small part of their celebrity's personality, but [social] media can give them a much better idea of what their lives are actually like... they can see they are human, just like the rest of us" — then Michael Jackson. |
+| No "I" in the introduction | "Written in academic style, mostly apart from you wrote I in the introduction" — cost LR points. 2nd occurrence of Joe's third-person rule (7/11: "Write your opinion in the third person"). Logged as Recurring Weakness (Low confidence) in `writing_db.md`. |
+| "Then vs now" intro — concrete model given | Reinforces the 7/2 narrative-opening principle with a full worked example: "100 years ago, most celebrities were only known to the public through newspapers. But today, their faces are everywhere... This has completely changed the dynamic between individuals and celebrities." |
+| Example factual accuracy doesn't matter | Joe personally doubted the MJ/Diana framing but: "the examiner won't think about that anyway, so it doesn't matter." Don't spend exam time worrying whether an example is historically precise. |
+| Spelling counts under LR in Joe's marking | Joe attributed the LR 6 to "spelling mistakes and some small mistakes" — both official LR 6 scores (7/11, 7/16) trace to spelling/word-form accuracy, not vocabulary range. Keeps 核心規則 #4 intact. |
+
+### Company-size essay feedback video (2026-07-16 — see `02_writing/task2/feedback/company-size_2026-07-11.md` video section)
+
+Same official assessment as the 7/11 sheet (6/6.5) — no new scores. The video adds the rationale and an explicit cross-essay comparison with celebrity-privacy.
+
+| Principle | Detail |
+|---|---|
+| Reasons for the opinion belong IN the introduction | "I couldn't give you seven for that one because you haven't written your reasons for your opinion in the introduction. Examiners really like it when your essay is consistent from beginning to middle to end." — this is the named mechanism behind the TA "overall progression" 6. The intro previews opinion + reasons; the bodies then deliver exactly those reasons. |
+| No "list of ideas" | "Any idea you give in your writing, explain it in detail and then give an example" — never stack a second idea onto an unexplained first one (named example: the `more opportunities... higher budgets` sentence). Same rule as Matt's Point→Explain→Example chain, stated as an anti-pattern. |
+| Structure outweighs mistake count | Celebrity-privacy had MORE mistakes than company-size yet scored higher (6.5 vs 6/6.5) "because the structure is much better." Direct teacher evidence for Simon's "75% = Ideas, not grammar" weighting. |
+| Fixes already confirmed as learned | Third-person opinion + idea development were both applied correctly in celebrity-privacy — "You did that in the essay I just marked. Just keep doing that." |
+| Band 7 forecast | "Maybe not the next one, but the one afterwards, I think will probably be seven" — conditional only on reducing simple mistakes. |

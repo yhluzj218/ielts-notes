@@ -98,3 +98,33 @@ Despite the potential benefits of working in a small company, it is obvious that
 | GRA | 5 | 7 |
 
 判斷方向大致一致（TR/CC 是弱項，GRA 有進步空間），但 Joe 給的整體分數比我自評高，且 GRA 給到 7 分（我自評只給 5）——你的筆記沒提到 Joe 對 GRA 的具體評分依據，只能看到細項「Have the verb tenses and subject verb agreement been checked? 6」，跟總表「Grammatical Range and Accuracy 7」之間有落差，這點你的筆記沒提到原因，我不猜測。LR 則是唯一 Joe 給得比我自評低的項目（6 vs 7），對照你「不缺詞彙」的原則，這點可以下次上課直接問 Joe 具體是哪裡不夠。
+
+---
+
+## Joe Feedback Video（2026-07-16 收到，同一次官方批改的口頭補充）
+
+Joe 在批完 celebrity-privacy（6.5）之後錄了這支影片回頭講這篇。**沒有新評分**——分數維持上方 Assessment Sheet 的 6/6.5——但補充了扣分的理由，並全程拿兩篇做對比。
+
+### 這篇為什麼拿不到 7（補充上方 Part A 細項的理由）
+
+- **「Overall progression」只給 6 的原因講明了**：「I couldn't give you seven for that one because you haven't written your reasons for your opinion in the introduction. Examiners really like it when your essay is consistent from beginning to middle to end.」→ Intro 沒有預告 opinion 的 reasons，導致全文一致性斷掉。
+- **Body 段落是「a list of ideas」**：「You don't want to have a list of ideas like this. Any idea you give in your writing, explain it in detail and then give an example.」他點名的句子：`In addition, it is likely to offer more opportunities to explore new projects with higher budgets` ——這種 idea 丟出來就要接 explanation + example，不能再疊下一個 idea。
+- 第三人稱表態（`this essay argues` 取代 `I`）+ 把 reasons 寫清楚——「You did that in the essay I just marked. So that's good. Just keep doing that.」（celebrity-privacy 已經改對了）
+
+### 兩篇對比（Joe 的原話重點）
+
+| | company-size (7/6) | celebrity-privacy (7/11) |
+|---|---|---|
+| 結構 | List of ideas、intro 缺 reasons | 「Much better」「right structure」 |
+| 錯誤數量 | 較少 | **較多**（"a few more mistakes than this one"） |
+| 總分 | 6/6.5 | **6.5** |
+
+> "There's a few more mistakes in your next one than this one, but you still get a high score **because the structure is much better**."
+
+→ **結構的權重高於錯誤數量**——這是兩篇分數差異的直接解釋，也印證 Simon 的「75% = Ideas」原則。
+
+### Joe 的預測
+
+> "The key thing now is just to remove some of those simple mistakes that you had from both essays and you'll improve on seven. Maybe not the next one, but the one afterwards, I think will probably be seven."
+
+→ 照現在的軌跡，再 1–2 篇內拿到 7 是 Joe 認為合理的預期，條件只有一個：減少 simple mistakes。

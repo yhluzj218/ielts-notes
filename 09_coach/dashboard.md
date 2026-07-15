@@ -1,7 +1,7 @@
 # IELTS Coach Dashboard
 
 > **Single entry point. Read this first, every time.**
-> Last generated: 2026-07-15 (Matt Wed lesson done — written corrections + full transcript logged; corrections confirm 7/13 AI grading; new principles: intro both views, write-fast + 5-min check, "write like you speak", 2 ideas/paragraph; overthinking consensus now 3 coaches; Matt homework Task 1 + Task 2 assigned, unscheduled)
+> Last generated: 2026-07-16 (Joe's two feedback videos logged — celebrity-privacy: NEW official 6.5 (TA 7/CC 7/LR 6/GRA 6) → Writing baseline revised to 6.0–6.5; company-size video: same 6/6.5, adds rationale — reasons-in-intro missing capped progression, "no list of ideas", structure outweighs mistake count; Joe forecast: Band 7 within ~2 essays if simple mistakes drop)
 > Source files: `connie_profile.md` · `performance/*.md` · `errors/*.md` · `sprints/sprint-001.md`
 
 ---
@@ -31,7 +31,7 @@ Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)
 | Skill | Estimate | Target | Gap | Priority |
 |---|---|---|---|---|
 | Listening | 6.0–6.5 | 8.0 | −1.5 to −2.0 | 🔴 Critical |
-| Writing | 5.0–5.5 | 7.0 | −1.5 to −2.0 | 🔴 Critical |
+| Writing | 6.0–6.5 | 7.0 | −0.5 to −1.0 | 🔴 High（gap 縮小但仍是 sprint 主目標；瓶頸=錯誤數量） |
 | Speaking | 6.0–6.5 | 7.0 | −0.5 to −1.0 | 🟡 Medium |
 | Reading | 7.0–8.0 | 7.0 | ✅ At/above target | ✅ Maintain |
 
@@ -135,7 +135,7 @@ rescheduled — Sun 7/19 is the sprint's only mock and is non-negotiable.**
 
 | Skill | Next action | When |
 |---|---|---|
-| **Writing** | ✅ Mon essay done (Band 6) · ✅ Matt Wed lesson done (corrections logged). Next: Joe due essay #1 — Task 2, fully timed D3. Before writing: re-read Matt's Body-2 model paragraph + do the post-writing G007/spelling scan pass | Fri 7/17 |
+| **Writing** | ✅ Mon essay done (Band 6) · ✅ Matt Wed lesson done · ✅ Joe official feedback logged (6.5). Next: Joe due essay #1 — Task 2, fully timed D3. Before writing: re-read Matt's Body-2 model paragraph + Joe's 3 flags (both views in intro · explain before example · no "I") + post-writing G007/spelling scan pass | Fri 7/17 |
 | **Listening** | ⚠️ Week 1 listening = 0 sessions (D1 skipped twice, mock skipped). Listening D2 dropped — Sat morning is now Joe's Task 1 letter. Sun 7/19 mock S4 + transcript analysis is this sprint's only listening evidence | Sun 7/19 |
 | **Speaking** | Part 2 / Part 3 out loud during commute (unchanged) | Mon–Wed commute |
 | **Reading** | No action — maintain only. Sunday mock reading section. | Sun 7/19 |
@@ -244,6 +244,8 @@ Reusable essay structures, templates, and frameworks. Read before every writing 
 - Firstly/secondly/thirdly overuse ≠ coherence — real connection comes from explaining/exampling each reason, one idea per paragraph
 - ⚠️ Template conflict — now leaning resolved: Joe personally taught an intro sentence nearly identical to this project's own template in his 1:1 lesson, suggesting his Band-2 warning targets generic social-media templates, not this project's connector-only skeleton. See `10_knowledge_base/conflicts.md` — still needs your final confirmation to close
 - 16-topic video anti-pattern series in progress — 2 of 16 detailed so far, tracked in `10_knowledge_base/coaches/joe/distilled.md`
+- **Official feedback 7/16 (celebrity-privacy, 6.5):** structure confirmed at Band 7 — "for 7 you just need fewer mistakes" · Discuss Both Views intro must preview BOTH sides (converges with Matt 7/15) · explain fully BEFORE the example · never write "I" in the intro (2nd flag — costs LR) · example factual accuracy doesn't matter to the examiner · Joe's LR 6 ×2 = spelling/word-form accuracy, not vocabulary range
+- **Feedback video 7/16 (company-size, same 6/6.5):** reasons for the opinion must appear IN the intro — missing them capped "overall progression" at 6 (beginning→middle→end consistency) · no "list of ideas" — each idea gets explain-in-detail + example before the next · **structure outweighs mistake count** (celebrity-privacy: more mistakes, higher score) · forecast: Band 7 "maybe not the next one, but the one afterwards"
 
 ---
 

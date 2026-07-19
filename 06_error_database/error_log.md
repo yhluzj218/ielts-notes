@@ -78,6 +78,10 @@
 - [ ] 每個 bullet point 各開一段了嗎？
 - [ ] 有正式結尾嗎？（Dear Sir/Madam → Yours faithfully + 全名）
 - [ ] 有沒有停在 150 字就草草收尾？（要多寫一點）
+- [ ] 依題目順序回答了嗎？（Q1→Q2→Q3，不把後面的題目提前——2026-07-16 課堂被糾正）
+- [ ] 同一題的內容有沒有被拆成兩段？（「為什麼寫信＋感受」同屬 Q1 = 同一段；換題才換段——2026-07-16 課堂被糾正）
+- [ ] 信件類型判對了嗎？（由「情境」決定：投訴信 = formal，即使對象是計程車公司這種一般公司——2026-07-16 判錯過一次）
+- [ ] Opening 有 greeting 行嗎？（`I hope this letter finds you well.`）Closing 有收尾句嗎？（`I hope to hear from you soon.`）
 
 ## ✍️ 寫作 Task 2 專屬檢查（最大失分點）
 - [ ] 我有「真正回答題目問的問題」嗎？（agree/disagree vs pos/neg）

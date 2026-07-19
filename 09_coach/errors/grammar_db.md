@@ -27,13 +27,14 @@
 
 ### G001 — Past time marker + present perfect
 - **Pattern:** Explicit past time marker forces simple past; present perfect is wrong
-- **Error → Correct:** `last week I have purchased` → `last week I purchased`
+- **Error → Correct:** `last week I have purchased` → `last week I purchased`; variant: `In a century ago, you may not have a chance` → `A century ago, you would not have had the chance`（過去標記 + 現在式情態）
 - **Skills:** both
 - **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 3+
+- **Count:** 4
+- **Last Seen:** 2026-07-19
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md` · `01_lessons/writing/writing-lesson_2026-06-19.md`
+- **Evidence:** `06_error_database/error_log.md` · `01_lessons/writing/writing-lesson_2026-06-19.md` · `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md`
 
 ### G002 — Past perfect conflict with past time marker
 - **Pattern:** `built / was built` with `ago` — both are past; don't mix perfect aspect
@@ -79,6 +80,17 @@
 - **Status:** Active
 - **Evidence:** `06_error_database/error_log.md`
 
+### G017 — `effort` (abstract sense) pluralised
+- **Pattern:** `effort` in the abstract sense (時間/力氣) is uncountable; plural `efforts` only for discrete attempts/initiatives
+- **Error → Correct:** `The more efforts you spend` → `The more effort you spend`; `needs extra efforts` → `needs extra effort`
+- **Skills:** writing
+- **Confidence:** Low
+- **First Seen:** 2026-07-15（Matt 批改）
+- **Count:** 2
+- **Last Seen:** 2026-07-19
+- **Status:** Active
+- **Evidence:** `06_error_database/error_log.md` · `01_lessons/writing/writing-lesson_2026-07-15.md` · `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md`
+
 ---
 
 ## Subject-Verb Agreement
@@ -99,10 +111,10 @@
 - **Skills:** writing
 - **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 7
-- **Last Seen:** 2026-07-13（單篇 8 處，含反向 `the concept itself are` — 歷來最密）
+- **Count:** 8
+- **Last Seen:** 2026-07-19（3 處：`people who hates`、`insects is`、`which make`）
 - **Status:** Active ⚠️ escalating
-- **Evidence:** `06_error_database/error_log.md` · `10_knowledge_base/error_corrections/2026-07-05_modern-tourism-cultural-values.md` · `10_knowledge_base/error_corrections/2026-07-05_film-studios-hollywood-formulas.md` · `02_writing/task2/feedback/company-size_2026-07-07.md` · `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md` · `02_writing/task2/feedback/useful-subjects_2026-07-13.md` · Matt 課堂逐句確認（同一篇，不加計數）`01_lessons/writing/writing-lesson_2026-07-15.md`
+- **Evidence:** `06_error_database/error_log.md` · `10_knowledge_base/error_corrections/2026-07-05_modern-tourism-cultural-values.md` · `10_knowledge_base/error_corrections/2026-07-05_film-studios-hollywood-formulas.md` · `02_writing/task2/feedback/company-size_2026-07-07.md` · `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md` · `02_writing/task2/feedback/useful-subjects_2026-07-13.md` · Matt 課堂逐句確認（同一篇，不加計數）`01_lessons/writing/writing-lesson_2026-07-15.md` · `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md`
 
 ### G008 — Third-person singular `-s` omitted in speech
 - **Pattern:** `she / he / it` requires auxiliary `has` / verb + `-s`
@@ -178,15 +190,16 @@
 - **Status:** Active
 - **Evidence:** `06_error_database/error_log.md`
 
-### G014 — Past passive missing auxiliary
-- **Pattern:** Past passive requires `was/were + past participle`
-- **Error → Correct:** `we been separated` → `we were separated`
+### G014 — Past passive formation
+- **Pattern:** Past passive requires `was/were + past participle`; active perfect used where passive is needed
+- **Error → Correct:** `we been separated` → `we were separated`; `After I had injured` → `After I was injured`; `I got burn` → `I got burnt/burned`
 - **Skills:** both
-- **Confidence:** Medium
+- **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 2
+- **Count:** 3
+- **Last Seen:** 2026-07-19
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md`
+- **Evidence:** `06_error_database/error_log.md` · `02_writing/task1/feedback/supermarket-accident_2026-07-19.md`
 
 ---
 
@@ -200,8 +213,19 @@
 - **First Seen:** 2026-07-07
 - **Count:** 2
 - **Last Seen:** 2026-07-11
-- **Status:** Active (2nd occurrence — 3 instances on 7/7, 4 more on 7/11, watch for a 3rd graded session before raising to Medium)
+- **Status:** Active (2nd occurrence — 3 instances on 7/7, 4 more on 7/11, watch for a 3rd graded session before raising to Medium; 7/19 essay had 0 a/an-sound errors)
 - **Evidence:** `02_writing/task2/feedback/company-size_2026-07-07.md` · `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md`
+
+### G016 — Article omission / article–noun number mismatch
+- **Pattern:** Missing `a/the` before singular countable noun phrases; `a` combined with plural or uncountable nouns
+- **Error → Correct:** `Hot environment creates` → `A hot environment creates`; `That is exact reason` → `That is the exact reason`; `a cold countries` → `cold countries`; `a sufficient sunlight` → `sufficient sunlight`; `for the first aid` → `for first aid`; `equivalent to single purchase` → `to a single purchase`
+- **Skills:** writing
+- **Confidence:** Medium
+- **First Seen:** 2026-07-15（Matt 批改首次標記）
+- **Count:** 3（7/15 課堂 ×2 → 7/19 T2 essay ×5-6 → 7/19 T1 letter ×3）
+- **Last Seen:** 2026-07-19
+- **Status:** Active
+- **Evidence:** `01_lessons/writing/writing-lesson_2026-07-15.md` · `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md` · `02_writing/task1/feedback/supermarket-accident_2026-07-19.md`
 
 ---
 

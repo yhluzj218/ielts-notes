@@ -1,5 +1,5 @@
 # Sprint-XXX Template
-<!-- Template version: v1.0 — see CHANGELOG.md for history -->
+<!-- Template version: v1.2 — see CHANGELOG.md for history -->
 
 > Duration: YYYY-MM-DD — YYYY-MM-DD
 > Assessment point: [Matt lesson / Joe lesson / Cambridge test / self-review]
@@ -43,6 +43,15 @@ Week 2 = D2 → D3
 - Never change the method mid-sprint
 - Finished > Perfect
 - [Skill-specific rules]
+
+**Fixed schedule constraints (apply to every sprint):**
+
+- **週五不排任何練習或死線** — 週五固定運動＋休息（Connie 指定，2026-07-18）。
+  週五晚不排 essay、聽力、lesson prep；老師死線落在週五的要提前到週四以前完成。
+- **italki 上課當天不排其他進度（週六除外）** — Connie 指定 2026-07-18。
+  平日有課（Matt 週三晚、Joe 週四晚）當天只上課＋課後 correction notes，不另排練習；
+  週六的 Joe 課（中午）例外，當天仍可排任務。排程前先對照 dashboard
+  「Booked Lesson Schedule」。
 
 ---
 

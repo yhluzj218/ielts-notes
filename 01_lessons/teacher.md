@@ -4,7 +4,7 @@
 
 ### Joe — 口說老師，**自 2026-07-02 起也教寫作**
 - 口說授課：6/01（初始評估課）、6/15、6/22
-- 寫作授課：7/02（第一堂，一對一課，逐字稿分軌錯誤把我拆成好幾個 speaker 編號）
+- 寫作授課：7/02（第一堂，一對一課，逐字稿分軌錯誤把我拆成好幾個 speaker 編號）、7/09、7/16（第一堂 Task 1 GT 信件課）
 - 教學重點（口說）：自然溝通、不背稿不看 IELTS 社媒、用題目本身架 Part 2 結構、don't overthink
 - 教學重點（寫作）：Task 2 目標是清楚溝通立場+理由（不是列想法）、不刻意硬塞詞彙、不背誦連接詞組合、linking words 不等於連貫、不要只用改寫題目當開頭
 - 也有公開影片課程（"Things That Lower Your Score"系列），逐字稿與知識整理在 `10_knowledge_base/coaches/joe/`
@@ -30,6 +30,9 @@
 ### 2026-06-26 下週作業
 1. **Task 1 改寫**：重寫 New Year letter，三個 bullet 各自一段，語氣要像真的寫給朋友（想像 Eric 這個真實的人）。
 2. **Discussion Essay 練習**：用老師教的討論文結構寫一篇 Task 2（主題自選，或繼續用語言消失那題）。逐字稿最後老師說「leave you to try it and see how you got」。
+
+### 2026-07-16 作業（Joe）
+1. **完成課堂上的 GT Task 1 投訴信**（向計程車公司要求退費那封），下堂課快速檢查。注意拼字。
 
 ---
 
@@ -208,6 +211,30 @@
 ### 課堂總評：英文本身沒問題，只需要練「想法排序」（Joe，寫作課，2026-07-09）
 - 老師原話（大意）：「Your writing is good in English. To get around a seven, this is the only thing you have to practice — just the sequence of ideas. If you fix that, you'll definitely get a seven.」
 - 再次確認核心規則「先修切題和結構，不要先談詞彙文法」——這堂課的證據直接支持這個判斷。
+
+### Task 1（GT 信件）的目標與扣分行為（Joe，寫作課，2026-07-16，第一堂 Task 1 課）
+- Task 1 目標 = **clear and precise description**，最重要的是 clear communication——考官不應該費力才能理解。GT 和 Academic 在這個目標上「same thing」。
+- 對分數不好的行為（Task 2 原則延伸到 Task 1）：
+  - 不要改寫 prompt、改時態讓文法看起來複雜。
+  - 不要為長而長：complex sentences 可以，但「必須有理由才複雜」；把簡單的事寫複雜會明顯扣分。
+  - 不要用複雜詞彙——會讓文章更難懂。
+
+### 信件類型由「情境」決定，不是收信組織（Joe，寫作課，2026-07-16）
+- 三種類型：formal / informal / neutral。
+- **隱性糾正**：我把給計程車公司的投訴信判成 neutral（以為 formal 只用於教育/政府機構）→ Joe：投訴信通常是 **formal**——「it's more of the situation that you're writing about, less about the organization」。
+
+### 信件三段式結構 Opening / Middle / Closing（Joe，寫作課，2026-07-16）
+- **Opening**：① Salutation（`Dear Sir or Madam,` 或 `To whom it may concern,`）② Greeting 第一行（`I hope this letter finds you well.`）
+- **Middle**：一題一段（Paragraph 1 = Question 1、P2 = Q2、P3 = Q3），**依題目順序回答**。
+  - **隱性糾正 ①**：我想把 Q3（要求退費）放第一段 → Joe：照順序，一題寫一段。
+  - **隱性糾正 ②**：我把 Q1 的答案（為什麼寫信＋感受）拆成兩段 → Joe：「That's the same paragraph.」同一題的內容不拆段；換到下一題時才換新段落。
+- **Closing**：`I hope to hear from you soon.` + `Yours faithfully,`（不認識對方）或 `Yours sincerely,`（認識對方）+ 名字。
+  - 與 Matt 2026-06-19 教的落款規則一致——跨教練共識。
+
+### 澄清：Joe 沒說過「段落要等長」（Joe，寫作課，2026-07-16）
+- 我問 Joe 是不是說過每段要平均分配 → Joe 明確否認：「The length of paragraphs doesn't matter.」
+- 他上堂課（Task 2）講的重點是：每段的 main idea 必須有 **explanation + example** 支撐——不是段落等長。
+- ⚠️ 我可能把 Matt 2026-06-26 的「每段份量大致相當」記成 Joe 說的。兩位老師說法有差異（Matt 談份量均衡、Joe 說長度不重要只看支撐），已記入 `10_knowledge_base/conflicts.md` 待我決定怎麼採用。
 
 ### 考場時間分配練習（Joe 推薦的資源，非 Joe 原創內容，2026-07-02）
 ⚠️ 這不是 Joe 自己講的內容，是 Joe 推薦給我的一份 IELTS 資源/範例，來源不是 Joe 本人。

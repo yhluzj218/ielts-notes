@@ -3,7 +3,7 @@
 > This file logs areas where coaches disagree.
 > Per ADR-007: Do NOT resolve conflicts silently. List both positions. Ask Connie to decide.
 > See `DECISIONS.md` for ADR-007.
-> Last updated: 2026-07-02
+> Last updated: 2026-07-18
 
 ---
 
@@ -44,6 +44,19 @@ Each conflict entry:
 | Decision needed | Simon's advice is for general IELTS students. Matt and Joe have directly assessed Connie and agreed she is an exception. **Default rule: apply Matt + Joe's Connie-specific assessment. Do not recommend vocabulary work unless Connie explicitly requests it.** |
 | Resolution | ✅ Resolved by personal teacher assessment — Matt + Joe override Simon for this learner |
 | 2026-07-02 update | Joe's own video course now includes a generic "vocabulary can improve your score" section (`10_knowledge_base/coaches/joe/originals/writing-vocabulary-intro_2026-07-02.md`). Same resolution applies: this is generic course content for all students, not a new Connie-specific assessment from Joe — it does not reopen this conflict. |
+
+---
+
+### Conflict: Paragraph balance — "roughly equal weight" vs "length doesn't matter"
+
+| Field | Value |
+|---|---|
+| Matt (2026-06-26) | "Aim for a clearer structure, where each paragraph is related to each bullet point, and each paragraph has roughly equal weight" — flagged uneven paragraph information density as Connie's most visible structural problem. |
+| Joe (2026-07-16) | "The length of paragraphs doesn't matter" — what matters is that each paragraph's main idea is supported with explanation + example. Explicitly denied ever asking for evenly distributed paragraphs (Connie had mis-attributed the "evenly" advice to him). |
+| Confidence | Low-Medium — likely complementary, not contradictory: Matt targets one-sentence vs overloaded paragraphs (information balance); Joe rejects equal length as a goal in itself. Both agree each paragraph needs full support (point → explanation → example). |
+| Discovered | 2026-07-16, `01_lessons/writing/writing-lesson_2026-07-16.md` |
+| Decision needed | Confirm the working rule: "don't chase equal length; do avoid extreme imbalance (a one-sentence paragraph next to an overloaded one), and make sure every paragraph is fully supported." Or ask Matt/Joe directly. |
+| Resolution | Pending — recommend adopting the combined working rule above |
 
 ---
 

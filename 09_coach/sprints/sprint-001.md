@@ -576,6 +576,8 @@ Check each that applies:
 - [ ] Joe flagged Part 2 stamina → add to Sprint-002 speaking target
 - [x] **Fixed deliverable (added 2026-07-15): Matt homework due Wed 7/29 lesson — 1× Task 1 + 1× Task 2（廣告題，positive/negative development，題目在 Matt 文件最上方）。與 Joe 的題目不同，必須各寫各的 → Sprint-002 Week 1 要排進這兩篇**
 - [x] **Booked lessons for Sprint-002 window (added 2026-07-15): Joe Thu 7/23 21:45 · Joe Sat 7/25 11:45 · Matt Wed 7/29 21:15（Matt 改為隔週三；下一次 8/12）**
+- [x] **Fixed schedule rule (added 2026-07-18, Connie 指定): 週五＝運動＋休息，Sprint-002 起週五不排任何練習或死線；落在週五的老師死線提前到週四以前。已寫入 sprints/TEMPLATE.md v1.1**
+- [x] **Fixed schedule rule (added 2026-07-18, Connie 指定): italki 上課當天不排其他進度（週六除外）— Matt 週三、Joe 週四當天只上課；週六 Joe 課當天可照常排任務。已寫入 sprints/TEMPLATE.md v1.2。→ Sprint-002 實際可排練習的晚上＝週一、週二（＋週六）**
 
 ---
 

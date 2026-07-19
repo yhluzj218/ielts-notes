@@ -160,6 +160,17 @@ coverage 的 Knowledge，以及使用者已看過的 Error Corrections。
 
 這個 workflow 不自動新增單字、Expression、Sentence Pattern、Idea 或 Podcast 素材。
 
+## Resource Intake（教材與學習工具收集，2026-07-16 新增）
+
+當我貼 URL 或圖片並說 `記錄這個資源`、`記錄這個工具`、`記錄這個教材` 或類似指令時：
+
+1. URL → 讀取網頁內容後整理；圖片 → 存到 `11_resources/images/`
+   （檔名 `YYYY-MM-DD_<short-slug>.<ext>`）後描述內容。
+2. 依 `11_resources/README.md` 的格式新增一筆到 `11_resources/resources.md` 最上面
+   （名稱、類型、連結、用途、摘要、記錄日期）。
+3. 新增前先檢查 `resources.md` 是否已有同一資源，有就更新該筆，不要重複。
+4. 這個 workflow 只寫 `11_resources/`，不自動進 Knowledge Base、Anki 或 Podcast。
+
 ## 「整理 anki」行為（Knowledge + Error Corrections → Anki）
 
 當我說 `整理 anki`、`整理 Anki` 或 `整理anki` 時，執行

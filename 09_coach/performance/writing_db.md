@@ -13,8 +13,8 @@
 | Current estimate | Band 6.0–6.5 (Joe official ×2 consecutive: 6/6.5 on 7/11, 6.5 on 7/16 — baseline revised from 5.0–5.5; self/AI grading runs ~0.5 lower. Joe 7/16: structure is at 7, the only gap is mistake count) |
 | Target | Band 7.0 |
 | Gap | −0.5 to −1.0 |
-| Sessions logged | 10 |
-| Last updated | 2026-07-16 |
+| Sessions logged | 12 |
+| Last updated | 2026-07-19 |
 
 ---
 
@@ -47,6 +47,8 @@ Band scale: 1–9. Use 0 if not assessed.
 | 2026-07-11 | T2 | Celebrity privacy / paparazzi (Discuss Both Views) | 6 | 6 | 6 | 7 | 5 | self | `02_writing/task2/feedback/celebrity-privacy_2026-07-11.md` |
 | 2026-07-13 | T2 | Useful subjects vs study what you like (Discuss Both Views) | 6 | 6.5 | 6.5 | 6 | 5.5 | AI coach | `02_writing/task2/feedback/useful-subjects_2026-07-13.md` |
 | 2026-07-16 | T2 | Celebrity privacy / paparazzi — same essay as 7/11, Joe's official video feedback | 6.5 | 7 | 7 | 6 | 6 | Joe | `02_writing/task2/feedback/celebrity-privacy_2026-07-16.md` |
+| 2026-07-19 | T2 | Hot vs cold climates (Discuss Both Views) — all 5 Joe structure fixes applied; gap = mistake density | 6.5 | 7 | 7 | 6 | 6 | AI coach | `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md` |
+| 2026-07-19 | T1 | Supermarket accident complaint letter (Joe 7/16 homework) — structure checklist 100%; submitted version self-corrected 4 spellings, 6 stored-wrong spellings remain | 6.5 | 7 | 7 | 6 | 6 | AI coach | `02_writing/task1/feedback/supermarket-accident_2026-07-19.md` |
 
 *Note: Band estimates above are approximations based on teacher feedback patterns. Update with confirmed scores when available.*
 

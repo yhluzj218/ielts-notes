@@ -1,5 +1,20 @@
 # Sprint Template Changelog
 
+## TEMPLATE.md v1.2 — 2026-07-18
+
+Second fixed schedule constraint (same day as v1.1, Connie's standing request):
+**no other practice scheduled on italki lesson days, except Saturday.** Weekday
+lessons (Matt Wed evening, Joe Thu evening) = lesson + correction notes only;
+Saturday midday Joe lessons may still have tasks scheduled the same day. Check
+dashboard "Booked Lesson Schedule" before planning.
+
+## TEMPLATE.md v1.1 — 2026-07-18
+
+New fixed schedule constraint (applies to every sprint from Sprint-002 onwards):
+**Friday = exercise + rest, no scheduled practice or deadlines.** Connie's standing
+request 2026-07-18. Teacher deadlines that fall on a Friday must be moved earlier
+(Thursday or before). Added under Sprint Rules as a permanent constraint block.
+
 ## THEME_SPRINT_TEMPLATE.md v1.2 — 2026-07-04
 
 New guiding principle: **Theme Sprint builds a Mental Model, not a model-essay

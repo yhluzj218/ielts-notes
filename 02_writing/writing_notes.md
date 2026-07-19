@@ -47,6 +47,19 @@
 - 想像真實的朋友，加個人細節，讓信有溫度。
 - 不答題的背景資訊 = 浪費字數 + 增加出錯機會，直接扣 Task Achievement，不是中性的。
 
+### Task 1（GT）目標與信件結構（Joe，2026-07-16）
+- **目標 = clear and precise description**；最重要的是 clear communication，考官不應該費力才能理解（GT 與 Academic 相同）。
+- 扣分行為（與 Task 2 同一原則）：
+  - 不改寫 prompt / 改時態去堆文法。
+  - 句子要複雜必須有理由；把簡單的事寫複雜會明顯扣分。
+  - 不用複雜詞彙——會讓文章更難懂。
+- **信件類型（formal / informal / neutral）由情境決定**，不是看收信對象是什麼組織：投訴信通常 formal，即使對象是計程車公司。
+- **三段式結構：**
+  - Opening：`Dear Sir or Madam,`（或 `To whom it may concern,`）→ 下一行 greeting：`I hope this letter finds you well.`
+  - Middle：**一題一段、依題目順序**（P1=Q1、P2=Q2、P3=Q3）。同一題的內容不拆成兩段；換題才換段。投訴信範例：P1 = 為什麼寫信＋感受、P2 = 詳述發生什麼事、P3 = 要求對方做什麼（如退費）。
+  - Closing：`I hope to hear from you soon.` + `Yours faithfully,`（不認識對方）/ `Yours sincerely,`（認識對方）+ 名字。
+- 段落長度不重要（Joe 明確說 "The length of paragraphs doesn't matter"）；重要的是每段的 main idea 有 explanation + example 支撐。
+
 ## 段落展開原則（2026-06-19 第二堂）
 
 ### Body Paragraph 四步結構

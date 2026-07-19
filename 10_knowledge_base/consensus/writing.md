@@ -2,7 +2,7 @@
 
 > Cross-coach agreement on Writing principles.
 > Coaches included: Simon · Matt · Joe (writing, added 2026-07-02)
-> Last updated: 2026-07-02
+> Last updated: 2026-07-18
 > Status: Confirmed consensus — safe for Sprint Planner to use without qualification
 
 ---
@@ -137,6 +137,18 @@
 | Agreement | ✅ Simon (explicit) — Matt (implicit: consistent structure across all sessions) |
 | Simon | Sprint Design Rule #1 |
 | Sprint implication | Sprint-001 picks one Task 1 structure and one Task 2 structure — doesn't change |
+
+---
+
+### 8. Task 1 Letters: One Paragraph Per Bullet + Fixed Sign-off Rule
+
+| Field | Value |
+|---|---|
+| Principle | GT letters: one paragraph per bullet question (answered in the question's order); formal sign-off is `Yours faithfully` when the recipient is unknown, `Yours sincerely` when known |
+| Agreement | ✅ Matt + Joe (Simon: not addressed) |
+| Matt | 2026-06-19: each bullet point gets its own paragraph; Dear Sir/Madam → Yours faithfully + full name; Dear + name → Yours sincerely |
+| Joe | 2026-07-16 (first Task 1 lesson): "one paragraph about each question", answer in order, new question = new paragraph; same faithfully/sincerely rule; adds Opening greeting (`I hope this letter finds you well.`) and Closing line (`I hope to hear from you soon.`) |
+| Sprint implication | Task 1 letter drills can use the Opening/Middle/Closing structure without qualification — both personal coaches teach the same skeleton |
 
 ---
 

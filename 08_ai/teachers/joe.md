@@ -5,7 +5,7 @@
 | Skill | Speaking (Parts 1, 2, 3) via italki 1:1 lessons; **Writing via both a public video course AND 1:1 lessons (both added 2026-07-02)** |
 | Platform | italki (speaking + now writing 1:1 lessons) · video course (writing, public) |
 | Speaking lessons recorded | 2026-06-01, 2026-06-15, 2026-06-22 |
-| Writing lessons recorded | 2026-07-02 (first one, 1:1 — first transcript attempt was unusable ASR noise, re-collected with speaker labels; note the clean version's diarization still splits Connie's turns across multiple speaker IDs — Speaker 3 = Joe, all others = Connie) |
+| Writing lessons recorded | 2026-07-02 (first one, 1:1 — first transcript attempt was unusable ASR noise, re-collected with speaker labels; note the clean version's diarization still splits Connie's turns across multiple speaker IDs — Speaker 3 = Joe, all others = Connie), 2026-07-09 (Task 2 — body/intro matching, example triple-check), 2026-07-16 (**first Task 1 GT letter lesson** — objective, formal/informal/neutral, Opening/Middle/Closing structure; noisy ASR, Speaker 3 = Joe, Speaker 2 = Connie) |
 | Note | 2026-05-25 trial and 2026-06-08 were taught by Matt — see matt.md |
 | Writing course (public video) | Verbatim transcripts stored in `10_knowledge_base/coaches/joe/originals/`; distilled principles in `10_knowledge_base/coaches/joe/distilled.md` § Writing — Anti-Pattern Course. As of 2026-07-02: 2 of 16 topics detailed (Forcing Vocabulary, Using a Template) + a Band Descriptors overview. |
 
@@ -50,6 +50,14 @@ The goal is to transmit a large amount of natural information. Simple language t
 - Give longer answers where possible — expand on reasoning.
 - Do not reach for complex structures or memorised phrases — the examiner can detect this and it reduces the score.
 - Express a genuine opinion; do not overcomplicate the reasoning.
+
+### Writing — Task 1 GT Letters (added 2026-07-16)
+
+- Objective = clear and precise description; clear communication above all — the examiner should never struggle to understand. Same objective for GT and Academic.
+- Score-lowering behaviours (same logic as his Task 2 anti-patterns): rephrasing the prompt / changing tenses to look complex; long sentences without a reason to be complex; complex vocabulary that obscures meaning.
+- Letter type (formal / informal / neutral) is decided by the **situation**, not the organisation — complaint letters are normally formal.
+- Structure: Opening (salutation `Dear Sir or Madam,` / `To whom it may concern,` + greeting `I hope this letter finds you well.`) → Middle (one paragraph per bullet question, answered **in order**; new question = new paragraph, same question = same paragraph) → Closing (`I hope to hear from you soon.` + `Yours faithfully,` for strangers / `Yours sincerely,` for known recipients).
+- Paragraph length doesn't matter; what matters is that each paragraph's main idea is supported (explanation + example) — he explicitly denied ever asking for equal-length paragraphs.
 
 ---
 

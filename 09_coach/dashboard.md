@@ -19,7 +19,7 @@
 | Secondary goal | Listening — S4 verification method |
 | Matt assessment | Confirmed 2026-07-15, 21:15 (Wed, Week 2) |
 | Weekly commute | Podcast (45 min) + Speaking practice (45 min) |
-| Weekly evenings | Writing (Mon/Wed) · Listening (Tue) · Joe lesson (Thu) · Matt lesson/prep (Fri) — **Week 1 (7/6–7/12) overridden by real Joe offline deadlines, see sprint-001.md §5** |
+| Weekly evenings | Writing (Mon/Wed) · Listening (Tue) · Joe lesson (Thu) · Matt lesson/prep (Fri) — **Week 1 (7/6–7/12) overridden by real Joe offline deadlines, see sprint-001.md §5** · ⚠️ **自 Sprint-002 起（Connie 指定 2026-07-18，TEMPLATE.md v1.2）：週五＝運動＋休息，不排任務或死線；italki 上課當天（Matt 週三、Joe 週四）不排其他進度，週六 Joe 課例外 → 可排練習的晚上＝週一、週二（＋週六）** |
 | Sunday | Full Mock + error analysis |
 
 Full plan: [`sprints/sprint-001.md`](sprints/sprint-001.md)

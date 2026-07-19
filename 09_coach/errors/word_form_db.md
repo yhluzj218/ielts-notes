@@ -59,14 +59,15 @@
 - **Evidence:** `06_error_database/error_log.md` · `02_writing/task2/feedback/useful-subjects_2026-07-13.md`
 
 ### W006 — Nationality adjective vs country noun in compound
-- **Pattern:** Country name (noun) cannot modify another noun directly; use nationality adjective
-- **Error → Correct:** `a colony of Dutch and Japan` → `a Dutch and Japanese colony`
-- **Skills:** speaking
-- **Confidence:** Medium
+- **Pattern:** Country name (noun) cannot modify another noun directly; use nationality adjective — confusion runs both directions (adjective used as place name too)
+- **Error → Correct:** `a colony of Dutch and Japan` → `a Dutch and Japanese colony`; `happens every year in Asian` → `in Asia`
+- **Skills:** both
+- **Confidence:** High
 - **First Seen:** 2026-06-01
-- **Count:** 2
+- **Count:** 3
+- **Last Seen:** 2026-07-19
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md` · `01_lessons/speaking/speaking-lesson_2026-06-08.md`
+- **Evidence:** `06_error_database/error_log.md` · `01_lessons/speaking/speaking-lesson_2026-06-08.md` · `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md`
 
 ### W007 — `success` (noun) vs `succeed` (verb)
 - **Pattern:** After `will`, need a verb not a noun
@@ -87,6 +88,26 @@
 - **Count:** 1
 - **Status:** Active (pending second occurrence)
 - **Evidence:** `06_error_database/error_log.md`
+
+### W009 — Abstract noun used as modifier where adjective form exists
+- **Pattern:** Noun placed before another noun where English requires the adjective form (generalisation of W004/W006; distinct from valid noun-noun compounds)
+- **Error → Correct:** `a contrast weather condition` → `a contrasting climate`; `biology diversity` → `biological diversity`; `hot and humidity environment` → `hot and humid environments`
+- **Skills:** writing
+- **Confidence:** Low
+- **First Seen:** 2026-07-19（單篇 3 個不同單字、同一模式；相關前例見 W004 loyalty、W006 Japan——模式層級已跨 session，但依規則先以本篇為第 1 次計）
+- **Count:** 1
+- **Status:** Active (pending second occurrence)
+- **Evidence:** `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md`
+
+### W010 — Adjective used where adverb is required
+- **Pattern:** Verb or adjective modified by a bare adjective instead of the `-ly` adverb (reverse direction of W005)
+- **Error → Correct:** `who desperate want to escape` → `desperately want`; `The oven was extreme hot` → `extremely hot`
+- **Skills:** writing
+- **Confidence:** Low
+- **First Seen:** 2026-07-19（同日兩篇各 1 處：T2 essay + T1 letter）
+- **Count:** 2
+- **Status:** Active
+- **Evidence:** `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md` · `02_writing/task1/feedback/supermarket-accident_2026-07-19.md`
 
 ---
 

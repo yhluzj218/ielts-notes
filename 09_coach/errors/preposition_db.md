@@ -44,14 +44,15 @@ Same as grammar_db.md. IDs use prefix P.
 - **Evidence:** `06_error_database/error_log.md` · `01_lessons/writing/writing-lesson_2026-06-19.md`
 
 ### P004 — `on social media` (not `in social medium`)
-- **Pattern:** Platform/medium uses `on`; `medium` (singular) is also wrong — use `media`
-- **Error → Correct:** `in social medium` → `on social media`
+- **Pattern:** Platform/medium uses `on`; `medium` (singular) vs `media` (plural) confusion both directions
+- **Error → Correct:** `in social medium` → `on social media`; `a common media to carry diseases` → `a common medium for carrying diseases`
 - **Skills:** writing
 - **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 3+
+- **Count:** 4
+- **Last Seen:** 2026-07-19
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md`
+- **Evidence:** `06_error_database/error_log.md` · `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md`
 
 ### P005 — `request` (no `for`)
 - **Pattern:** `request` is a transitive verb; does not take `for`
@@ -64,14 +65,15 @@ Same as grammar_db.md. IDs use prefix P.
 - **Evidence:** `06_error_database/error_log.md`
 
 ### P006 — `as a result` / `as a result of`
-- **Pattern:** Correct form is `as a result`; `in a result of` does not exist
-- **Error → Correct:** `in a result of` → `as a result of`
+- **Pattern:** Correct form is `as a result`; `in a result of` / `as the result of it` do not exist
+- **Error → Correct:** `in a result of` → `as a result of`; `As the result of it,` → `As a result,`
 - **Skills:** writing
-- **Confidence:** Medium
+- **Confidence:** High
 - **First Seen:** 2026-06-19
-- **Count:** 2
+- **Count:** 3
+- **Last Seen:** 2026-07-19
 - **Status:** Active
-- **Evidence:** `06_error_database/error_log.md`
+- **Evidence:** `06_error_database/error_log.md` · `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md`
 
 ### P007 — `at a similar age`
 - **Pattern:** Age uses preposition `at`

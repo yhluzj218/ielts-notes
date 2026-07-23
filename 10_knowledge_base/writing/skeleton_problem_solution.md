@@ -1,6 +1,6 @@
 # Skeleton — Problem + Solution
 
-> Last updated: 2026-07-01
+> Last updated: 2026-07-23
 
 ---
 
@@ -50,6 +50,28 @@ Concl:   Restate
 **何時用：** 解法不是針對某一個原因，而是同時解決兩個原因。
 
 **⚠️ 注意：** 如果 Solution B 只能解決 Cause 2，用 Variation A 更清楚，不要用這個結構。
+
+---
+
+## Variation C — Single Pair（單一問題、單一解法，各自獨立展開）
+
+只處理**一組** problem-solution，不是兩組。每個 body 是一個完整的 Point → Explain →
+Example 段落，分別對應「這個問題」和「這個問題的解法」。
+
+```
+Intro:   Introduce the topic + Problem（點名一個問題）+ Solution（點名一個解法）
+Body 1:  Problem（陳述問題 → 解釋為什麼是問題 → 舉例）
+Body 2:  Solution（陳述解法 → 解釋怎麼解決 → 舉例）
+Concl:   Restate 整體觀點
+```
+
+**何時用：** 題目沒有硬性要求「多個原因/多個解法」時，選一個清楚、好寫的 problem 即可
+——**沒有「錯的」problem，選什麼都可以，重點是簡單好寫**，不要為了看起來豐富而硬湊
+兩個原因。
+
+**來源：** Joe，寫作課 2026-07-23，動物園題目現場示範（`01_lessons/writing/writing-lesson_2026-07-23.md`）。示範內容：Problem = 動物產生的排泄物（waste produced by
+the animals）→ Explain = 造成社區異味（smells bad for the neighborhood）；Solution =
+立法加強廢棄物管理（pass a law for better waste management）。
 
 ---
 

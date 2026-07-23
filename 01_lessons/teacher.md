@@ -4,7 +4,7 @@
 
 ### Joe — 口說老師，**自 2026-07-02 起也教寫作**
 - 口說授課：6/01（初始評估課）、6/15、6/22
-- 寫作授課：7/02（第一堂，一對一課，逐字稿分軌錯誤把我拆成好幾個 speaker 編號）、7/09、7/16（第一堂 Task 1 GT 信件課）
+- 寫作授課：7/02（第一堂，一對一課，逐字稿分軌錯誤把我拆成好幾個 speaker 編號）、7/09、7/16（第一堂 Task 1 GT 信件課）、7/23（Opinion + Problem and Solution 型結構複習與 skeleton 練習）
 - 教學重點（口說）：自然溝通、不背稿不看 IELTS 社媒、用題目本身架 Part 2 結構、don't overthink
 - 教學重點（寫作）：Task 2 目標是清楚溝通立場+理由（不是列想法）、不刻意硬塞詞彙、不背誦連接詞組合、linking words 不等於連貫、不要只用改寫題目當開頭
 - 也有公開影片課程（"Things That Lower Your Score"系列），逐字稿與知識整理在 `10_knowledge_base/coaches/joe/`
@@ -235,6 +235,14 @@
 - 我問 Joe 是不是說過每段要平均分配 → Joe 明確否認：「The length of paragraphs doesn't matter.」
 - 他上堂課（Task 2）講的重點是：每段的 main idea 必須有 **explanation + example** 支撐——不是段落等長。
 - ⚠️ 我可能把 Matt 2026-06-26 的「每段份量大致相當」記成 Joe 說的。兩位老師說法有差異（Matt 談份量均衡、Joe 說長度不重要只看支撐），已記入 `10_knowledge_base/conflicts.md` 待我決定怎麼採用。
+
+### Problem and Solution 型：Type 判斷流程複習 + 新 variation（Joe，寫作課，2026-07-23）
+- 固定流程複習：拿到題目先判斷 **type**，不是先想內容。Opinion 型流程：Type → Opinion → 兩個支持的 Reasons；Introduction 三件事＝Introduce topic → Opinion → Reasons。
+- **Problem and Solution vs Two-part 的差異，Joe 本人口頭確認**：Two-part 的兩個問題**沒有關聯**；Problem and Solution 是先講 problem 再講對應的 solution，兩者有因果關係。（與知識庫既有規則一致，這次是 Joe 第一次直接口頭確認，非新規則。）
+- **新 variation（單一 problem + 單一 solution，各自獨立展開）**：Body 1 = 一個 Problem（陳述→解釋為什麼是問題→例子）；Body 2 = 對應的 Solution（陳述→解釋怎麼解決→例子）。只處理一組，不是兩組。已存為 `10_knowledge_base/writing/skeleton_problem_solution.md` Variation C。
+- **選題原則**：「沒有錯的 problem，選什麼都可以，重點是簡單好寫」（"just keep it simple"）——呼應 Joe 一貫「不為複雜而複雜」原則，這次套用在選題而非選詞彙上。
+- 課堂練習（動物園題）：我第一次選的 problem 太籠統（"surrounding area dirty"，沒說動物做了什麼）→ Joe 糾正要說清楚動物做了什麼造成問題。修正後：Problem＝動物排泄物（waste produced by the animals）→ 造成社區異味；Solution＝立法加強廢棄物管理。
+- 完整逐字稿筆記：`01_lessons/writing/writing-lesson_2026-07-23.md`（⚠️ ASR 品質差，大量重複填充詞，未列入 error DB 逐句糾錯）。
 
 ### 考場時間分配練習（Joe 推薦的資源，非 Joe 原創內容，2026-07-02）
 ⚠️ 這不是 Joe 自己講的內容，是 Joe 推薦給我的一份 IELTS 資源/範例，來源不是 Joe 本人。

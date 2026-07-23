@@ -115,3 +115,46 @@ Connie 交給 Joe 的版本已自行修正 **yesterday、oven、refreshments、f
 3. 開頭學一次就好：陌生人 = `Dear Sir or Madam,` ↔ `Yours faithfully,` 成對出現。
 
 **建議下一步**：把拼字和上面的修正改完，交給 Joe。結構他不會有意見——這封的段落配置就是他 7/16 課堂教的標準版。
+
+---
+
+## Joe 官方評分（2026-07-22 Writing Assessment，影片 + 評分表）
+
+> ⚠️ 評分表截圖只到 Coherence and Cohesion 就中斷，Lexical Resource、Grammatical Range & Accuracy、Overall Band、Part B 評語尚未提供。以下只記錄已確認的項目，其餘留白待補。
+
+### Task Response — 全部 7
+
+| 檢查項 | Band |
+|---|---|
+| Is the task more than 150 words? | 7 |
+| Is there an introduction and body paragraphs? | 7 |
+| Are all the key details described clearly? | 7 |
+| Is the chart or topic introduced and described? | 7 |
+| Is there a brief overview? | 7 |
+
+### Coherence and Cohesion — 已知兩項皆 7（表格未截完）
+
+| 檢查項 | Band |
+|---|---|
+| Are the paragraphs clear and well constructed? | 7 |
+| Are the sentences easy to read and clear? | 7 |
+
+**與 AI 批改的對照**：AI 估計 TR=7、CC=7，與 Joe 官方評分表完全一致——結構判斷準確。
+
+### 影片口頭評語摘要（同一次批改的逐字稿）
+
+- Prompt 1、Prompt 2 都有答到（"you answered prompt one... and you answered prompt two"）
+- 結構整體 "pretty good"，intro + body paragraphs 對應題目要求
+- **主要扣分點：拼字**（"mainly just the spelling is the reason I can't do it seven"）
+- Grammar 口頭給了 **6 分**（"give me six of that... yep, six"），提到 verb tenses and subject-verb agreement 有檢查過、算好，但 continuous/progressive tenses 的錯誤數要再降才能到 7（"just for seven it needs to have fewer [continuous tense mistakes]"）
+- 提醒加強：ING / continuous tenses、punctuation（"could be a little bit better"）、first language translation 痕跡、precise vocabulary（"could be a little bit better"）
+- 沒有鼓勵背更難的字——扣分原因明確指向拼字與時態錯誤數量，不是詞彙量
+
+### 待補
+
+- Lexical Resource band
+- Grammatical Range & Accuracy band（口頭已知 6，待表格確認）
+- Overall Band
+- Part B 書面評語（如果有）
+
+有完整截圖或照片時請提供，我會補上並更新 `09_coach/performance/writing_db.md` 的 Joe 官方評分列。

@@ -60,6 +60,20 @@ Each conflict entry:
 
 ---
 
+### Conflict: Is the hot-cold-climates question authentic IELTS phrasing?
+
+| Field | Value |
+|---|---|
+| Simon (question source, confirmed by Connie 2026-07-23) | The question — "Some people prefer to live in hot climates, whereas others love the lifestyle in countries with cold climates. Discuss both views and explain which climate you prefer." — came from Simon, a source this project otherwise treats as reliable for authentic, reader-reported IELTS questions. |
+| Joe (2026-07-23 video feedback) | "They wouldn't write the question this way... they would ask you for your opinion instead. So if you used a website for this question, I wouldn't use it again." — implies the phrasing is not real exam wording. |
+| AI coach's read | "Discuss both views and explain which X you prefer" is a documented real IELTS Task 2 subtype (Discuss Both Views + Preference) — structurally similar to real questions like "Some people prefer X, others prefer Y. Which do you prefer?" It's plausible Joe is reacting to an unfamiliar phrasing convention rather than the question being fabricated. This is a read, not a verification — nobody here has checked Simon's original page against this exact wording. |
+| Confidence | Low — one coach's offhand comment vs. an untested assumption about a trusted source. Genuinely unresolved, not leaning toward "Simon is obviously right" by default. |
+| Discovered | 2026-07-23, `02_writing/task2/feedback/hot-cold-climates_2026-07-19.md` |
+| Decision needed | Do you want to (a) keep using Simon's questions as-is and treat Joe's comment as a one-off, (b) double-check this specific question against Simon's original page/source before reusing it, or (c) ask Joe directly what "how they'd write it" would look like, to see if it's a real disagreement or just his phrasing preference? |
+| Resolution | Pending your decision |
+
+---
+
 ## Pending Clarifications (Gaps, Not Conflicts)
 
 These are areas where one coach has addressed a topic but others have not — not confirmed disagreements.

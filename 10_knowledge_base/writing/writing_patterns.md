@@ -146,6 +146,12 @@ Use this only when both solutions genuinely address both causes.
 - [ ] Does it name the **solutions** component?
 - [ ] Is it specific enough? (not just "I will discuss...")
 
+**Variation C — single pair (Joe, 2026-07-23):** when the question doesn't force
+multiple causes/solutions, one clearly-explained problem + its solution (each its
+own fully developed body paragraph — Point → Explain → Example) is simpler and
+equally valid. "There's no wrong problem — just keep it simple." Full detail:
+`10_knowledge_base/writing/skeleton_problem_solution.md` Variation C.
+
 ---
 
 ### 4.4 Two-part Question

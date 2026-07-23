@@ -543,37 +543,42 @@ Recover one missed session only. If more than one was missed, choose the highest
 
 ## 10. Sprint Retrospective Questions
 
-Fill in on Sat 7/18 (or the first evening after the sprint ends).
+> **Filled in 2026-07-20 (Mon), one day late — Sat 7/18 was consumed by the two Joe
+> essays + lesson.** Sun 7/19 Full Mock was skipped a second time (essays written
+> instead, see Evidence Log 7/19 ×2) and **Connie decided 2026-07-20 not to
+> reschedule it** — sprint closes with this gap accepted rather than chased further.
 
 ### Method Check
 
 | Question | Answer |
 |---|---|
-| Can I identify question type correctly before planning? | always / mostly / sometimes / no |
-| Do I write the skeleton before every essay? | always / mostly / sometimes / forgot |
-| Do my body paragraphs reach result/consequence level? | always / mostly / sometimes / no |
-| Did I use transcript analysis after every S4 session? | both / once / skipped both |
-| Did I avoid editing during drafting? | always / mostly / still editing |
-| Did the weekly rhythm feel sustainable? | yes / mostly yes / too heavy / too light |
+| Can I identify question type correctly before planning? | **always** — no misidentification logged across 5 essays this sprint (company-size, celebrity-privacy, useful-subjects, hot-cold-climates, supermarket-accident letter) |
+| Do I write the skeleton before every essay? | **mostly** — required by every session plan; not independently verified each time, but structure quality (TR/CC 6.5–7 across the sprint) is consistent with it |
+| Do my body paragraphs reach result/consequence level? | **mostly → always by sprint end** — Point→Explain→Example→Result chain confirmed working from 7/11 (celebrity-privacy) onward; Joe's 7/16 official feedback and the 7/19 hot-cold-climates essay both confirm it reproduces on new topics without re-teaching |
+| Did I use transcript analysis after every S4 session? | **skipped both** — zero S4 sessions ran inside this sprint's window (7/6–7/19); the only S4 drill on record (6/30, 4/10) predates the sprint |
+| Did I avoid editing during drafting? | **mostly, from 7/15 onward** — Matt's 7/15 lesson named "no write-delete loops" as new advice, implying it wasn't yet the habit before that; no contrary evidence logged after |
+| Did the weekly rhythm feel sustainable? | **too heavy** — Week 1 already needed a full rebuild around real Joe deadlines; Week 2 needed a second reschedule (7/12) plus two new fixed rules added mid-sprint (Fri = rest, no extra tasks on lesson days) |
 
 ### Progress Check
 
 | Measurable | Before Sprint | After Sprint |
 |---|---|---|
-| S4 score (most recent) | 5.1/10 avg | (fill in after Mock #2) |
-| Most common S4 error type | unknown | (fill in after Tue sessions) |
-| Body paragraph chain completion | Low | always / mostly / sometimes |
-| Full timed essay completed | 0 | 1 (Wed 7/15) |
+| S4 score (most recent) | 5.1/10 avg | **No new data — 0 S4 sessions ran this sprint; still the profile's oldest number** |
+| Most common S4 error type | unknown | **Still unknown — no session run to classify** |
+| Body paragraph chain completion | Low | **mostly** (see Method Check above) |
+| Full timed essay completed | 0 | **5 full pieces** (4× Task 2 + 1× Task 1 letter) — far above the original target of 1, though most were finished 1–2 days after their planned slot rather than in the planned timed block |
+| Writing band trend | 5.5–6.0 self-graded | **6.0–6.5, converging with Joe's official 6/6.5–6.5** — structure (TR/CC) now reliably ≥6.5–7; GRA/LR stuck at 6, capped by mistake density (G007 ×8, spelling, articles, word-form), not by structure or vocabulary |
 
 ### Next Sprint Inputs
 
 Check each that applies:
 
-- [ ] Writing still too slow → more D3 full essays in Sprint-002
-- [ ] Matt flagged Task 1 register → add Task 1 letters to Sprint-002
-- [ ] Same S4 error type appeared twice → keep S4 as secondary target in Sprint-002
-- [ ] Grammar error appeared 3+ times → add targeted drill to Sprint-002
-- [ ] Joe flagged Part 2 stamina → add to Sprint-002 speaking target
+- [ ] Writing still too slow → more D3 full essays in Sprint-002 — not the bottleneck this sprint (5 pieces produced); the gap is mistake density, not speed
+- [ ] Matt flagged Task 1 register → add Task 1 letters to Sprint-002 — Joe taught Task 1 this sprint instead; no Matt flag
+- [x] **Same S4 error type appeared twice → keep S4 as secondary target in Sprint-002** — technically no new data (0 sessions), but S4 remains the weakest section overall (5.1/10) with zero sprint evidence; carrying forward, not re-triggering from new errors
+- [x] **Grammar error appeared 3+ times → add targeted drill to Sprint-002** — G007 (plural subject + singular verb) now Count 8 and escalating in density per essay; P006, W006, G014 all reached High confidence this sprint
+- [ ] Joe flagged Part 2 stamina → add to Sprint-002 speaking target — no speaking lesson data this sprint (Joe taught writing both sessions)
+- [x] **New: post-writing error-scan pass must become unconditional** — 7/19 evidence shows it worked when done (T1 letter: caught all 4 slip-errors) but was skipped entirely on the same-day T2 essay; this is now a habit-formation target, not a knowledge gap
 - [x] **Fixed deliverable (added 2026-07-15): Matt homework due Wed 7/29 lesson — 1× Task 1 + 1× Task 2（廣告題，positive/negative development，題目在 Matt 文件最上方）。與 Joe 的題目不同，必須各寫各的 → Sprint-002 Week 1 要排進這兩篇**
 - [x] **Booked lessons for Sprint-002 window (added 2026-07-15): Joe Thu 7/23 21:45 · Joe Sat 7/25 11:45 · Matt Wed 7/29 21:15（Matt 改為隔週三；下一次 8/12）**
 - [x] **Fixed schedule rule (added 2026-07-18, Connie 指定): 週五＝運動＋休息，Sprint-002 起週五不排任何練習或死線；落在週五的老師死線提前到週四以前。已寫入 sprints/TEMPLATE.md v1.1**

@@ -13,7 +13,8 @@
 
 | Sprint | Duration | Goal | Status | Assessment Point |
 |---|---|---|---|---|
-| [Sprint-001](sprint-001.md) | 2026-07-06 — 2026-07-19 (restarted 2026-07-04; original 6/29–7/5 discarded, nothing logged) | Fix writing method (question type + body development) + S4 listening | Active | Matt lesson 2026-07-15 |
+| [Sprint-001](sprint-001.md) | 2026-07-06 — 2026-07-19 (restarted 2026-07-04; original 6/29–7/5 discarded, nothing logged) | Fix writing method (question type + body development) + S4 listening | Completed | Matt lesson 2026-07-15 |
+| [Sprint-002](sprint-002.md) | 2026-07-20 — 2026-08-02 | Make the post-writing error-scan pass unconditional (G007/articles/spelling/word-form) + restore S4 listening data volume | Active | Matt lesson 2026-07-29 · Full Mock 2026-08-02 |
 
 ## Theme Sprints
 
